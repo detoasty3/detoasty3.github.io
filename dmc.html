@@ -3,44 +3,41 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <title> DeToasty3's Brilliant Site</title>
   <style>
-    nav {
-      display:grid;
-      grid-template-columns:1fr 1fr 1fr 1fr;
-      border:1px solid black;
-      height:50px;
-      background-color: lightblue;
-      position: fixed;
-      width: 100%;
-      top: 0;
-    }
-    a {
-      text-decoration: none;
-    }
-    a:visited {
-     color:black; 
-    }
-    nav li {
-      list-style:none;
-      margin:auto;
-    }
-    input {
-      background-color:lightblue;
-    }
-    input:active {
-      background-color:blue;
-      color:white;
-    }
-    .content {
-      border:1px solid black;
-      border-radius:25px;
-    }
-    input {
-      border:none;
-    }
-    .subcont {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-    }
+   body, html {
+  min-height: 100vh;
+}
+
+.textcontainer {
+  margin: auto;
+  max-width: 960px;
+  padding: 32px;
+  font-size: 16px;
+}
+
+/* Custom background colors */
+
+.bg-black {
+  background-color: #16181a !important;
+}
+a.bg-black:focus, a.bg-black:hover, button.bg-black:focus, button.bg-black:hover {
+  background-color: #0a0c0e !important;
+}
+
+.bg-light-gray {
+  background-color: #e6eaf0 !important;
+}
+a.bg-light-gray:focus, a.bg-light-gray:hover, button.bg-light-gray:focus, button.bg-light-gray:hover {
+  background-color: #d0dfd7 !important;
+}
+
+/* Custom text colors */
+
+.text-light-blue {
+  color: #4fe3ff !important;
+}
+a.text-light-blue:focus, a.text-light-blue:hover {
+  color: #03b9ff !important;
+}
   </style>
 </head>
   
