@@ -1,65 +1,35 @@
 <!DOCTYPE html>
 <head>
-  <link rel="stylesheet" href="../style.css" type="text/css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  
   <style>
-    #box {
-      display:none;
-      border:1px solid black;
+    nav {
+      display:grid;
+      grid-template-columns:1fr 1fr 1fr 1fr;
+    }
+    nav li {
+      list-style:none;text-align:center;
     }
   </style>
 </head>
   
 <body>
-<h1>h1 Hello World</h1>
-<h2>h2 Hello World</h2>
-<h3>h3 Hello World</h3>
-<h4>h4 Hello World</h4>
-<h5>h5 Hello World</h5>
-<h6>h6 Hello World</h6>
-
-<br>
-<div>hi</div>
-
+<nav>
+  <li>Box Turtle</li>
+  <li>Snapping Turtle</li>
+  <li>About Me</li>
+  <li><input>Totally working search bar</input></li>
+</nav>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Florida_Box_Turtle_Digon3_re-edited.jpg/220px-Florida_Box_Turtle_Digon3_re-edited.jpg">
   <br>
-<div id="box" style="position:absolute;">
-  
-  
-</div>
-  
+
 
   <script>
     $(document).ready(function() {
-    console.log("NOPE");
-      alert("Test");
-    var box = document.getElementById("box");
-    
-    function alert(text){
-      console.log(text);
-      $("#box").css("border:1px solid black;background-color:white;");
-      $("#box").html("<h1> ALERT</h1><br><p>"+text+"</p><br><button id='click'>OK</button>");
-    }
-    alert("TAB");
-    
-      $("#click").click(function() {console.log('test')});
+      alert("Welcome To My Site! If you find any flaws assume my site was hacked by rogue Russians and I have not found out yet.");
       
     });
   </script>
 
-  
-Hello World!
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-head - brain
-body - contents etc
