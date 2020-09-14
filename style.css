@@ -1,3 +1,38 @@
-body {
-    background-color: blue;
-}
+ nav {
+      display:grid;
+      grid-template-columns:1fr 1fr 1fr 1fr;
+      border:1px solid black;
+      height:50px;
+      background-color: lightblue;
+      position: fixed;
+      width: 100%;
+      top: 0;
+    }
+    a {
+      text-decoration: none;
+    }
+    a:visited {
+     color:black; 
+    }
+    nav li {
+      list-style:none;
+      margin:auto;
+    }
+    input {
+      background-color:lightblue;
+    }
+    input:active {
+      background-color:blue;
+      color:white;
+    }
+    .content {
+      border:1px solid black;
+      border-radius:25px;
+    }
+    input {
+      border:none;
+    }
+    .subcont {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
