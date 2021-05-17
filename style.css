@@ -1,38 +1,50 @@
  nav {
-      display:grid;
-      grid-template-columns:1fr 1fr 1fr 1fr;
-      border:1px solid black;
-      height:50px;
-      background-color: lightblue;
-      position: fixed;
-      width: 100%;
-      top: 0;
-    }
-    a {
-      text-decoration: none;
-    }
-    a:visited {
-     color:black; 
-    }
-    nav li {
-      list-style:none;
-      margin:auto;
-    }
-    input {
-      background-color:lightblue;
-    }
-    input:active {
-      background-color:blue;
-      color:white;
-    }
-    .content {
-      border:1px solid black;
-      border-radius:25px;
-    }
-    input {
-      border:none;
-    }
-    .subcont {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-    }
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    border:1px solid black;
+    height:50px;
+    background-color: lightblue;
+    position: fixed;
+    width: 100%;
+    top: 0;
+  }
+  nav a {
+    text-decoration: none;
+  }
+  nav a:visited {
+    color:rgb(43, 113, 160);
+  }
+  a:visited {
+    color:rgb(43, 113, 160);
+  }
+  nav li {
+    list-style:none;
+    margin:auto;
+  }
+  input {
+    background-color:lightblue;
+  }
+  input:active {
+    background-color:blue;
+    color:white;
+  }
+  .content {
+    border:1px solid black;
+    border-radius:25px;
+  }
+  input {
+    border:none;
+  }
+  .subcont {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  div.contest {
+    border: 3px solid blue;
+    background-color: lightblue;
+    display: inline-block;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: auto;
+  }
