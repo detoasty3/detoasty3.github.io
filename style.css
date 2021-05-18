@@ -1,3 +1,13 @@
+
+@font-face {
+   font-family: "Nunitio";
+   src: url("./fonts/Nunito-Regular.ttf");
+ }
+ @font-face {
+   font-family: "Nunitio-Black";
+   src: url("./fonts/Nunito-Black.ttf");
+ }
+
  nav {
     display:grid;
     grid-template-columns:1fr 1fr 1fr 1fr;
@@ -5,8 +15,11 @@
     height:50px;
     background-color: lightblue;
     position: fixed;
-    width: 100%;
+    width: 99%;
     top: 0;
+  }
+  nav * {
+    font-family: "Nunitio-Black" !important;
   }
   nav a {
     text-decoration: none;
@@ -29,8 +42,15 @@
     color:white;
   }
   .content {
-    border:1px solid black;
+    border:3px solid blue;
     border-radius:25px;
+    background-color: lightblue;
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: auto;
+    height: 40%;
+    vertical-align: middle !important;
   }
   input {
     border:none;
@@ -47,4 +67,11 @@
     padding-left: 5px;
     padding-right: 5px;
     width: auto;
+  }
+  img {
+    border: 3px solid blue;
+    border-radius: 5px;
+  }
+  * {
+    font-family: "Nunitio";
   }

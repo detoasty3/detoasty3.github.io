@@ -3,3 +3,4 @@ function alert(text) {
 }
 alert("YOOOO");
 console.log("TES");
+
