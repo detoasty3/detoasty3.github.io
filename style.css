@@ -54,7 +54,7 @@ nav{
   height: 50px;
   background: lightblue;
   border: none;
-  position: fixed;
+  width: 99%;
 }
 
   input {
