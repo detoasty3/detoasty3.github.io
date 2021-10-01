@@ -1,4 +1,3 @@
-
 @font-face {
    font-family: "Nunitio";
    src: url("./fonts/Nunito-Regular.ttf");
@@ -51,7 +50,7 @@ nav{
   line-height: 35px;
   height: 38px;
   margin-top: -8px;
-  background: #82acba;
+  background: #9ac9d9;
   border: none;
   width: 103%;
   margin-left: -8px;
