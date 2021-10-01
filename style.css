@@ -20,9 +20,6 @@
     width: 99%;
     top: 0;
   }*/
-  nav * {
-    font-family: "Nunitio-Black" !important;
-  }
   /* nav a {
     text-decoration: none;
   }
@@ -43,6 +40,7 @@ nav a{
   transition: 0.5s;
   color: white !important;
   text-decoration: none;
+      font-family: "Nunitio-Black" !important;
 }
 nav a:hover{
   background: white !important;
