@@ -49,10 +49,14 @@ nav a:hover{
 }
 nav{
   line-height: 35px;
-  height: 35px;
-  background: lightblue;
+  height: 38px;
+  margin-top: -8px;
+  background: #82acba;
   border: none;
-  width: 99%;
+  width: 103%;
+  margin-left: -8px;
+  overflow: hidden;
+  position: fixed;
 }
 
   input {
