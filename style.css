@@ -40,7 +40,7 @@ nav a{
   transition: 0.5s;
   color: white !important;
   text-decoration: none;
-      font-family: "Nunitio-Black" !important;
+      font-family: "Nunitio" !important;
 }
 nav a:hover{
   background: white !important;
