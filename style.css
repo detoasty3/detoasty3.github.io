@@ -19,11 +19,11 @@
     position: fixed;
     width: 99%;
     top: 0;
-  }
+  }*/
   nav * {
     font-family: "Nunitio-Black" !important;
   }
-  nav a {
+  /* nav a {
     text-decoration: none;
   }
   nav a:visited {
@@ -42,7 +42,6 @@ nav a{
   padding: 10px;
   transition: 0.5s;
   color: white;
-  font-family: 'Karla', sans-serif;
   text-decoration: none;
 }
 nav a:hover{
