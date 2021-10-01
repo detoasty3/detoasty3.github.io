@@ -8,7 +8,7 @@
    src: url("./fonts/Nunito-Black.ttf");
  }
 
- nav {
+ ?*nav {
     display:grid;
     grid-template-columns:1fr 1fr 1fr 1fr;
     border:2px solid black;
@@ -28,14 +28,38 @@
   }
   nav a:visited {
     color:rgb(43, 113, 160);
-  }
+  }*/
   a:visited {
     color:rgb(43, 113, 160);
   }
-  nav li {
+ /* nav li {
     list-style:none;
     margin:auto;
-  }
+  }*/
+
+nav a{
+  font-size: 16px;
+  padding: 10px;
+  transition: 0.5s;
+  color: white;
+  font-family: 'Karla', sans-serif;
+  text-decoration: none;
+}
+nav a:hover{
+  background: white !important;
+  box-shadow: 0px 0px 5px lightgray;
+  color: black;
+}
+nav{
+  line-height: 35px;
+  height: 35px;
+  background: lightblue;
+  top: -5px;
+  left: -6px;
+  border: none;
+  position: fixed;
+}
+
   input {
     background-color:lightblue;
   }
