@@ -1,0 +1,99 @@
+@font-face {
+   font-family: "Nunitio";
+   src: url("./fonts/Nunito-Regular.ttf");
+ }
+ @font-face {
+   font-family: "Nunitio-Black";
+   src: url("./fonts/Nunito-Black.ttf");
+ }
+
+nav a{
+  font-size: 16px;
+  padding: 10px;
+  transition: 0.5s;
+  color: white !important;
+  text-decoration: none;
+      font-family: "Nunitio" !important;
+}
+nav a:hover{
+  background: white !important;
+  box-shadow: 0px 0px 5px lightgray;
+  color: black !important;
+}
+nav{
+  line-height: 35px;
+  height: 38px;
+  margin-top: -8px;
+  background: #f3c2b5;
+  border: none;
+  width: 103%;
+  margin-left: -8px;
+  overflow: hidden;
+  position: fixed;
+}
+
+  input {
+    background-color:lightblue;
+  }
+  input:active {
+    background-color:blue;
+    color:white;
+  }
+  .content {
+    border:3px solid darkblue;
+    border-radius:25px;
+    background-color: lightblue;
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 99%;
+    text-align: left;
+    vertical-align: middle !important;
+  }
+  input {
+    border:none;
+  }
+  .subcont {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  div.contest {
+    border: 3px solid #ea9;
+    background-color: #ffe0d9;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: left;
+    width: 90%;
+  }
+  div.explanation {
+    border: 3px solid  #c1806f;
+    background-color: #ffe0d9;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: left;
+    width: 90%;
+  }
+  .image {
+    border: 3px solid red;
+    border-radius: 5px;
+  }
+  .column {
+    float: left;
+    width: 50%;
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  * {
+    font-family: "Nunitio";
+  }
+a:link{
+color: red;
+}
+a:visited{
+color: #b28484;
+}
