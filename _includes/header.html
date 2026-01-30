@@ -1,5 +1,6 @@
 <header class="site-header" role="banner">
-
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <div class="topnav" id="myTopnav">
       <a href="/">Home</a>
       <a href="https://drive.google.com/file/d/1Y5tWSZhnhxeOzvcF330VzfoMFwUI2Grr">Resume</a>
@@ -7,5 +8,20 @@
       <a href="/dmc">DMC</a>
       <a href="/kmmc">KMMC</a>
       <a href="https://artofproblemsolving.com/community/c2332005">DMC Archives</a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
   </div>
 </header>
+<body>
+  <script>
+  function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+      x.className += " responsive";
+    } else {
+      x.className = "topnav";
+    }
+  }
+  </script>
+</body>
