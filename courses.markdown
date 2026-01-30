@@ -100,7 +100,7 @@ permalink: /courses
 * ACE 254: Economic Systems in Africa (Spring 2022)
 
 <div style="text-align: right;">
-* indicate a graduate course
+* indicates a graduate course
 </div>
 
 
