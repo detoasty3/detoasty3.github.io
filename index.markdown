@@ -4,14 +4,15 @@ title: DeToasty3
 permalink: /
 ---
 
-# DeToasty3
+# DeToasty3's Website
 
 <!--About Me
 =================-->
 
 
-<img src="https://i2.wp.com/betweenusparents.com/wp-content/uploads/2017/01/Pooh-bear-clip-art-winniepooh_1_800_800.jpg?fit=800%2C856" alt="Me" height="250px" style="display: block; margin-left: auto; margin-right: auto;">
+<!-- <img src="https://i2.wp.com/betweenusparents.com/wp-content/uploads/2017/01/Pooh-bear-clip-art-winniepooh_1_800_800.jpg?fit=800%2C856" alt="Me" height="250px" style="display: block; margin-left: auto; margin-right: auto;"> -->
 
+<img src="/favicon-9.png" alt="Me" height="250px" style="display: block; margin-left: auto; margin-right: auto;">
 
 <!-- I am a very sad subpar specimen of a college student whose only interests lie in watching anime and playing video games. I have approximately as many friends as I have brain cells, and would love nothing more than just spending all my days not doing excessively difficult math competitions and instead playing Kirby Super Star. -->
 
