@@ -293,3 +293,12 @@ nav{
   * {
     font-family: "Nunitio";
   }
+
+@media screen and (max-width: 600px) {
+  .nav-links {
+    display: none; /* Hide full menu */
+  }
+  .hamburger-menu {
+    display: block; /* Show hamburger */
+  }
+}
