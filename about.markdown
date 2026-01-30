@@ -81,7 +81,7 @@ May 2023 -- May 2024
 * Graded homework and exams, wrote the homework assignments, and hosted weekly office hours.
 * Taught weekly recitation sections with 5-10 students.
 
-#### **The Grainger College of Engineering** | Urbana, IL
+#### **The Grainger College of Engineering** | Remote
 **Course Assistant for CS 124: Intro to CS I**
 
 January 2022 -- May 2022
@@ -170,7 +170,7 @@ August 2022 -- May 2025
 August 2022 -- May 2025
 * Read about generating functions in combinatorics and algebra in Fall 2022, combinatorial problem solving techniques in Spring 2023, the Union-Closed Sets Conjecture in Fall 2023, the game of Sudoku in relation with graph theory in Spring 2024, quantitative finance in Fall 2024, and data structures and algorithms, focusing on the Gomory-Hu Tree, in Spring 2025.
 
-#### **GT Competitive Math** | Atlanta, GA
+#### **GT Competitive Math** | Remote
 **Founder & Co-President**
 
 May 2023 -- Present
