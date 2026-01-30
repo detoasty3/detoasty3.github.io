@@ -22,6 +22,15 @@ About Me
 
 Hello! My name is Taiki Aiba, a first year master's student at the Georgia Institute of Technology. I am double majoring in Computer Science, with a specialization in Machine Learning, and Mathematics. I also graduated with a triple bachelor's degree from the Georgia Institute of Technology in August 2025 in Computer Science, with concentrations in Intelligence and Systems/Architecture, Mathematics, with concentrations in Discrete Mathematics and Business, and Applied Languages and Intercultural Studies, with a concentration in Japanese. I also finished a minor in Economics.
 
+I used to participate in math competitions a lot. Here are some of my achievements:
+
+* University of Illinois Freshman Math Contest Honorable Mention (2021) (rank 3)
+* Princeton University Mathematics Competition (PUMaC) Division B Individual Finalist (2021) (rank 39)
+* American Invitational Mathematics Examination (AIME) Qualifier (2019, 2020, 2021) (top score 10)
+* USA Mathematical Talent Search (USAMTS) Bronze Medalist (2019, 2021)
+
+I was also an active member on the Art of Problem Solving forums as [DeToasty3](https://artofproblemsolving.com/community/user/324129).
+
 Below is a list of organizations and communities I am currently/was formerly involved with:
 
 ### Computer Science:
@@ -239,12 +248,3 @@ June 2022 -- Present
 * This is a website where students can receive help on work, learn new topics, and even become certified as a volunteer tutor.
 * Certified tutor at Schoolhouse.world since June 2022.
 * Hosted a few sessions, most notably a series on how to write mock AMC problems in 2022.
-
-I used to participate in math competitions a lot. Here are some of my achievements:
-
-* University of Illinois Freshman Math Contest Honorable Mention (2021) (rank 3)
-* Princeton University Mathematics Competition (PUMaC) Division B Individual Finalist (2021) (rank 39)
-* American Invitational Mathematics Examination (AIME) Qualifier (2019, 2020, 2021) (top score 10)
-* USA Mathematical Talent Search (USAMTS) Bronze Medalist (2019, 2021)
-
-I was also an active member on the Art of Problem Solving forums as [DeToasty3](https://artofproblemsolving.com/community/user/324129).
