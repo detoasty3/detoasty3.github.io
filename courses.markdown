@@ -79,6 +79,12 @@ permalink: /courses
 * ECON 4440: Economics of Natural Resources and the Environment (Spring 2025)
 * ECON 4803: Economics of Climate Change (Fall 2022)
 
+#### Business:
+* MGT 3101: Organizational Behavior (Spring 2025)
+* MGT 3000: Financial and Managerial Accounting (Fall 2024)
+* MGT 3078: Finance and Investments (Summer 2024)
+* MGT 3300: Marketing Management I (Summer 2024)
+
 ### University of Illinois Urbana-Champaign
 
 #### Computer Science & Engineering:
