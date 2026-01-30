@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Taiki Aiba's Website
+title: DeToasty3's Brilliant Site
 email: taikiaiba@gmail.com
 description: # this means to ignore newlines until "baseurl:"
   Personal website for DeToasty3; also hosts the De Mathematics Competitions (DMC) mock contest series.
