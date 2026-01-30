@@ -294,20 +294,10 @@ table td { border: 1px solid #e8e8e8; }
     font-family: "Nunitio";
   }
 
-.topnav .icon {
-  display: none;
-}
-
 @media screen and (max-width: 1000px) {
-  .topnav.responsive {position: relative;}
-  .topnav.responsive a.icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  .topnav.responsive a {
-    float: none;
+  .topnav a {display: none;}
+  .topnav a.icon {
     display: block;
-    text-align: left;
+    float: right;
   }
 }
