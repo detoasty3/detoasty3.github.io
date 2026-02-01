@@ -133,7 +133,7 @@ January 2022 -- May 2022
 #### **Competitive Programming @ Tech** | Atlanta, GA
 <p style="margin-bottom: -15px;"></p>
 **Member**<br>
-August 2022 -- May 2027
+August 2022 -- Graduation
 * Participated in weekly practices and attended competitions like ICPC and MAPS since Fall 2022.
 * Competed in the 2022 and 2024 ICPC Southeast Regional competitions.
 * Specialist on the platform [Codeforces](https://codeforces.com/), but am hoping to improve and eventually become a Candidate Master (or better!).
@@ -147,7 +147,7 @@ August 2022 -- May 2027
 #### **Big O Theory Club** | Atlanta, GA
 <p style="margin-bottom: -15px;"></p>
 **Member**<br>
-August 2023 -- May 2027
+August 2023 -- Graduation
 * This is a club where members can volunteer to present topics on theoretical computer science and mathematics.
 * Occasionally attended meetings since Fall 2023.
 
@@ -173,7 +173,7 @@ January 2025 -- Present
 #### **Georgia Tech College of Sciences** | Atlanta, GA
 <p style="margin-bottom: -15px;"></p>
 **Research Assistant**<br>
-August 2023 -- Present
+August 2023 -- Graduation
 * Work in the Georgia Tech School of Mathematics under Dr. Ernie Croot.
 * In 2023-2024, we explored bijections of counting problems to spanning trees and explored ways to use the Matrix-Tree Theorem to strengthen known bounds on the counting of configurations.
 * In 2024-2025, we worked on finding asymptotic upper and lower bounds on the size of a maximal induced forest in grid graphs over a result by Noga Alon from 2001.
@@ -285,7 +285,7 @@ May 2023 -- Present
 #### **Club Math** | Atlanta, GA
 <p style="margin-bottom: -15px;"></p>
 **Member**<br>
-August 2022 -- May 2027
+August 2022 -- Graduation
 * This is a social club that comes up with problems to solve every week.
 * Occasionally attended meetings since Fall 2022.
 
@@ -349,7 +349,7 @@ September 2020 -- Present
 #### **[Georgia Tech High School Math Day](https://hsmd.math.gatech.edu)** | Atlanta, GA
 <p style="margin-bottom: -15px;"></p>
 **Student Volunteer**<br>
-August 2022 -- May 2027
+August 2022 -- Graduation
 * This is a math contest hosted to high school students mostly centered around Georgia.
 * Since the 2023 HSMD, served as a problem writer and a volunteer on the day of the contest.
 * Wrote problems for the contest, proctored, collected papers, and graded submissions.
@@ -375,7 +375,7 @@ July 2024 -- Present
 #### **[Japan Student Association](https://linktr.ee/gtjsa)** | Atlanta, GA
 <p style="margin-bottom: -15px;"></p>
 **Executive Board Officer, Member**<br>
-August 2022 -- May 2027
+August 2022 -- Graduation
 * Executive Board Officer of JSA from Fall 2023 to Spring 2026.
 * Lead weekly conversation practices to enrich Japanese learners' conversation skills.
 * Assisted in hosting occasional special events related to the Japanese language and culture.
