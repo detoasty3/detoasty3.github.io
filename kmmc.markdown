@@ -42,32 +42,32 @@ Past KMMC Contests
 
 #### KMMC 8A - September 9, 2021 to October 28, 2021
 
-*   Logistics: [Run on AoPS](https://artofproblemsolving.com/community/c594864h2664119)
-*   Forum: [AoPS Forum](https://artofproblemsolving.com/community/c2462561)
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h2664119)
+*   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c2462561)
 *   Papers:
     *   [KMMC 8A Paper](https://detoasty3.github.io/KMMC/2021-2022/2022_KMMC_8A.pdf)
     *   [KMMC 8A Solutions](https://detoasty3.github.io/KMMC/2021-2022/2022_KMMC_8A_Solutions.pdf)
 
 #### KMMC 8B - December 30, 2021 to January 20, 2022
 
-*   Logistics: [Run on AoPS](https://artofproblemsolving.com/community/c594864h2664119)
-*   Forum: [AoPS Forum](https://artofproblemsolving.com/community/c2462561)
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h2664119)
+*   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c2462561)
 *   Papers:
     *   [KMMC 8B Paper](https://detoasty3.github.io/KMMC/2021-2022/2022_KMMC_8B.pdf)
     *   [KMMC 8B Solutions](https://detoasty3.github.io/KMMC/2021-2022/2022_KMMC_8B_Solutions.pdf)
 
 #### KMMC 9 - December 30, 2021 to January 20, 2022
 
-*   Logistics: [Run on AoPS](https://artofproblemsolving.com/community/c594864h2664119)
-*   Forum: [AoPS Forum](https://artofproblemsolving.com/community/c2462561)
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h2664119)
+*   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c2462561)
 *   Papers:
     *   [KMMC 9 Paper](https://detoasty3.github.io/KMMC/2021-2022/2022_KMMC_9.pdf)
     *   [KMMC 9 Solutions](https://detoasty3.github.io/KMMC/2021-2022/2022_KMMC_9_Solutions.pdf)
 
 #### KMMC 10 - October 14, 2021 to December 9, 2021
 
-*   Logistics: [Run on AoPS](https://artofproblemsolving.com/community/c594864h2664119)
-*   Forum: [AoPS Forum](https://artofproblemsolving.com/community/c2462561)
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h2664119)
+*   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c2462561)
 *   Papers:
     *   [KMMC 10 Paper](https://detoasty3.github.io/KMMC/2021-2022/2021_Fall_KMMC_10.pdf)
     *   [KMMC 10 Solutions](https://detoasty3.github.io/KMMC/2021-2022/2021_Fall_KMMC_10_Solutions.pdf)
@@ -80,14 +80,14 @@ Unfortunately, there are no official solutions booklets to the KMMC series in th
 
 #### KMMC 8 - November 9, 2020 to November 28, 2020
 
-*   Logistics: [Run on AoPS](https://artofproblemsolving.com/community/c594864h2077259)
-*   Forum: [AoPS Forum](https://artofproblemsolving.com/community/c1873474)
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h2077259)
+*   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c1873474)
 *   Papers:
     *   [KMMC 8 Paper](https://detoasty3.github.io/KMMC/2020-2021/2020_KMMC_8.pdf)
 
 #### KMMC 10 - February 2, 2021 to March 2, 2021
 
-*   Logistics: [Run on AoPS](https://artofproblemsolving.com/community/c594864h2077259)
-*   Forum: [AoPS Forum](https://artofproblemsolving.com/community/c1873474)
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h2077259)
+*   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c1873474)
 *   Papers:
     *   [KMMC 10 Paper](https://detoasty3.github.io/KMMC/2020-2021/2021_Spring_KMMC_10.pdf)
