@@ -190,6 +190,7 @@ August 2023 -- Present
 <p style="margin-bottom: -15px;"></p>
 **Graduate Research Mentor**<br>
 June 2025 -- August 2025
+* Worked in the Games and Finite Geometry team of the Polymath Jr REU.
 * Mentored 20 undergraduates on a research problem of the real-time card game Quads through weekly reading sessions.
 * Wrote 2 C++ scripts to find the maximum number of quads, one recursive and one using the Moser-de Bruijn sequence.
 * Optimized recursion in Rust, reducing runtime by over 400% via multithreading, specifying targets, and early exiting.
