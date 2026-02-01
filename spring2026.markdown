@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DMC
+title: Spring 2026
 permalink: /spring2026
 ---
 
