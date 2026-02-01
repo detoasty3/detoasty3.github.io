@@ -375,10 +375,10 @@ July 2024 -- Present
 #### **[Japan Student Association](https://linktr.ee/gtjsa)** | Atlanta, GA
 <p style="margin-bottom: -15px;"></p>
 **Executive Board Officer, Member**<br>
-August 2022 -- May 2026
+August 2022 -- Present
 * Executive Board Officer of JSA from Fall 2023 to Spring 2026.
 * Lead weekly conversation practices to enrich Japanese learners' conversation skills.
-* Assist in hosting occasional special events related to the Japanese language and culture.
+* Assisted in hosting occasional special events related to the Japanese language and culture.
 
 <p style="margin-bottom: 15px;"></p>
 
