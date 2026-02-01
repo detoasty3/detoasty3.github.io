@@ -85,6 +85,8 @@ permalink: /courses
 * MGT 3078: Finance and Investments (Summer 2024)
 * MGT 3300: Marketing Management I (Summer 2024)
 
+<p style="margin-bottom: 30px;"></p>
+
 ### University of Illinois Urbana-Champaign
 
 #### Computer Science & Engineering:
