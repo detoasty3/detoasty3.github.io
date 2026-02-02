@@ -41,18 +41,6 @@ Below is a list of organizations and communities I am currently/was formerly inv
 
 #### Computer Science:
 
-#### **Capital One** | McLean, VA
-<p style="margin-bottom: -15px;"></p>
-**Software Engineer Intern**<br>
-June 2026 -- August 2026
-* Incoming for Summer 2026
-
-<p style="margin-bottom: 15px;"></p>
-
----
-
-<p style="margin-bottom: 15px;"></p>
-
 #### **Amazon** | Boston, MA
 <p style="margin-bottom: -15px;"></p>
 **Software Development Engineer Intern**<br>
