@@ -15,7 +15,9 @@ No finals, 3 midterms (25% each), 7-8 HWs (25%)
 
 #### Homework 1 (due 1/29)
 
-**Score TBA**. Pretty doable; problem 2 was dropped and the rest were fairly quick, too.
+**Score: TBA**.
+
+Me on 1/30: Pretty doable; problem 2 was dropped and the rest were fairly quick, too.
 
 Me on 1/29: I finished CS 6515 HW 1 pretty quickly (like 2-3 hours?).
 
@@ -43,7 +45,9 @@ No finals, no midterms, 2 group projects (35% each), 1 exercise (10%), summaries
 
 #### Story Generation Exercise (due 1/25)
 
-**Score TBA**. Really easy. Ask ChatGPT to write a 1500+ word crime mystery and write your review on how it did!
+**Score: TBA**.
+
+Me on 1/30: Really easy. Ask ChatGPT to write a 1500+ word crime mystery and write your review on how it did!
 
 Me on 1/22: I also made progress on my CS 7634 storytelling exercise, where I just told ChatGPT to write a 1500+ word crime mystery. I still have to write my assessment of it, though.
 
@@ -54,7 +58,9 @@ No finals, 2 take-home midterms (10%, 15%), 1 individual final project (with 4 m
 
 #### Milestone 1 (due 1/30)
 
-**Score TBA**. This was pretty easy; 50% was hardcoding one line of code to make it pass one test case and 50% was writing a short journal. We also have to write peer feedback after each milestone, which is lowkey harder than the actual milestone (at least for now).
+**Score: TBA**.
+
+Me on 2/2: This was pretty easy; 50% was hardcoding one line of code to make it pass one test case and 50% was writing a short journal. We also have to write peer feedback after each milestone, which is lowkey harder than the actual milestone (at least for now).
 
 Me on 1/30: I went back to my apartment and did my CS 7637 milestone, which took around 30 minutes at most.
 
@@ -80,11 +86,15 @@ Final exam (25%), 2 midterms (25% each), 11? HWs (25%)
 
 #### Homework 1 (due 1/27)
 
-**9.5/10**. Got a few points taken off on random problems. Part 1 was easy, just copy from the slides. Part 2 required a mini report, which I bluffed but somehow got 4.9/5 on it.
+**Score: 9.5/10**.
+
+Me on 1/30: Got a few points taken off on random problems. Part 1 was easy, just copy from the slides. Part 2 required a mini report, which I bluffed but somehow got 4.9/5 on it.
 
 #### Homework 2 (due 2/1)
 
-**Score TBA**. Once again, part 1 was easy since all of the answers could be found in the slides. Part 2 actually required that we write code in R in order to answer some questions. This part took 3-4 hours, and I'm not even sure if I wrote enough. We'll see after it gets graded, I guess.
+**Score: TBA**.
+
+Me on 2/2: Once again, part 1 was easy since all of the answers could be found in the slides. Part 2 actually required that we write code in R in order to answer some questions. This part took 3-4 hours, and I'm not even sure if I wrote enough. We'll see after it gets graded, I guess.
 
 #### Homework 3 (due 2/10)
 
@@ -112,7 +122,9 @@ Final exam (30%), 2 midterms (20% each), 5-6? HWs (30%)
 
 #### Homework 1 (due 1/28)
 
-**Score TBA**. This took around 5-6 hours and had 6 problems. I thought it would be hard but didn't turn out as bad as expected. Hardest problems were the first and third ones.
+**Score: TBA**.
+
+Me on 1/30: This took around 5-6 hours and had 6 problems. I thought it would be hard but didn't turn out as bad as expected. Hardest problems were the first and third ones.
 
 Me on 1/27: I also finished MATH 6321 HW 1. It took a little bit, but I solved Q1 and Q2 yesterday (though I spent most of the day watching YouTube and goofing off), and Q4, Q5, Q3, and Q6 today, in that order. Q5 in particular was pretty cool, and I had fun solving it.
 
@@ -144,15 +156,17 @@ Final exam (30%), 2 midterms (15% each), 5 HWs (40%)
 
 #### Homework 1 (due 1/23)
 
-**20/20**. The first three problems were standard, the last one was also normal but required some more work (with lin alg knowledge), and the fourth one was the hardest and it took a few hours.
+**Score: 20/20**.
 
-Me on 1/20: I (think I) solved 1/5 problems on MATH 7018 HW 1. It is due at the end of this Friday, so I'll have to step things up.
+Me on 1/30. The first three problems were standard, the last one was also normal but required some more work (with lin alg knowledge), and the fourth one was the hardest and it took a few hours.
 
-Me on 1/21: I solved the first three of five problems on MATH 7018 HW 1, and they honestly weren't too hard. However, the last two seem like a decent step up from those, and it's due on Friday.
+Me on 1/23: I then worked on Q4 of my combo HW, miraculously finishing it after some clever thinking. I then sent it to montresor2329, who didn't point out any flaws upon a cursory glance, so it should be ok, I think.
 
 Me on 1/22: After I woke up, I solved Q5 on my MATH 7018 homework and thought I also solved Q4, but I'm still kind of stuck on the latter. At least I have all of tomorrow to work on it.
 
-Me on 1/23: I then worked on Q4 of my combo HW, miraculously finishing it after some clever thinking. I then sent it to montresor2329, who didn't point out any flaws upon a cursory glance, so it should be ok, I think.
+Me on 1/21: I solved the first three of five problems on MATH 7018 HW 1, and they honestly weren't too hard. However, the last two seem like a decent step up from those, and it's due on Friday.
+
+Me on 1/20: I (think I) solved 1/5 problems on MATH 7018 HW 1. It is due at the end of this Friday, so I'll have to step things up.
 
 #### Homework 2 (due 2/10)
 
