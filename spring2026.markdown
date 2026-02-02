@@ -17,7 +17,7 @@ No finals, 3 midterms (25% each), 7-8 HWs (25%)
 
 **Score: TBA**.
 
-Me on 1/30: Pretty doable; problem 2 was dropped and the rest were fairly quick, too.
+Me on 1/31: Pretty doable; problem 2 was dropped and the rest were fairly quick, too.
 
 Me on 1/29: I finished CS 6515 HW 1 pretty quickly (like 2-3 hours?).
 
@@ -47,7 +47,7 @@ No finals, no midterms, 2 group projects (35% each), 1 exercise (10%), summaries
 
 **Score: TBA**.
 
-Me on 1/30: Really easy. Ask ChatGPT to write a 1500+ word crime mystery and write your review on how it did!
+Me on 1/31: Really easy. Ask ChatGPT to write a 1500+ word crime mystery and write your review on how it did!
 
 Me on 1/22: I made progress on it; I just told ChatGPT to write a 1500+ word crime mystery. I still have to write my assessment of it, though.
 
@@ -88,7 +88,7 @@ Final exam (25%), 2 midterms (25% each), 11? HWs (25%)
 
 **Score: 9.5/10**.
 
-Me on 1/30: Got a few points taken off on random problems. Part 1 was easy, just copy from the slides. Part 2 required a mini report, which I bluffed but somehow got 4.9/5 on it.
+Me on 1/31: Got a few points taken off on random problems. Part 1 was easy, just copy from the slides. Part 2 required a mini report, which I bluffed but somehow got 4.9/5 on it.
 
 #### Homework 2 (due 2/1)
 
@@ -124,7 +124,7 @@ Final exam (30%), 2 midterms (20% each), 5-6? HWs (30%)
 
 **Score: TBA**.
 
-Me on 1/30: This took around 5-6 hours and had 6 problems. I thought it would be hard but didn't turn out as bad as expected. Hardest problems were the first and third ones.
+Me on 1/31: This took around 5-6 hours and had 6 problems. I thought it would be hard but didn't turn out as bad as expected. Hardest problems were the first and third ones.
 
 Me on 1/27: I finished. It took a little bit, but I solved Q1 and Q2 yesterday (though I spent most of the day watching YouTube and goofing off), and Q4, Q5, Q3, and Q6 today, in that order. Q5 in particular was pretty cool, and I had fun solving it.
 
@@ -158,9 +158,9 @@ Final exam (30%), 2 midterms (15% each), 5 HWs (40%)
 
 **Score: 20/20**.
 
-Me on 1/30: I was at Hattie B's with a friend when I got my grade back. I was pleasantly surprised to see it, especially with him watching lol.
+Me on 2/2: I was at Hattie B's with a friend on 1/30 when I got my grade back. I was pleasantly surprised to see it, especially with him watching lol.
 
-Me on 1/30: The first three problems were standard, the last one was also normal but required some more work (with lin alg knowledge), and the fourth one was the hardest and it took a few hours.
+Me on 1/31: The first three problems were standard, the last one was also normal but required some more work (with lin alg knowledge), and the fourth one was the hardest and it took a few hours.
 
 Me on 1/23: I worked on Q4 this morning, miraculously finishing it after some clever thinking. I then sent it to montresor2329, who didn't point out any flaws upon a cursory glance, so it should be ok, I think.
 
