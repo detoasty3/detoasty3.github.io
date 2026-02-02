@@ -158,7 +158,7 @@ Final exam (30%), 2 midterms (15% each), 5 HWs (40%)
 
 **Score: 20/20**.
 
-Me on 1/31: I was at Hattie B's with a friend when I got my grade back. I was pleasantly surprised to see it, especially with him watching lol.
+Me on 1/30: I was at Hattie B's with a friend when I got my grade back. I was pleasantly surprised to see it, especially with him watching lol.
 
 Me on 1/30: The first three problems were standard, the last one was also normal but required some more work (with lin alg knowledge), and the fourth one was the hardest and it took a few hours.
 
