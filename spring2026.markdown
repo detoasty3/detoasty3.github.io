@@ -49,7 +49,7 @@ No finals, no midterms, 2 group projects (35% each), 1 exercise (10%), summaries
 
 Me on 1/30: Really easy. Ask ChatGPT to write a 1500+ word crime mystery and write your review on how it did!
 
-Me on 1/22: I also made progress on my CS 7634 storytelling exercise, where I just told ChatGPT to write a 1500+ word crime mystery. I still have to write my assessment of it, though.
+Me on 1/22: I made progress on it; I just told ChatGPT to write a 1500+ word crime mystery. I still have to write my assessment of it, though.
 
 ### CS 7637: Knowledge-Based AI
 TR 3:30-4:45
@@ -62,7 +62,7 @@ No finals, 2 take-home midterms (10%, 15%), 1 individual final project (with 4 m
 
 Me on 2/2: This was pretty easy; 50% was hardcoding one line of code to make it pass one test case and 50% was writing a short journal. We also have to write peer feedback after each milestone, which is lowkey harder than the actual milestone (at least for now).
 
-Me on 1/30: I went back to my apartment and did my CS 7637 milestone, which took around 30 minutes at most.
+Me on 1/30: I went back to my apartment after hanging out with a friend and did my CS 7637 milestone, which took around 30 minutes at most.
 
 #### Homework 1 (due 2/6)
 
@@ -126,7 +126,7 @@ Final exam (30%), 2 midterms (20% each), 5-6? HWs (30%)
 
 Me on 1/30: This took around 5-6 hours and had 6 problems. I thought it would be hard but didn't turn out as bad as expected. Hardest problems were the first and third ones.
 
-Me on 1/27: I also finished MATH 6321 HW 1. It took a little bit, but I solved Q1 and Q2 yesterday (though I spent most of the day watching YouTube and goofing off), and Q4, Q5, Q3, and Q6 today, in that order. Q5 in particular was pretty cool, and I had fun solving it.
+Me on 1/27: I finished. It took a little bit, but I solved Q1 and Q2 yesterday (though I spent most of the day watching YouTube and goofing off), and Q4, Q5, Q3, and Q6 today, in that order. Q5 in particular was pretty cool, and I had fun solving it.
 
 #### Midterm 1 (2/25)
 
@@ -158,15 +158,15 @@ Final exam (30%), 2 midterms (15% each), 5 HWs (40%)
 
 **Score: 20/20**.
 
-Me on 1/30. The first three problems were standard, the last one was also normal but required some more work (with lin alg knowledge), and the fourth one was the hardest and it took a few hours.
+Me on 1/30: The first three problems were standard, the last one was also normal but required some more work (with lin alg knowledge), and the fourth one was the hardest and it took a few hours.
 
-Me on 1/23: I then worked on Q4 of my combo HW, miraculously finishing it after some clever thinking. I then sent it to montresor2329, who didn't point out any flaws upon a cursory glance, so it should be ok, I think.
+Me on 1/23: I worked on Q4 this morning, miraculously finishing it after some clever thinking. I then sent it to montresor2329, who didn't point out any flaws upon a cursory glance, so it should be ok, I think.
 
-Me on 1/22: After I woke up, I solved Q5 on my MATH 7018 homework and thought I also solved Q4, but I'm still kind of stuck on the latter. At least I have all of tomorrow to work on it.
+Me on 1/22: After I woke up, I solved Q5 and thought I also solved Q4, but I'm still kind of stuck on the latter. At least I have all of tomorrow to work on it.
 
-Me on 1/21: I solved the first three of five problems on MATH 7018 HW 1, and they honestly weren't too hard. However, the last two seem like a decent step up from those, and it's due on Friday.
+Me on 1/21: I solved the first three of five problems, and they honestly weren't too hard. However, the last two seem like a decent step up from those, and it's due on Friday.
 
-Me on 1/20: I (think I) solved 1/5 problems on MATH 7018 HW 1. It is due at the end of this Friday, so I'll have to step things up.
+Me on 1/20: I (think I) solved 1/5 problems on the homework. It is due at the end of this Friday, so I'll have to step things up.
 
 #### Homework 2 (due 2/10)
 
