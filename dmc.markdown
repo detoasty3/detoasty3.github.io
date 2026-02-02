@@ -5,7 +5,7 @@ permalink: /dmc
 ---
 
 
-<img src="https://cdn.artofproblemsolving.com/images/1/6/e/16e42c1d67a5dd49d950f2ec07c685010c77f536.png" alt="DMC Logo" height="150px" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="https://cdn.artofproblemsolving.com/images/1/6/e/16e42c1d67a5dd49d950f2ec07c685010c77f536.png" alt="DMC Logo" height="50%" width="50%" style="display: block; margin-left: auto; margin-right: auto;">
 
 
 What is the DMC?

@@ -5,7 +5,7 @@ permalink: /kmmc
 ---
 
 
-<img src="https://cdn.artofproblemsolving.com/images/8/b/9/8b9f4d0fdb671ca593160746cbdb2dfdc568a39b.png" alt="KMMC Logo" height="150px" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="https://cdn.artofproblemsolving.com/images/8/b/9/8b9f4d0fdb671ca593160746cbdb2dfdc568a39b.png" alt="KMMC Logo" height="50%" width="50%" style="display: block; margin-left: auto; margin-right: auto;">
 
 
 What is the KMMC?
