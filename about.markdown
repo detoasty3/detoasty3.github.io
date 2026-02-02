@@ -218,7 +218,7 @@ June 2024 -- August 2024
 
 #### **Georgia Tech College of Sciences** | Remote
 <p style="margin-bottom: -15px;"></p>
-**Learning Assistant**<br>
+**Learning Assistant for MATH 2551: Multivariable Calculus**<br>
 January 2023 -- May 2023
 * Under Prof. Gregory Mayer in Spring 2023.
 * Assisted high school students in the Distance Math program, hosting weekly office hours and grading homework and exams.
@@ -391,5 +391,5 @@ August 2022 -- Graduation
 **Volunteer Tutor**<br>
 June 2022 -- Present
 * This is a website where students can receive help on work, learn new topics, and even become certified as a volunteer tutor.
-* Certified tutor at Schoolhouse.world since June 2022.
+* Certified tutor at Schoolhouse.world since June 2022 and user since March 2021.
 * Hosted a few sessions, most notably a series on how to write mock AMC problems in 2022.
