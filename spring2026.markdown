@@ -17,6 +17,8 @@ No finals, 3 midterms (25% each), 7-8 HWs (25%)
 
 **Score TBA**. Pretty doable; problem 2 was dropped and the rest were fairly quick, too.
 
+Me on 1/29: I finished CS 6515 (algorithms) HW 1 pretty quickly (like 2-3 hours?).
+
 #### Homework 2 (due 2/5)
 
 **In progress**.
