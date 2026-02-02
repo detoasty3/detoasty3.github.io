@@ -14,10 +14,13 @@ TR 2:00-3:15
 No finals, 3 midterms (25% each), 7-8 HWs (25%)
 
 Homework 1 (due 1/29) - **Score TBA**. Pretty doable; problem 2 was dropped and the rest were fairly quick, too.
+
 Homework 2 (due 2/5) - **In progress**.
 
 Midterm 1 (2/19) - **TBA**.
+
 Midterm 2 (3/19) - **TBA**.
+
 Midterm 3 (4/9) - **TBA**.
 
 
@@ -35,9 +38,11 @@ TR 3:30-4:45
 No finals, 2 take-home midterms (10%, 15%), 1 individual final project (with 4 milestones) (35%), 5 HWs (25%), participation (15%)
 
 RPM Milestone 1 (due 1/30) - **Score TBA**. This was pretty easy; 50% was hardcoding one line of code to make it pass one test case and 50% was writing a short journal. We also have to write peer feedback after each milestone, which is lowkey harder than the actual milestone (at least for now).
+
 Homework 1 (due 2/6) - **In progress**.
 
 Midterm 1 (due 2/27) - **TBA**.
+
 Midterm 2 (due 4/10) - **TBA**.
 
 
@@ -49,11 +54,15 @@ Final exam (25%), 2 midterms (25% each), 11? HWs (25%)
 Final exam period: R 5/7 11:20-2:10
 
 Homework 1 (due 1/27) - **9.5/10**. Got a few points taken off on random problems. Part 1 was easy, just copy from the slides. Part 2 required a mini report, which I bluffed but somehow got 4.9/5 on it.
+
 Homework 2 (due 2/1) - **Score TBA**. Once again, part 1 was easy since all of the answers could be found in the slides. Part 2 actually required that we write code in R in order to answer some questions. This part took 3-4 hours, and I'm not even sure if I wrote enough. We'll see after it gets graded, I guess.
+
 Homework 3 (due 2/10) - **In progress**.
 
 Midterm 1 (2/12) - **TBA**.
+
 Midterm 2 (3/19) - **TBA**.
+
 Final Exam (5/7) - **TBA**.
 
 
@@ -67,7 +76,9 @@ Final exam period: W 5/6 11:20-2:10
 Homework 1 (due 1/28) - This took around 5-6 hours and had 6 problems. I thought it would be hard but didn't turn out as bad as expected. Hardest problems were the first and third ones.
 
 Midterm 1 (2/25) - **TBA**.
+
 Midterm 2 (4/8) - **TBA**.
+
 Final Exam (5/6) - **TBA**.
 
 
@@ -85,8 +96,11 @@ Final exam (30%), 2 midterms (15% each), 5 HWs (40%)
 Final exam period: F 5/1 2:40-5:30
 
 Homework 1 (due 1/23) - **20/20**. The first three problems were standard, the last one was also normal but required some more work (with lin alg knowledge), and the fourth one was the hardest and it took a few hours.
+
 Homework 2 (due 2/10) - **In progress**.
 
 Midterm 1 (2/18) - **TBA**.
+
 Midterm 2 (4/8) - **TBA**.
+
 Final Exam (5/1) - **TBA**.
