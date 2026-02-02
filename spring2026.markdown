@@ -39,7 +39,7 @@ Me on 1/29: I finished CS 6515 HW 1 pretty quickly (like 2-3 hours?).
 ### CS 7634: AI Storytelling in Virtual Worlds
 MW 9:30-10:45
 
-No finals, no midterms, 2 group projects (35% each), 1 Exercise (10%), summaries (20%)
+No finals, no midterms, 2 group projects (35% each), 1 exercise (10%), summaries (20%)
 
 #### Story Generation Exercise (due 1/25)
 
