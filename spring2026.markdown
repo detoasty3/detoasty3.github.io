@@ -92,7 +92,9 @@ Me on 1/31: Got a few points taken off on random problems. Part 1 was easy, just
 
 #### Homework 2 (due 2/1)
 
-**Score: TBA**.
+**Score: 8.5/10**.
+
+Me on 2/3: Welp, I guess I shouldn't have been so confident about part 1. I lost 0.9 points on Q3 and 0.6 points on Q4 since apparently I didn't copy the correct answers from the slides. I'm assuming that he gave me full points on part 2, so that's cool.
 
 Me on 2/2: Once again, part 1 was easy since all of the answers could be found in the slides. Part 2 actually required that we write code in R in order to answer some questions. This part took 3-4 hours, and I'm not even sure if I wrote enough. We'll see after it gets graded, I guess.
 
