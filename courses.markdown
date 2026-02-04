@@ -18,15 +18,12 @@ permalink: /courses
 * *CS 8803: Dynamics to Algorithms: Optimization, Sampling, and Games (Fall 2025)
 * CS 3220: Computer Structures: Hardware/Software Codesign of a Processor (Fall 2024)
 * CS 3300: Introduction to Software Engineering (Fall 2024)
-* CS 3312: Project Implementation (Fall 2024)
 * CS 4290: Advanced Computer Organization (Fall 2024)
 * CS 4510: Automata and Complexity Theory (Summer 2024)
 * ISYE 3133: Engineering Optimization (Summer 2024)
-* CS 3311: Part 1 of a 2 semester project design and implementation sequence conjoined with Tech Communications (Spring 2024)
 * CS 3630: Introduction to Perception and Robotics (Spring 2024)
 * CS 4641: Machine Learning (Spring 2024)
 * CS 4644: Deep Learning (Spring 2024)
-* CS 1100: Freshman Leap Seminar (Fall 2023)
 * CS 3210: Design of Operating Systems (Fall 2023)
 * CS 3511: Design and Analysis of Algorithms, Honors (Fall 2023)
 * CS 3600: Introduction to Artificial Intelligence (Fall 2023)
@@ -55,7 +52,6 @@ permalink: /courses
 * MATH 3406: A Second Course in Linear Algebra (Spring 2023)
 * MATH 4317: Analysis I (Spring 2023)
 * MATH 1564: Linear Algebra with Abstract Vector Spaces (Fall 2022)
-* MATH 4802: Mathematical Problem Solving (Fall 2022)
 
 #### Japanese:
 * *JAPN 6080: Japanese Applied Linguistics for Graduate Students (Fall 2025)
@@ -85,6 +81,19 @@ permalink: /courses
 * MGT 3078: Finance and Investments (Summer 2024)
 * MGT 3300: Marketing Management I (Summer 2024)
 
+#### Other:
+* *CS 8997: Teaching Assistantship (Fall 2025)
+* CS 3312: Project Implementation (Fall 2024)
+* LMC 3431: Technical Communication Approaches (Fall 2024)
+* PHYS 2212: Introductory Physics II (Summer 2024)
+* CS 3311: Part 1 of a 2 semester project design and implementation sequence conjoined with Tech Communications (Spring 2024)
+* LMC 3432: Technical Communication Strategies (Spring 2024)
+* CS 1100: Freshman Leap Seminar (Fall 2023)
+* MATH 4699: Undergraduate Research (Fall 2023)
+* VIP 3601: Vertically Integrated Project: Multidisciplinary project-based team, junior level (Fall 2023)
+* CS 4903: Special Problems (Summer 2023)
+* MATH 4802: Mathematical Problem Solving (Fall 2022)
+
 <p style="margin-bottom: 30px;"></p>
 
 ### University of Illinois Urbana-Champaign
@@ -106,6 +115,14 @@ permalink: /courses
 
 #### Economics:
 * ACE 254: Economic Systems in Africa (Spring 2022)
+
+#### Other:
+* PS 201: US Racial & Ethnic Politics (Summer 2022)
+* CLCV 115: Mythology of Greece and Rome (Winter 2021-22)
+* ENGL 109: Intro to Fiction-ACP (Fall 2021)
+* FSHN 120: Contemporary Nutrition (Fall 2021)
+* LAS 101: Design Your First Year Experience (Fall 2021)
+* SPAN 130: Intermediate Spanish (Fall 2021)
 
 <div style="text-align: right;">
 * indicates a graduate course

@@ -65,7 +65,7 @@ Me on 1/22: I made progress on it; I just told ChatGPT to write a 1500+ word cri
 ### CS 7637: Knowledge-Based AI
 TR 3:30-4:45
 
-No finals, 2 take-home midterms (10%, 15%), 1 individual final project (with 4 milestones) (35%), 5 HWs (25%), participation (15%)
+No finals, 2 take-home midterms (10%, 15%), 1 individual final project (15%), 4 milestones (20%), 5 HWs (25%), participation (15%)
 
 #### Milestone 1 (due 1/30)
 
@@ -160,6 +160,11 @@ Me on 1/27: I finished. It took a little bit, but I solved Q1 and Q2 yesterday (
 MW 11:00-12:15
 
 I have no idea what this class has.
+
+From the class notes:
+
+"I would like for each student to make either one large "project" presentation during the semester or else a number of smaller in class presentations
+roughly equaling a one hour or hour and 10 minute presentation."
 
 
 ### MATH 7018: Probabilistic Methods in Combinatorics
