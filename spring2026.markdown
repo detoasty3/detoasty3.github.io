@@ -49,7 +49,7 @@ No finals, no midterms, 2 group projects (35% each), 1 exercise (10%), summaries
 
 **Score: 10/10**.
 
-Me on 2/3: Yeah, when I saw this grade appear on Canvas, I just silently said ``Oh nice'' to myself.
+Me on 2/3: Yeah, when I saw this grade appear on Canvas, I just silently said "Oh nice" to myself.
 
 Me on 1/31: Really easy. Ask ChatGPT to write a 1500+ word crime mystery and write your review on how it did!
 
