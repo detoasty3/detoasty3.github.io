@@ -25,19 +25,19 @@ Me on 1/29: I finished CS 6515 HW 1 pretty quickly (like 2-3 hours?).
 
 **In progress**.
 
-Me on 2/4: Bro I just spent an hour on Q1 last night, and I can't work out the details... I have an idea, but it's pretty complex.
+Me on 2/4: Bro I just spent an hour on Q1 last night, and I can't work out the details... I have an idea, but it's pretty complex. Q2 seems much more doable, and I think I have an approach that I just need to write up. That leaves Q3 and Q4...
 
 Me on 2/3: Umm, yeah... This is harder than Homework 1. I'm kinda trolling but we'll get through it trust.
 
-#### Midterm 1 (2/19)
+#### Midterm 1 (on 2/19)
 
 **TBA**.
 
-#### Midterm 2 (3/19)
+#### Midterm 2 (on 3/19)
 
 **TBA**.
 
-#### Midterm 3 (4/9)
+#### Midterm 3 (on 4/9)
 
 **TBA**.
 
@@ -56,6 +56,11 @@ Me on 2/3: Yeah, when I saw this grade appear on Canvas, I just silently said "O
 Me on 1/31: Really easy. Ask ChatGPT to write a 1500+ word crime mystery and write your review on how it did!
 
 Me on 1/22: I made progress on it; I just told ChatGPT to write a 1500+ word crime mystery. I still have to write my assessment of it, though.
+
+#### Project 1 Proposal Presentation (due 2/8)
+
+**In progress**.
+
 
 ### CS 7637: Knowledge-Based AI
 TR 3:30-4:45
@@ -108,15 +113,15 @@ Me on 2/2: Once again, part 1 was easy since all of the answers could be found i
 
 **In progress**.
 
-#### Midterm 1 (2/12)
+#### Midterm 1 (on 2/12)
 
 **TBA**.
 
-#### Midterm 2 (3/19)
+#### Midterm 2 (on 3/19)
 
 **TBA**.
 
-#### Final Exam (5/7)
+#### Final Exam (on 5/7)
 
 **TBA**.
 
@@ -132,21 +137,21 @@ Final exam (30%), 2 midterms (20% each), 5-6? HWs (30%)
 
 **Score: 97/100**.
 
-Me on 2/4: Got my grade back, and I was at the class median. I'll see in a bit what I lost points on.
+Me on 2/4: Got my grade back, and I was at the class median. I'll see in a bit what I lost points on. Update: Lost 2 points on Q3 for underexplaining certain steps and 1 point on Q6 for a technicality.
 
 Me on 1/31: This took around 5-6 hours and had 6 problems. I thought it would be hard but didn't turn out as bad as expected. Hardest problems were the first and third ones.
 
 Me on 1/27: I finished. It took a little bit, but I solved Q1 and Q2 yesterday (though I spent most of the day watching YouTube and goofing off), and Q4, Q5, Q3, and Q6 today, in that order. Q5 in particular was pretty cool, and I had fun solving it.
 
-#### Midterm 1 (2/25)
+#### Midterm 1 (on 2/25)
 
 **TBA**.
 
-#### Midterm 2 (4/8)
+#### Midterm 2 (on 4/8)
 
 **TBA**.
 
-#### Final Exam (5/6)
+#### Final Exam (on 5/6)
 
 **TBA**.
 
@@ -184,14 +189,14 @@ Me on 1/20: I (think I) solved 1/5 problems on the homework. It is due at the en
 
 **In progress**.
 
-#### Midterm 1 (2/18)
+#### Midterm 1 (on 2/18)
 
 **TBA**.
 
-#### Midterm 2 (4/8)
+#### Midterm 2 (on 4/8)
 
 **TBA**.
 
-#### Final Exam (5/1)
+#### Final Exam (on 5/1)
 
 **TBA**.
