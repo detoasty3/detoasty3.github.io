@@ -25,6 +25,8 @@ Me on 1/29: I finished CS 6515 HW 1 pretty quickly (like 2-3 hours?).
 
 **In progress**.
 
+Me on 2/4: Bro I just spent an hour on Q1 last night, and I can't work out the details... I have an idea, but it's pretty complex.
+
 Me on 2/3: Umm, yeah... This is harder than Homework 1. I'm kinda trolling but we'll get through it trust.
 
 #### Midterm 1 (2/19)
@@ -128,7 +130,9 @@ Final exam (30%), 2 midterms (20% each), 5-6? HWs (30%)
 
 #### Homework 1 (due 1/28)
 
-**Score: TBA**.
+**Score: 97/100**.
+
+Me on 2/4: Got my grade back, and I was at the class median. I'll see in a bit what I lost points on.
 
 Me on 1/31: This took around 5-6 hours and had 6 problems. I thought it would be hard but didn't turn out as bad as expected. Hardest problems were the first and third ones.
 
