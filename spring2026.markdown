@@ -25,6 +25,8 @@ Me on 1/29: I finished CS 6515 HW 1 pretty quickly (like 2-3 hours?).
 
 **In progress**.
 
+Me on 2/3: Umm, yeah... This is harder than Homework 1. I'm kinda trolling but we'll get through it trust.
+
 #### Midterm 1 (2/19)
 
 **TBA**.
