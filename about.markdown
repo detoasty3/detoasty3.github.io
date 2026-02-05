@@ -20,12 +20,12 @@ You can find the source code for Jekyll at GitHub:
 About Me
 =================
 
-Hello! My name is Taiki Aiba, a first-year dual master's student at the Georgia Institute of Technology, expected to graduate in May 2027. <!-- I am double majoring in Computer Science, with a specialization in Machine Learning, and Mathematics. -->
+Hello! My name is Taiki Aiba, a first-year master's student at the Georgia Institute of Technology, expected to graduate in May 2027 with the following: <!-- I am double majoring in Computer Science, with a specialization in Machine Learning, and Mathematics. -->
 
 * Master of Science in Computer Science, specialization in Machine Learning, expected May 2027
 * Master of Science in Mathematics, expected May 2027
 
-I also graduated with a triple bachelor's degree with a minor from the Georgia Institute of Technology in August 2025. <!-- in August 2025. Mathematics, with concentrations in Discrete Mathematics and Business, and Applied Languages and Intercultural Studies, with a concentration in Japanese. I also finished a minor in Economics. -->
+I also graduated with a triple bachelor's degree with a minor from the Georgia Institute of Technology in August 2025 with the following: <!-- in August 2025. Mathematics, with concentrations in Discrete Mathematics and Business, and Applied Languages and Intercultural Studies, with a concentration in Japanese. I also finished a minor in Economics. -->
 
 * Bachelor of Science in Computer Science, concentrations in Intelligence and Systems/Architecture, August 2025
 * Bachelor of Science in Mathematics, concentrations in Discrete Mathematics and Business, August 2025
@@ -34,10 +34,11 @@ I also graduated with a triple bachelor's degree with a minor from the Georgia I
 
 I used to participate in math competitions a lot. Here are some of my achievements:
 
-* University of Illinois Freshman Math Contest Honorable Mention (2021) (rank 3)
-* Princeton University Mathematics Competition (PUMaC) Division B Individual Finalist (2021) (rank 39)
-* American Invitational Mathematics Examination (AIME) Qualifier (2019, 2020, 2021) (top score 10)
-* USA Mathematical Talent Search (USAMTS) Bronze Medalist (2019, 2021)
+* William Lowell Putnam Mathematical Competition Top 15% (2023) (score 24, rank 606)
+* University of Illinois Freshman Math Contest 3rd Place (2021)
+* Princeton University Mathematics Competition Division B Individual Finalist (2021) (rank 39)
+* American Invitational Mathematics Examination Qualifier (2019, 2020, 2021) (max score 10)
+* USA Mathematical Talent Search Bronze Medalist (2019, 2021)
 
 I was also an active member on the Art of Problem Solving forums as [DeToasty3](https://artofproblemsolving.com/community/user/324129).
 
