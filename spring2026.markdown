@@ -23,7 +23,9 @@ Me on 1/29: I finished CS 6515 HW 1 pretty quickly (like 2-3 hours?).
 
 #### Homework 2 (due 2/5)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 2/5: Ok Q3 wasn't bad, it was pretty standard. I decided to just leave Q2 and Q4 be because I don't need perfection. After solving Q3, I worked on Q1, and I managed to get to a point where it's at least submittable. I ended up submitting at around 3 PM, right before leaving for my CS 7637 lecture. I don't really want to look at this again, but the homework wasn't too bad overall, aside from Q1.
 
 Me on 2/4: Bro I just spent an hour on Q1 last night, and I can't work out the details... I have an idea, but it's pretty complex. Q2 seems much more doable, and I think I have an approach that I just need to write up. That leaves Q3 and Q4... Update: Solved Q2? At least, I finished a write-up for it. Update 2: Solved Q4...? I think. I also polished up my solution to Q2, and I'm feeling better about that one. I still have Q1 and Q3, though, and it's due at the end of tomorrow...
 
