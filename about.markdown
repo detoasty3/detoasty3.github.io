@@ -20,7 +20,17 @@ You can find the source code for Jekyll at GitHub:
 About Me
 =================
 
-Hello! My name is Taiki Aiba, a first year master's student at the Georgia Institute of Technology. I am double majoring in Computer Science, with a specialization in Machine Learning, and Mathematics. I also graduated with a triple bachelor's degree from the Georgia Institute of Technology in August 2025 in Computer Science, with concentrations in Intelligence and Systems/Architecture, Mathematics, with concentrations in Discrete Mathematics and Business, and Applied Languages and Intercultural Studies, with a concentration in Japanese. I also finished a minor in Economics.
+Hello! My name is Taiki Aiba, a first-year dual master's student at the Georgia Institute of Technology, expected to graduate in May 2027. <!-- I am double majoring in Computer Science, with a specialization in Machine Learning, and Mathematics. -->
+
+* Master of Science in Computer Science, specialization in Machine Learning, expected May 2027
+* Master of Science in Mathematics, expected May 2027
+
+I also graduated with a triple bachelor's degree with a minor from the Georgia Institute of Technology in August 2025. <!-- in August 2025. Mathematics, with concentrations in Discrete Mathematics and Business, and Applied Languages and Intercultural Studies, with a concentration in Japanese. I also finished a minor in Economics. -->
+
+* Bachelor of Science in Computer Science, concentrations in Intelligence and Systems/Architecture, August 2025
+* Bachelor of Science in Mathematics, concentrations in Discrete Mathematics and Business, August 2025
+* Bachelor of Science in Applied Languages and Intercultural Studies, concentration in Japanese, August 2025
+* Minor in Economics, August 2025
 
 I used to participate in math competitions a lot. Here are some of my achievements:
 

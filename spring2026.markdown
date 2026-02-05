@@ -25,7 +25,7 @@ Me on 1/29: I finished CS 6515 HW 1 pretty quickly (like 2-3 hours?).
 
 **In progress**.
 
-Me on 2/4: Bro I just spent an hour on Q1 last night, and I can't work out the details... I have an idea, but it's pretty complex. Q2 seems much more doable, and I think I have an approach that I just need to write up. That leaves Q3 and Q4...
+Me on 2/4: Bro I just spent an hour on Q1 last night, and I can't work out the details... I have an idea, but it's pretty complex. Q2 seems much more doable, and I think I have an approach that I just need to write up. That leaves Q3 and Q4... Update: Solved Q2? At least, I finished a write-up for it.
 
 Me on 2/3: Umm, yeah... This is harder than Homework 1. I'm kinda trolling but we'll get through it trust.
 
@@ -165,6 +165,12 @@ From the class notes:
 
 "I would like for each student to make either one large "project" presentation during the semester or else a number of smaller in class presentations
 roughly equaling a one hour or hour and 10 minute presentation."
+
+Me on 2/4: Announcement: "it's probably a good idea if we/I know something about what you might want to talk about on a particular day, and...
+
+It might be a good idea to come by my office and talk to me about what you plan to present on a particular topic before that takes place."
+
+Ok, so I'll try to find a topic from the notes and present as close to the last day as possible.
 
 
 ### MATH 7018: Probabilistic Methods in Combinatorics

@@ -27,6 +27,8 @@ Hello! I'm Taiki, a Computer Science and Mathematics double master's at the Geor
 
 If you would like to contact me, feel free to reach out to me via email at <taikiaiba@gmail.com>. Additionally, here is my [resume](/Resume.pdf).
 
+By the way, it may seem that a lot of the formatting of these pages is very similar to David Altizio's Web Page, and that was indeed intentional, as an homage to his significance on my growth as a mathlete and my journey into math academia.
+
 <!-- The DMC
 =================
 
