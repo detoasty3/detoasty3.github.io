@@ -92,6 +92,8 @@ permalink: /courses
 * MATH 4699: Undergraduate Research (Fall 2023)
 * VIP 3601: Vertically Integrated Project: Multidisciplinary project-based team, junior level (Fall 2023)
 * CS 4903: Special Problems (Summer 2023)
+* CS 1332R: CS 1332 Recitation (Spring 2023)
+* CS 1331R: CS 1331 Recitation (Fall 2022)
 * MATH 4802: Mathematical Problem Solving (Fall 2022)
 
 <p style="margin-bottom: 30px;"></p>

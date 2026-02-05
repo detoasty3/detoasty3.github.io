@@ -25,7 +25,7 @@ Me on 1/29: I finished CS 6515 HW 1 pretty quickly (like 2-3 hours?).
 
 **In progress**.
 
-Me on 2/4: Bro I just spent an hour on Q1 last night, and I can't work out the details... I have an idea, but it's pretty complex. Q2 seems much more doable, and I think I have an approach that I just need to write up. That leaves Q3 and Q4... Update: Solved Q2? At least, I finished a write-up for it.
+Me on 2/4: Bro I just spent an hour on Q1 last night, and I can't work out the details... I have an idea, but it's pretty complex. Q2 seems much more doable, and I think I have an approach that I just need to write up. That leaves Q3 and Q4... Update: Solved Q2? At least, I finished a write-up for it. Update 2: Solved Q4...? I think. I also polished up my solution to Q2, and I'm feeling better about that one. I still have Q1 and Q3, though, and it's due at the end of tomorrow...
 
 Me on 2/3: Umm, yeah... This is harder than Homework 1. I'm kinda trolling but we'll get through it trust.
 
@@ -69,7 +69,7 @@ No finals, 2 take-home midterms (10%, 15%), 1 individual final project (15%), 4 
 
 #### Milestone 1 (due 1/30)
 
-**Score: TBA**.
+**Score: 100/100 (Performance), TBA (Journal)**.
 
 Me on 2/2: This was pretty easy; 50% was hardcoding one line of code to make it pass one test case and 50% was writing a short journal. We also have to write peer feedback after each milestone, which is lowkey harder than the actual milestone (at least for now).
 
