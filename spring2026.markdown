@@ -85,9 +85,9 @@ Me on 1/30: I went back to my apartment after hanging out with a friend and did 
 
 #### Homework 1 (due 2/9)
 
-**In progress**.
+**Score: TBA/100**.
 
-Me on 2/7: YES!! The deadline was extended from 2/6 to 2/9!! Thank you, course staff!! Unfortunately, this assignment is still pretty tedious, and I don't want to finish it...
+Me on 2/7: YES!! The deadline was extended from 2/6 to 2/9!! Thank you, course staff!! Unfortunately, this assignment is still pretty tedious, and I don't want to finish it... Update: I finished. Honestly, it wasn't too bad, I just had to focus hard enough and get rid of my hesitation.
 
 Me on 2/6: Starting this assignment at 12 PM on the day that it's due was probably not the best idea. Although none of it is technically difficult, there is a lot of stuff to actually perform, and then you have to compile it all in a report, complete with tables and screenshots of AI chat logs. This is pretty annoying, to say the least.
 
