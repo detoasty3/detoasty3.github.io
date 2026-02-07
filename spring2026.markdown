@@ -17,7 +17,7 @@ No finals, 3 midterms (25% each), 7-8 HWs (25%)
 
 **Score: 20/20**.
 
-Mw on 2/6: Ok, we're off to a good start. Q1 and Q4 were the two graded ones. My only concern was with Q1, since it didn't seem too much like a divide-and-conquer problem aside from calling merge sort. But I guess that that was the intended solution.
+Me on 2/6: Ok, we're off to a good start. Q1 and Q4 were the two graded ones. My only concern was with Q1, since it didn't seem too much like a divide-and-conquer problem aside from calling merge sort. But I guess that that was the intended solution.
 
 Me on 1/31: Pretty doable; problem 2 was dropped and the rest were fairly quick, too.
 
@@ -65,6 +65,8 @@ Me on 1/22: I made progress on it; I just told ChatGPT to write a 1500+ word cri
 
 **In progress**.
 
+Me on 2/7: Ok so I think our group is planning to meet irl next Monday. I'll have to skip my diff geo class and possibly even my complex class, but I couldn't really find other times that also worked for them.
+
 
 ### CS 7637: Knowledge-Based AI
 TR 3:30-4:45
@@ -75,6 +77,8 @@ No finals, 2 take-home midterms (10%, 15%), 1 individual final project (15%), 4 
 
 **Score: 100/100 (Performance), TBA (Journal)**.
 
+Me on 2/7: Ok nvm peer feedback was quick, though they did have a specific structure for comments that we had to follow.
+
 Me on 2/2: This was pretty easy; 50% was hardcoding one line of code to make it pass one test case and 50% was writing a short journal. We also have to write peer feedback after each milestone, which is lowkey harder than the actual milestone (at least for now).
 
 Me on 1/30: I went back to my apartment after hanging out with a friend and did my CS 7637 milestone, which took around 30 minutes at most.
@@ -83,7 +87,7 @@ Me on 1/30: I went back to my apartment after hanging out with a friend and did 
 
 **In progress**.
 
-Me on 2/7: YES!! The deadline was extended from 2/6 to 2/9!! Thank you, course staff!!
+Me on 2/7: YES!! The deadline was extended from 2/6 to 2/9!! Thank you, course staff!! Unfortunately, this assignment is still pretty tedious, and I don't want to finish it...
 
 Me on 2/6: Starting this assignment at 12 PM on the day that it's due was probably not the best idea. Although none of it is technically difficult, there is a lot of stuff to actually perform, and then you have to compile it all in a report, complete with tables and screenshots of AI chat logs. This is pretty annoying, to say the least.
 
