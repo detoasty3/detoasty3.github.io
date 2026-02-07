@@ -15,7 +15,9 @@ No finals, 3 midterms (25% each), 7-8 HWs (25%)
 
 #### Homework 1 (due 1/29)
 
-**Score: TBA**.
+**Score: 20/20**.
+
+Mw on 2/6: Ok, we're off to a good start. Q1 and Q4 were the two graded ones. My only concern was with Q1, since it didn't seem too much like a divide-and-conquer problem aside from calling merge sort. But I guess that that was the intended solution.
 
 Me on 1/31: Pretty doable; problem 2 was dropped and the rest were fairly quick, too.
 
@@ -59,7 +61,7 @@ Me on 1/31: Really easy. Ask ChatGPT to write a 1500+ word crime mystery and wri
 
 Me on 1/22: I made progress on it; I just told ChatGPT to write a 1500+ word crime mystery. I still have to write my assessment of it, though.
 
-#### Project 1 Proposal Presentation (due 2/8)
+#### Project 1 Proposal Presentation (due 2/15)
 
 **In progress**.
 
@@ -77,7 +79,17 @@ Me on 2/2: This was pretty easy; 50% was hardcoding one line of code to make it 
 
 Me on 1/30: I went back to my apartment after hanging out with a friend and did my CS 7637 milestone, which took around 30 minutes at most.
 
-#### Homework 1 (due 2/6)
+#### Homework 1 (due 2/9)
+
+**In progress**.
+
+Me on 2/7: YES!! The deadline was extended from 2/6 to 2/9!! Thank you, course staff!!
+
+Me on 2/6: Starting this assignment at 12 PM on the day that it's due was probably not the best idea. Although none of it is technically difficult, there is a lot of stuff to actually perform, and then you have to compile it all in a report, complete with tables and screenshots of AI chat logs. This is pretty annoying, to say the least.
+
+Me on 2/5: I'm kind of tired today, so I'll start this tomorrow, which, yes, is the day of. If I suddenly get a burst of energy, then I may start this later tonight.
+
+#### Milestone 2 (due 2/13)
 
 **In progress**.
 
@@ -144,6 +156,10 @@ Me on 2/4: Got my grade back, and I was at the class median. I'll see in a bit w
 Me on 1/31: This took around 5-6 hours and had 6 problems. I thought it would be hard but didn't turn out as bad as expected. Hardest problems were the first and third ones.
 
 Me on 1/27: I finished. It took a little bit, but I solved Q1 and Q2 yesterday (though I spent most of the day watching YouTube and goofing off), and Q4, Q5, Q3, and Q6 today, in that order. Q5 in particular was pretty cool, and I had fun solving it.
+
+#### Homework 2 (due 2/11)
+
+**In progress**.
 
 #### Midterm 1 (on 2/25)
 
