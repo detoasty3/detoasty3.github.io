@@ -52,16 +52,17 @@ Below is a list of organizations and communities I am currently/was formerly inv
 
 #### Computer Science:
 
-#### **Amazon** | Boston, MA
+<div class="card">
+<h4> <b>Amazon</b> | Boston, MA </h4>
 <p style="margin-bottom: -15px;"></p>
-**Software Development Engineer Intern**<br>
-June 2024 -- August 2024
+<b>Software Development Engineer Intern</b><br>
+<p>June 2024 - August 2024</p>
 * Worked in the Artificial General Intelligence team.
 * Created a discrete event simulation model in SimPy for 100+ engineers to visualize packet flows in one of Alexa's nodes.
 * Developed a C++ script that interacts with Alexa's internals, feeding packets of variable sizes and recording latencies.
 * Parsed 100k+ lines of CSV strings/JSON arrays with Python to extract mean and individual packet latency/size data.
 * Formed an 85%-accurate quadratic of fit, training with small sizes and comparing latency to size graphs with Matplotlib.
-
+</div>
 <!-- I developed a discrete event simulation model in SimPy to predict and visualize the latencies of incoming packets in one of Alexa's nodes. I wrote a script in C++ to feed packets of Gaussian-distributed sizes/arrival times. Then, I parsed CSV strings/JSON arrays with Python to extract mean and individual packet latency/size data. Finally, I compared latency to size graphs with Matplotlib to form a quadratic of fit with small sizes for training. -->
 
 <p style="margin-bottom: 15px;"></p>
