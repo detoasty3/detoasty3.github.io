@@ -19,13 +19,14 @@ permalink: /
 Hello! I'm Taiki, a Computer Science and Mathematics double master's at the Georgia Institute of Technology. This website contains a few pages:
 
 * About Me - background about me
+* Resume - a link to my resume
 * College Courses - a list of courses I've taken in college
 * Toasty's Problem Stash - where I will occasionally post a math problem that I wrote
 * DMC - the home page for the De Mathematics Competitions
 * KMMC - the home page for the Karate Masters Mathematics Competitions
 * DMC Archives - the AoPS collection for all past DMC competitions
 
-If you would like to contact me, feel free to reach out to me via email at <taikiaiba@gmail.com>. Additionally, here is my [resume](/Resume.pdf).
+If you would like to contact me, feel free to reach out to me via email at <taikiaiba@gmail.com>. <!-- Additionally, here is my [resume](/Resume.pdf). -->
 
 By the way, it may seem that a lot of the formatting of these pages is very similar to David Altizio's Web Page, and that was indeed intentional, as an homage to his significance on my growth as a mathlete and my journey into math academia.
 
