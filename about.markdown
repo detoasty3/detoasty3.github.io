@@ -170,12 +170,12 @@ August 2023 – Graduation</p>
 <h4 id="mathematics">Mathematics:</h4>
 
 <div class="card">
-<h4 id="quads-research-group--remote"><strong>Quads Research Group</strong> | Remote</h4>
+<h4 id="quads-research-group--remote"><strong>Quad Packing Research Group</strong> | Remote</h4>
 <p style="margin-bottom: -15px;"></p>
 <p><strong>Research Assistant</strong><br />
 January 2025 – Present</p>
 <ul>
-  <li>Met other researchers at the 2025 JMM and formed the Quads Research Group, an extension of the Quads Packing subteam of the 2024 Polymath Jr REU.</li>
+  <li>Met other researchers at the 2025 JMM and formed the Quad Packing Research Group, an extension of the Quads Packing subteam of the 2024 Polymath Jr REU.</li>
   <li>Declared the King of Set in the first annual <a href="https://setchampionship.com">JMM National Set Championships</a>.</li>
   <li>Attend weekly meetings and co-author a WIP paper to be completed by the end of 2026.</li>
   <li>In January 2026, we presented new results at the <a href="https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/53293">2026 JMM</a>.</li>
