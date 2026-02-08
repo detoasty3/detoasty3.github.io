@@ -1,0 +1,451 @@
+---
+layout: page
+title: About Me
+permalink: /about
+---
+
+<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll -->
+
+About Me
+=================
+
+Hello! My name is Taiki Aiba, a first-year master's student at the Georgia Institute of Technology. I am expected to graduate in May 2027 with the following: <!-- I am double majoring in Computer Science, with a specialization in Machine Learning, and Mathematics. -->
+
+* Master of Science in Computer Science, specialization in Machine Learning
+* Master of Science in Mathematics
+
+I also graduated from the Georgia Institute of Technology in August 2025 with the following: <!-- in August 2025. Mathematics, with concentrations in Discrete Mathematics and Business, and Applied Languages and Intercultural Studies, with a concentration in Japanese. I also finished a minor in Economics. --> <!-- with a triple bachelor's degree with a minor -->
+
+* Bachelor of Science in Computer Science, concentrations in Intelligence and Systems/Architecture
+* Bachelor of Science in Mathematics, concentrations in Discrete Mathematics and Business
+* Bachelor of Science in Applied Languages and Intercultural Studies, concentration in Japanese
+* Minor in Economics
+
+I used to participate in math competitions a lot. Here are some of my achievements:
+
+* William Lowell Putnam Mathematical Competition Top 15% (2023) (score 24, rank 606)
+* University of Illinois Freshman Math Contest 3rd Place (2021)
+* Princeton University Mathematics Competition Division B Individual Finalist (2021) (rank 39)
+* American Invitational Mathematics Examination Qualifier (2019, 2020, 2021) (max score 10)
+* USA Mathematical Talent Search Bronze Medalist (2019, 2021)
+
+I was also an active member on the Art of Problem Solving forums as [DeToasty3](https://artofproblemsolving.com/community/user/324129).
+
+<p style="margin-bottom: 15px;"></p>
+
+---
+
+<p style="margin-bottom: 15px;"></p>
+
+<p>Below is a list of organizations and communities I am currently/was formerly involved with:</p>
+
+<h4 id="computer-science">Computer Science:</h4>
+
+<div class="card">
+<h4 id="amazon--boston-ma"><strong>Amazon</strong> | Boston, MA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Software Development Engineer Intern</strong><br />
+June 2024 – August 2024</p>
+<ul>
+  <li>Worked in the Artificial General Intelligence team.</li>
+  <li>Built a DES in SimPy to model behavior in Alexa’s nodes under varying packet loads, with experiment reproducibility.</li>
+  <li>Engineered C++ automation tooling to interface with internals, feeding packets of variable sizes to measure latency.</li>
+  <li>Processed and statistically analyzed 100k+ CSV/JSON logs with Python to capture patterns and generate insights.</li>
+  <li>Fitted empirical models (85% accuracy) to latency data with Matplotlib, informing scalability to large-scale workloads.</li>
+</ul>
+</div>
+<!-- I developed a discrete event simulation model in SimPy to predict and visualize the latencies of incoming packets in one of Alexa's nodes. I wrote a script in C++ to feed packets of Gaussian-distributed sizes/arrival times. Then, I parsed CSV strings/JSON arrays with Python to extract mean and individual packet latency/size data. Finally, I compared latency to size graphs with Matplotlib to form a quadratic of fit with small sizes for training. -->
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="georgia-tech-school-of-electrical-and-computer-engineering--atlanta-ga"><strong>Georgia Tech School of Electrical and Computer Engineering</strong> | Atlanta, GA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Research Assistant</strong><br />
+August 2023 – December 2023</p>
+<ul>
+  <li>Worked in the <a href="https://www.vip-consortium.org/teams/retrofuturistic-hardware">Retrofuturistic Hardware</a> team under Prof. Aaron Lanterman.</li>
+  <li>Translated docs of the Japanese NEC PC-FX game console to English, storing 12 files of 15k+ lines in Github Pages.</li>
+  <li>Researched the PC-FX’s address map, register list, and I/O access space and the specs of its sound processing device.</li>
+  <li>Analyzed the C Compiler of the GMAKER Starter Kit (processing flow/registers), allowing user-made software to run.</li>
+  <li>Wrote graphical software in C with the kit to run on the PC-FX to showcase its usability to a team of 3 and a professor.</li>
+</ul>
+</div>
+
+<!-- Our project was about the PC-FX video game console, where we explored the documentation of the machine and translated it from Japanese to English. We researched the C Compiler of the GMAKER Starter Kit (processing flow/registers), allowing user-made software to run. Finally, we wrote graphical software in C with the kit to run on the PC-FX to showcase its usability. -->
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="georgia-tech-college-of-computing--atlanta-ga"><strong>Georgia Tech College of Computing</strong> | Atlanta, GA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Teaching Assistant for CS 3510: Algorithms</strong><br />
+August 2024 – May 2026</p>
+<ul>
+  <li>Under Prof. Abrahim Ladha in Fall 2024, Fall 2025, and Spring 2026 and Prof. Zongchen Chen in Spring 2025.</li>
+  <li>Graded homework and exams, hosted weekly 2+ hour office hours, and taught exam review sessions averaging 50 students.</li>
+  <li>Evaluated 100+ submissions weekly for assignments testing divide-and-conquer and graph algorithms, dynamic programming, and complexity.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="georgia-tech-college-of-computing--atlanta-ga-1"><strong>Georgia Tech College of Computing</strong> | Atlanta, GA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Teaching Assistant for CS 2050: Discrete Mathematics</strong><br />
+May 2023 – May 2024</p>
+<ul>
+  <li>Under Prof. Ronnie Howard in Summer 2023 and Fall 2023 and Prof. Gerandy Brito in Spring 2024.</li>
+  <li>Graded homework and exams, wrote the homework assignments, and hosted weekly office hours.</li>
+  <li>Taught weekly recitation sections with 5-10 students.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="the-grainger-college-of-engineering--remote"><strong>The Grainger College of Engineering</strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Course Assistant for CS 124: Intro to CS I</strong><br />
+January 2022 – May 2022</p>
+<ul>
+  <li>Under Prof. Geoffrey Challen in Spring 2022.</li>
+  <li>Hosted virtual office hours and assisted students on the course help forum.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="competitive-programming--tech--atlanta-ga"><strong>Competitive Programming @ Tech</strong> | Atlanta, GA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Member</strong><br />
+August 2022 – Graduation</p>
+<ul>
+  <li>Participated in weekly practices and attended competitions like ICPC and MAPS since Fall 2022.</li>
+  <li>Competed in the 2022 and 2024 ICPC Southeast Regional competitions.</li>
+  <li>Specialist on the platform <a href="https://codeforces.com/">Codeforces</a>, but am hoping to improve and eventually become a Candidate Master (or better!).</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="big-o-theory-club--atlanta-ga"><strong>Big O Theory Club</strong> | Atlanta, GA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Member</strong><br />
+August 2023 – Graduation</p>
+<ul>
+  <li>This is a club where members can volunteer to present topics on theoretical computer science and mathematics.</li>
+  <li>Occasionally attended meetings since Fall 2023.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 30px;"></p>
+
+<h4 id="mathematics">Mathematics:</h4>
+
+<div class="card">
+<h4 id="quads-research-group--remote"><strong>Quads Research Group</strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Research Assistant</strong><br />
+January 2025 – Present</p>
+<ul>
+  <li>Met other researchers at the 2025 JMM and formed the Quads Research Group, an extension of the Quads Packing subteam of the 2024 Polymath Jr REU.</li>
+  <li>Declared the King of Set in the first annual <a href="https://setchampionship.com">JMM National Set Championships</a>.</li>
+  <li>Attend weekly meetings and co-author a WIP paper to be completed by the end of 2026.</li>
+  <li>In January 2026, we presented new results at the <a href="https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/53293">2026 JMM</a>.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="georgia-tech-college-of-sciences--atlanta-ga"><strong>Georgia Tech College of Sciences</strong> | Atlanta, GA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Research Assistant</strong><br />
+August 2023 – Graduation</p>
+<ul>
+  <li>Work in the Georgia Tech School of Mathematics under Dr. Ernie Croot.</li>
+  <li>In 2023-2024, we explored bijections of counting problems to spanning trees and explored ways to use the Matrix-Tree Theorem to strengthen known bounds on the counting of configurations.</li>
+  <li>In 2024-2025, we worked on finding asymptotic upper and lower bounds on the size of a maximal induced forest in grid graphs over a result by Noga Alon from 2001.</li>
+  <li>In 2025-2026, we are working on a simpler but related problem involving 4-cycle avoidance in induced subgraphs of 2D grid graphs.</li>
+  <li>First-authoring a WIP paper estimated to be completed in mid-2026.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="williams-college--remote"><strong>Williams College</strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Graduate Research Mentor</strong><br />
+June 2025 – August 2025</p>
+<ul>
+  <li>Worked in the Games and Finite Geometry team of the Polymath Jr REU.</li>
+  <li>Mentored 20 undergraduates on a research problem of the real-time card game Quads through weekly reading sessions.</li>
+  <li>Wrote 2 C++ scripts to find the maximum number of quads, one recursive and one using the Moser-de Bruijn sequence.</li>
+  <li>Optimized recursion in Rust, reducing runtime by over 400% via multithreading, specifying targets, and early exiting.</li>
+  <li>Proved bounds on the maximum number of quads in a deck of size a power of 2, presented at the <a href="https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/40918">2025</a> and <a href="https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/53293">2026</a> JMM.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="williams-college--remote-1"><strong>Williams College</strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Research Assistant</strong><br />
+June 2024 – August 2024</p>
+<ul>
+  <li>Joined the Quad Packing subteam within the Games and Finite Geometry team of the Polymath Jr REU, whose goal is to find the maximum number of quads in a deck of a given size.</li>
+</ul>
+</div>
+
+<!-- * Quads Research Group - In Summer 2024, I attended the Polymath Jr REU virtually at Williams College and joined the Quad Packing subteam within the Games and Finite Geometry team, whose goal is to find the maximum number of quads in a deck of a given size. In January 2025, I presented at the [2025 Joint Mathematics Meetings (JMM)](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/40918), where I met other researchers and formed the Quads Research Group. It was also here where I was declared the King of Set in the first annual [JMM National Set Championships](https://setchampionship.com/). In Summer 2025, I was a Graduate Research Mentor for the Polymath Jr REU for the Quad Packing subteam, introducing more undergraduates to Quads and our research problem. In January 2026, we presented new results at the [2026 JMM](https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/53293). -->
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="georgia-tech-college-of-sciences--remote"><strong>Georgia Tech College of Sciences</strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Learning Assistant for MATH 2551: Multivariable Calculus</strong><br />
+January 2023 – May 2023</p>
+<ul>
+  <li>Under Prof. Gregory Mayer in Spring 2023.</li>
+  <li>Assisted high school students in the Distance Math program, hosting weekly office hours and grading homework and exams.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="art-of-problem-solving--waltham-ma"><strong>Art of Problem Solving</strong> | Waltham, MA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Math Teaching Assistant</strong><br />
+July 2022 – June 2026</p>
+<ul>
+  <li>Assisted 300+ elementary, middle, and high students at AoPS Academy Lexington.</li>
+  <li>Helped instructors in the 2022 (prealgebra and geometry) and 2025 (high school math contests and algebra 1) summer camps.</li>
+  <li>Assisted students in Zoom office hours throughout the school year, averaging 10 students per session.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="undergraduate-mathematics-advisory-committee--atlanta-ga"><strong><a href="https://umac.math.gatech.edu">Undergraduate Mathematics Advisory Committee</a></strong> | Atlanta, GA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Co-President, Member</strong><br />
+August 2022 – May 2025</p>
+<ul>
+  <li>This is a new organization that plans events and activities for undergraduate math majors.</li>
+  <li>In Fall 2022 and Spring 2023, one of the website editors as well as one of the members in the Design/Marketing branch.</li>
+  <li>From Fall 2023 to Spring 2025, served as a co-president of UMAC, leading and handling the logistics of all events and updating the website after each one with photos and the flyer.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="directed-reading-program--atlanta-ga"><strong><a href="https://math.gatech.edu/directed-reading-program">Directed Reading Program</a></strong> | Atlanta, GA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Mentee</strong><br />
+August 2022 – May 2025</p>
+<ul>
+  <li>Read about generating functions in combinatorics and algebra in Fall 2022, combinatorial problem solving techniques in Spring 2023, the Union-Closed Sets Conjecture in Fall 2023, the game of Sudoku in relation with graph theory in Spring 2024, quantitative finance in Fall 2024, and data structures and algorithms, focusing on the Gomory-Hu Tree, in Spring 2025.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="gt-competitive-math--remote"><strong>GT Competitive Math</strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Founder &amp; Co-President</strong><br />
+May 2023 – Present</p>
+<ul>
+  <li>This is a new organization formed in May 2023 that discusses math contests in a club Discord server.</li>
+  <li>Founder and a current co-president of the club.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="club-math--atlanta-ga"><strong>Club Math</strong> | Atlanta, GA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Member</strong><br />
+August 2022 – Graduation</p>
+<ul>
+  <li>This is a social club that comes up with problems to solve every week.</li>
+  <li>Occasionally attended meetings since Fall 2022.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 30px;"></p>
+
+<h4 id="math-competition-problem-writing">Math Competition Problem Writing:</h4>
+
+<div class="card">
+<h4 id="math-league-llc--remote"><strong><a href="https://mathleague.org">Math League, LLC</a></strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Curriculum Specialist, Intern</strong><br />
+July 2021 – Present</p>
+<ul>
+  <li>As an Intern since July 2021 and Curriculum Specialist after three years, wrote 300+ math problems for competitions aimed at elementary, middle, and high school students.</li>
+  <li>Lead writer for the Number Sense Challenge, a speed-based challenge for elementary school students.</li>
+  <li>In 2022-2023, was the lead instructor for the middle school AfterMath program, which goes over problems from the middle school contests.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="mathematical-association-of-america--remote"><strong><a href="https://maa.org/student-programs/amc">Mathematical Association of America</a></strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>AMC 10/12 Editorial Board Member</strong><br />
+September 2024 – Present</p>
+<ul>
+  <li>Propose problems for the AMC 10/12.</li>
+  <li>Attend meetings to discuss proposals and determine which problems are suitable for the contests.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="mathcounts-foundation--remote"><strong><a href="https://www.mathcounts.org">MATHCOUNTS Foundation</a></strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Question Writing Committee Member</strong><br />
+February 2025 – Present</p>
+<ul>
+  <li>Propose problems for the MATHCOUNTS Competition Series.</li>
+  <li>Attend in-person meetings to review and edit the problems.</li>
+  <li>Volunteer at the annual MATHCOUNTS National competition held in-person.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="de-mathematics-competitions--remote"><strong><a href="/dmc">De Mathematics Competitions</a></strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Founder &amp; Director</strong><br />
+September 2020 – Present</p>
+<ul>
+  <li>This is a group founded and directed by me that has written mock <a href="https://artofproblemsolving.com/wiki/index.php/AMC_Problems_and_Solutions">American Mathematics Competitions (AMC)</a> contests for avid math students on the website <a href="https://artofproblemsolving.com">Art of Problem Solving</a> since September 2020.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="georgia-tech-high-school-math-day--atlanta-ga"><strong><a href="https://hsmd.math.gatech.edu">Georgia Tech High School Math Day</a></strong> | Atlanta, GA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Student Volunteer</strong><br />
+August 2022 – Graduation</p>
+<ul>
+  <li>This is a math contest hosted to high school students mostly centered around Georgia.</li>
+  <li>Since the 2023 HSMD, served as a problem writer and a volunteer on the day of the contest.</li>
+  <li>Wrote problems for the contest, proctored, collected papers, and graded submissions.</li>
+  <li>As a bonus, competed in the 2021 HSMD, earning 4th place individual and 1st place team!</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="mustang-math--remote"><strong><a href="https://mustangmath.com">Mustang Math</a></strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Problem Writing Team Member</strong><br />
+July 2024 – Present</p>
+<ul>
+  <li>This is a non-profit organization that hosts math contests primarily aimed at middle school students.</li>
+  <li>Propose, edit, and review problems for the contests.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 30px;"></p>
+
+<h4 id="other">Other:</h4>
+
+<div class="card">
+<h4 id="japan-student-association--atlanta-ga"><strong><a href="https://linktr.ee/gtjsa">Japan Student Association</a></strong> | Atlanta, GA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Executive Board Officer, Member</strong><br />
+August 2022 – Graduation</p>
+<ul>
+  <li>Executive Board Officer of JSA from Fall 2023 to Spring 2026.</li>
+  <li>Lead weekly conversation practices to enrich Japanese learners’ conversation skills.</li>
+  <li>Assisted in hosting occasional special events related to the Japanese language and culture.</li>
+</ul>
+</div>
+
+<p style="margin-bottom: 15px;"></p>
+
+
+
+<div class="card">
+<h4 id="schoolhouseworld--remote"><strong><a href="https://schoolhouse.world">Schoolhouse.world</a></strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Volunteer Tutor</strong><br />
+June 2022 – Present</p>
+<ul>
+  <li>This is a website where students can receive help on work, learn new topics, and even become certified as a volunteer tutor.</li>
+  <li>Certified tutor at Schoolhouse.world since June 2022 and user since March 2021.</li>
+  <li>Hosted a few sessions, most notably a series on how to write mock AMC problems in 2022.</li>
+</ul>
+</div>
