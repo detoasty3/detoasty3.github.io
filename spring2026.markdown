@@ -33,6 +33,10 @@ Me on 2/4: Bro I just spent an hour on Q1 last night, and I can't work out the d
 
 Me on 2/3: Umm, yeah... This is harder than Homework 1. I'm kinda trolling but we'll get through it trust.
 
+#### Homework 3 (due 2/12)
+
+**In progress**.
+
 #### Midterm 1 (on 2/19)
 
 **TBA**.
@@ -129,7 +133,9 @@ Me on 2/2: Once again, part 1 was easy since all of the answers could be found i
 
 #### Homework 3 (due 2/10)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 2/7: I wrote up half of Q1a on the treadmill lol. Update: Ok this time part 1 should be mostly good. Some of the questions were the same as some ones on the practice midterm (complete with answers), so that was nice. Most of the rest were almost verbatim in the slides, but there may be 1-2 questions where I could lose some points, probably. I still have to do part 2.
 
 #### Midterm 1 (on 2/12)
 
