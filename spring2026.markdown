@@ -79,7 +79,9 @@ No finals, 2 take-home midterms (10%, 15%), 1 individual final project (15%), 4 
 
 #### Milestone 1 (due 1/30)
 
-**Score: 100/100 (Performance), 85/100 (Journal)**.
+**Score: 100/100 (Performance), 87/100 (Journal)**.
+
+Me on 2/9: Ok I'm confused, they updated my score to 87 (from 85), but I don't see any new updates.
 
 Me on 2/8: For the journal, I knew I didn't use the terms from the course, but they also took off 10 points since I supposedly didn't justify my answers to two of the problems. The problems were super basic, so there wasn't much room to explain anything anyway.
 
