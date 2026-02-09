@@ -137,6 +137,8 @@ Me on 2/2: Once again, part 1 was easy since all of the answers could be found i
 
 **Score: TBA**.
 
+Me on 2/9: So apparently they already posted the solutions to HW 3 XDD but part 2 is still mostly unsolved since it's more of a project. I still have to do it, but hopefully it only takes a few hours at most.
+
 Me on 2/8: I'm taking a break from part 2 to work on MATH 7018 HW 2.
 
 Me on 2/7: I wrote up half of Q1a on the treadmill lol. Update: Ok this time part 1 should be mostly good. Some of the questions were the same as some ones on the practice midterm (complete with answers), so that was nice. Most of the rest were almost verbatim in the slides, but there may be 1-2 questions where I could lose some points, probably. I still have to do part 2.
@@ -174,6 +176,8 @@ Me on 1/27: I finished. It took a little bit, but I solved Q1 and Q2 yesterday (
 #### Homework 2 (due 2/11)
 
 **In progress**.
+
+Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8 problems, which is more than last time.
 
 #### Midterm 1 (on 2/25)
 
