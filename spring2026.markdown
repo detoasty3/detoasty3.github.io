@@ -69,6 +69,8 @@ Me on 1/22: I made progress on it; I just told ChatGPT to write a 1500+ word cri
 
 **In progress**.
 
+Me on 2/9: I met up with my team irl for the first time, and they're pretty chill. We got started on the presentation, and we have a lot of time to finish it. The workload is also pretty light.
+
 Me on 2/7: Ok so I think our group is planning to meet irl next Monday. I'll have to skip my diff geo class and possibly even my complex class, but I couldn't really find other times that also worked for them.
 
 
@@ -139,7 +141,7 @@ Me on 2/2: Once again, part 1 was easy since all of the answers could be found i
 
 **Score: TBA**.
 
-Me on 2/9: So apparently they already posted the solutions to HW 3 XDD but part 2 is still mostly unsolved since it's more of a project. I still have to do it, but hopefully it only takes a few hours at most.
+Me on 2/9: So apparently they already posted the solutions to HW 3 XDD but part 2 is still mostly unsolved since it's more of a project. I still have to do it, but hopefully it only takes a few hours at most. I also updated a few of my part 1 solutions just in case (while consulting the already-posted solutions lol).
 
 Me on 2/8: I'm taking a break from part 2 to work on MATH 7018 HW 2.
 
