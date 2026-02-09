@@ -79,7 +79,9 @@ No finals, 2 take-home midterms (10%, 15%), 1 individual final project (15%), 4 
 
 #### Milestone 1 (due 1/30)
 
-**Score: 100/100 (Performance), TBA (Journal)**.
+**Score: 100/100 (Performance), 85/100 (Journal)**.
+
+Me on 2/8: For the journal, I knew I didn't use the terms from the course, but they also took off 10 points since I supposedly didn't justify my answers to two of the problems. The problems were super basic, so there wasn't much room to explain anything anyway.
 
 Me on 2/7: Ok nvm peer feedback was quick, though they did have a specific structure for comments that we had to follow.
 
@@ -230,7 +232,7 @@ Me on 1/20: I (think I) solved 1/5 problems on the homework. It is due at the en
 
 **In progress**.
 
-Me on 2/8: I started. I finished Q1, which wasn't too hard despite me being super unfocused. I'm now doing Q2, but it should be ok too. Update (one hour later): I finished Q2 as well. Q1 was literally done in the textbook (albeit with less detail), and Q2 was very similar to an example in the textbook.
+Me on 2/8: I started. I finished Q1, which wasn't too hard despite me being super unfocused. I'm now doing Q2, but it should be ok too. Update (one hour later): I finished Q2 as well. Q1 was literally done in the textbook (albeit with less detail), and Q2 was very similar to an example in the textbook. Update 2: I'm now like halfway done with Q4, and I need to understand a certain part of the textbook to do the other half.
 
 #### Midterm 1 (on 2/18)
 
