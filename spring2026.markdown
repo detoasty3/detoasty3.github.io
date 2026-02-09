@@ -232,6 +232,8 @@ Me on 1/20: I (think I) solved 1/5 problems on the homework. It is due at the en
 
 **In progress**.
 
+Me on 2/9: Finished Q4 I think (if I'm wrong, I'm wrong), so I just have Q3 and Q5. I've been pretty stuck on Q3, though. Update: Skipped Q3 for now to go to Q5, which seemed hard at first with all of the variables. It was definitely harder than Q1, Q2, and Q4, but after spending some time on it, I solved it. That still leaves Q3, though. I'm going back to ISYE 6416 HW 3 first, though.
+
 Me on 2/8: I started. I finished Q1, which wasn't too hard despite me being super unfocused. I'm now doing Q2, but it should be ok too. Update (one hour later): I finished Q2 as well. Q1 was literally done in the textbook (albeit with less detail), and Q2 was very similar to an example in the textbook. Update 2: I'm now like halfway done with Q4, and I need to understand a certain part of the textbook to do the other half.
 
 #### Midterm 1 (on 2/18)
