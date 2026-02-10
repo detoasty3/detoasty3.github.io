@@ -30,6 +30,8 @@ If you would like to contact me, feel free to reach out to me via email at <taik
 
 By the way, it may seem that a lot of the formatting of these pages is very similar to David Altizio's Web Page, and that was indeed intentional, as an homage to his significance on my growth as a mathlete and my journey into math academia.
 
+WANNA KNOW HOW MY SEMESTER'S GOING!? [CLICK HERE!](/spring2026)
+
 <!-- The DMC
 =================
 

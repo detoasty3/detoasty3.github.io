@@ -141,7 +141,7 @@ Me on 2/2: Once again, part 1 was easy since all of the answers could be found i
 
 **Score: TBA**.
 
-Me on 2/9: So apparently they already posted the solutions to HW 3 XDD but part 2 is still mostly unsolved since it's more of a project. I still have to do it, but hopefully it only takes a few hours at most. I also updated a few of my part 1 solutions just in case (while consulting the already-posted solutions lol).
+Me on 2/9: So apparently they already posted the solutions to HW 3 XDD but part 2 is still mostly unsolved since it's more of a project. I still have to do it, but hopefully it only takes a few hours at most. I also updated a few of my part 1 solutions just in case (while consulting the already-posted solutions lol). Update (1-2 hours later): After goofing off, I finished part 2. This was made 100x easier since the instructors posted R code that basically already solves the problem. We just had to use that code and write up some answers to the questions, which wasn't too bad (at least, with the code already provided). That being said, I can't really imagine finishing this on time without that code.
 
 Me on 2/8: I'm taking a break from part 2 to work on MATH 7018 HW 2.
 
