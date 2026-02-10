@@ -95,7 +95,7 @@ Me on 1/30: I went back to my apartment after hanging out with a friend and did 
 
 #### Homework 1 (due 2/9)
 
-**Score: TBA/100**.
+**Score: TBA**.
 
 Me on 2/7: YES!! The deadline was extended from 2/6 to 2/9!! Thank you, course staff!! Unfortunately, this assignment is still pretty tedious, and I don't want to finish it... Update: I finished. Honestly, it wasn't too bad, I just had to focus hard enough and get rid of my hesitation.
 
@@ -181,7 +181,7 @@ Me on 1/27: I finished. It took a little bit, but I solved Q1 and Q2 yesterday (
 
 **In progress**.
 
-Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8 problems, which is more than last time.
+Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8 problems, which is more than last time. Update: I solved Q1, and I'm going to bed.
 
 #### Midterm 1 (on 2/25)
 

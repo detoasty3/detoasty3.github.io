@@ -12,13 +12,25 @@ What is the DMC?
 ================
 
 
-The DMC (De Mathematics Competitions) is a nonprofit organization led by [DeToasty3](https://artofproblemsolving.com/community/user/DeToasty3) that makes mock contests for the AMCs and MATHCOUNTS. Along with [ALP](https://alpmathprogram.repl.co/), DMC created ADMC, an original contest.
+The DMC (De Mathematics Competitions) is a nonprofit organization, established in September 2020 and led by [DeToasty3](https://artofproblemsolving.com/community/user/DeToasty3), that makes mock contests for the AMCs and MATHCOUNTS. Along with [ALP](https://alpmathprogram.repl.co/), DMC created ADMC in 2021, an original contest with prizes and sponsors.
 
 *   [DeToasty3](https://artofproblemsolving.com/community/user/DeToasty3)
 *   [pandabearcat](https://artofproblemsolving.com/community/user/pandabearcat)
 *   [pog](https://artofproblemsolving.com/community/user/pog)
 
 Our YouTube channel may be accessed [here](https://www.youtube.com/channel/UCITvK5mD17KYe6RbkGwKllw). The DMC Committee will mostly use this for posting video solutions to past DMC problems, but we are open to any other video suggestions, which may be sent to [pog](https://artofproblemsolving.com/community/user/pog) in a private message on Art of Problem Solving.
+
+<p style="margin-bottom: 15px;"></p>
+
+---
+
+<p style="margin-bottom: 15px;"></p>
+
+Competition Math Tutoring
+================
+
+In April 2025, DMC launched their competition math tutoring service and has been helping students prepare for the AMC, MATHCOUNTS, and other contests. If you are a parent who would like their child to receive tutoring for math contests, please reach out to DeToasty3 at [taikiaiba@gmail.com](mailto:taikiaiba@gmail.com). Pay rates will be negotiated during an initial meeting and will start after a free trial tutoring session.
+
 
 <p style="margin-bottom: 15px;"></p>
 
