@@ -151,6 +151,8 @@ Me on 2/7: I wrote up half of Q1a on the treadmill lol. Update: Ok this time par
 
 **TBA**.
 
+Me on 2/10: I'll probably start studying tomorrow. I'm allowed to bring in two pages of cheat sheets, and the practice midterm doesn't seem too hard.
+
 #### Midterm 2 (on 3/19)
 
 **TBA**.
@@ -181,7 +183,9 @@ Me on 1/27: I finished. It took a little bit, but I solved Q1 and Q2 yesterday (
 
 **In progress**.
 
-Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8 problems, which is more than last time. Update: I solved Q1, and I'm going to bed.
+Me on 2/10: Radius of convergence is weird. I'm worried that I'll accidentally write something that's technically inaccurate despite getting the right answers.
+
+Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8 problems, which is more than last time. Update: I solved half of Q1, and I'm going to bed.
 
 #### Midterm 1 (on 2/25)
 
@@ -238,7 +242,9 @@ Me on 1/20: I (think I) solved 1/5 problems on the homework. It is due at the en
 
 #### Homework 2 (due 2/10)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 2/10: Still stuck on Q3 as of this morning. I sent my remaining solutions to montresor2329 just in case. Update: Ok so I solved Q3 with a fair amount of help online. I finished writing it up, so I'm going to submit it. There's a chance that I will want to go back and review my solutions again, but for now, I'm done. Onto MATH 6321 HW 2!
 
 Me on 2/9: Finished Q4 I think (if I'm wrong, I'm wrong), so I just have Q3 and Q5. I've been pretty stuck on Q3, though. Update: Skipped Q3 for now to go to Q5, which seemed hard at first with all of the variables. It was definitely harder than Q1, Q2, and Q4, but after spending some time on it, I solved it. That still leaves Q3, though. I'm going back to ISYE 6416 HW 3 first, though.
 
