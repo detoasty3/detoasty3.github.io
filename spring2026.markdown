@@ -37,6 +37,8 @@ Me on 2/3: Umm, yeah... This is harder than Homework 1. I'm kinda trolling but w
 
 **In progress**.
 
+Me on 2/11: I started. After clutching up MATH 7018 HW 2 and MATH 6321 HW 2 yesterday, jumping straight into this will be a bit rough, but we'll get through it trust.
+
 #### Midterm 1 (on 2/19)
 
 **TBA**.
@@ -181,9 +183,9 @@ Me on 1/27: I finished. It took a little bit, but I solved Q1 and Q2 yesterday (
 
 #### Homework 2 (due 2/11)
 
-**In progress**.
+**Score: TBA**.
 
-Me on 2/11: (1:28 AM): Ok wth Q8 was actually harder than I expected. Even after all that computation, there were some things that I had to BS, and even then, I don't know if they'll like the fact that I only plugged in values and didn't justify the regions are actually correct. Also, I still have to do Q3, but I'll probably sleep first.
+Me on 2/11: (1:28 AM): Ok wth Q8 was actually harder than I expected. Even after all that computation, there were some things that I had to BS, and even then, I don't know if they'll like the fact that I only plugged in values and didn't justify the regions are actually correct. Also, I still have to do Q3, but I'll probably sleep first. Update: Ok you know what I submitted Q3 I don't even care anymore.
 
 Me on 2/10: Radius of convergence is weird. I'm worried that I'll accidentally write something that's technically inaccurate despite getting the right answers. Update (9:33 PM): I solved Q1, Q2, Q4, and Q5, skipping Q3 since I'm a bit stuck on it. Update (9:51 PM): Finished Q6. Update (10:27? PM or 10:31 PM): Finished Q7 I think? Not sure how specific they want this one.
 
@@ -205,18 +207,20 @@ Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8
 ### MATH 6455: Differential Geometry I
 MW 11:00-12:15
 
-I have no idea what this class has.
-
-From the class notes:
-
-"I would like for each student to make either one large "project" presentation during the semester or else a number of smaller in class presentations
-roughly equaling a one hour or hour and 10 minute presentation."
+Me on 2/11: So I checked Canvas, and supposedly there's a take-home quiz due on 2/18, so I guess we actually have assignments in this class. No big deal, though.
 
 Me on 2/4: Announcement: "it's probably a good idea if we/I know something about what you might want to talk about on a particular day, and...
 
 It might be a good idea to come by my office and talk to me about what you plan to present on a particular topic before that takes place."
 
 Ok, so I'll try to find a topic from the notes and present as close to the last day as possible.
+
+I have no idea what this class has.
+
+From the class notes:
+
+"I would like for each student to make either one large "project" presentation during the semester or else a number of smaller in class presentations
+roughly equaling a one hour or hour and 10 minute presentation."
 
 
 ### MATH 7018: Probabilistic Methods in Combinatorics
