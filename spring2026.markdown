@@ -139,9 +139,11 @@ Me on 2/3: Welp, I guess I shouldn't have been so confident about part 1. I lost
 
 Me on 2/2: Once again, part 1 was easy since all of the answers could be found in the slides. Part 2 actually required that we write code in R in order to answer some questions. This part took 3-4 hours, and I'm not even sure if I wrote enough. We'll see after it gets graded, I guess.
 
-#### Homework 3 (due 2/10)
+#### Homework 3 (due 2/11)
 
 **Score: TBA**.
+
+Me on 2/11: So apparently the deadline was extended to 2/11 from 2/10. I don't really need it, but that's cool. I also don't plan to update any of my answers.
 
 Me on 2/9: So apparently they already posted the solutions to HW 3 XDD but part 2 is still mostly unsolved since it's more of a project. I still have to do it, but hopefully it only takes a few hours at most. I also updated a few of my part 1 solutions just in case (while consulting the already-posted solutions lol). Update (1-2 hours later): After goofing off, I finished part 2. This was made 100x easier since the instructors posted R code that basically already solves the problem. We just had to use that code and write up some answers to the questions, which wasn't too bad (at least, with the code already provided). That being said, I can't really imagine finishing this on time without that code.
 
