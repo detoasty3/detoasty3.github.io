@@ -183,7 +183,9 @@ Me on 1/27: I finished. It took a little bit, but I solved Q1 and Q2 yesterday (
 
 **In progress**.
 
-Me on 2/10: Radius of convergence is weird. I'm worried that I'll accidentally write something that's technically inaccurate despite getting the right answers.
+Me on 2/11: (1:28 AM): Ok wth Q8 was actually harder than I expected. Even after all that computation, there were some things that I had to BS, and even then, I don't know if they'll like the fact that I only plugged in values and didn't justify the regions are actually correct. Also, I still have to do Q3, but I'll probably sleep first.
+
+Me on 2/10: Radius of convergence is weird. I'm worried that I'll accidentally write something that's technically inaccurate despite getting the right answers. Update (9:33 PM): I solved Q1, Q2, Q4, and Q5, skipping Q3 since I'm a bit stuck on it. Update (9:51 PM): Finished Q6. Update (10:27? PM or 10:31 PM): Finished Q7 I think? Not sure how specific they want this one.
 
 Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8 problems, which is more than last time. Update: I solved half of Q1, and I'm going to bed.
 
