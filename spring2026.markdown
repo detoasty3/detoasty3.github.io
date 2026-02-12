@@ -37,7 +37,7 @@ Me on 2/3: Umm, yeah... This is harder than Homework 1. I'm kinda trolling but w
 
 **In progress**.
 
-Me on 2/11: I started. After clutching up MATH 7018 HW 2 and MATH 6321 HW 2 yesterday, jumping straight into this will be a bit rough, but we'll get through it trust. Update (8:09 PM): I solved Q1 after like 10 minutes of thinking and 10 minutes of write-up.
+Me on 2/11: I started. After clutching up MATH 7018 HW 2 and MATH 6321 HW 2 yesterday, jumping straight into this will be a bit rough, but we'll get through it trust. Update (8:09 PM): I solved Q1 after like 10 minutes of thinking and 10 minutes of write-up. Update (8:26 PM): Bro Q3 is the same problem as one from my CS 3511 class in Fall 2023. I'm glad that that class posted solutions >:).
 
 #### Midterm 1 (on 2/19)
 

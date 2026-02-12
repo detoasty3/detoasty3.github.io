@@ -150,10 +150,22 @@ August 2023 – December 2023</p>
 </ul>
 
 <p style="margin-bottom: 15px;"></p>
-<h4 id="tagt"><strong>Conferences:</strong></h4>
+<h4 id="tagt"><strong>Conferences/Seminars:</strong></h4>
 <ul>
-  <li>March 2025 - MAA Southeastern Sectional Meeting, High Point University</li>
-  <li>January 2025 - Joint Mathematics Meetings, Seattle, WA</li>
+  <li>March 2025 - MAA Southeastern Sectional Meeting, High Point University (first presenter)</li>
+  <ul>
+    <li>Session: Undergraduate Paper Session II-4</li>
+    <li>Talk: Quad Packing</li>
+  </ul>
+  <li>January 2025 - Joint Mathematics Meetings, Seattle, WA (first presenter)</li>
+  <ul>
+    <li>Session: AMS Special Session on Polymath Jr REU Student Research Session, I</li>
+    <li>Talk: Quad Packing</li>
+  </ul>
+  <li>July 2024 - The Society for Gender Studies in Japanese Conference, Tokyo International University (co-presenter)</li>
+  <ul>
+    <li>Talk: Gender Expressions Used by Female Characters in "Sazae-san" (「サザエさん」の女性登場人物が用いるジェンダー表現の考察)</li>
+  </ul>
 </ul>
 </div>
 
