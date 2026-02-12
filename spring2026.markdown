@@ -37,7 +37,7 @@ Me on 2/3: Umm, yeah... This is harder than Homework 1. I'm kinda trolling but w
 
 **In progress**.
 
-Me on 2/11: I started. After clutching up MATH 7018 HW 2 and MATH 6321 HW 2 yesterday, jumping straight into this will be a bit rough, but we'll get through it trust.
+Me on 2/11: I started. After clutching up MATH 7018 HW 2 and MATH 6321 HW 2 yesterday, jumping straight into this will be a bit rough, but we'll get through it trust. Update (8:09 PM): I solved Q1 after like 10 minutes of thinking and 10 minutes of write-up.
 
 #### Midterm 1 (on 2/19)
 
@@ -154,6 +154,8 @@ Me on 2/7: I wrote up half of Q1a on the treadmill lol. Update: Ok this time par
 #### Midterm 1 (on 2/12)
 
 **TBA**.
+
+Me on 2/11: After doing some grading of CS 3510 HW 3 and solving Q1 of CS 6515 HW 3, it is time for me to start making my cheat sheets.
 
 Me on 2/10: I'll probably start studying tomorrow. I'm allowed to bring in two pages of cheat sheets, and the practice midterm doesn't seem too hard.
 
