@@ -35,7 +35,7 @@ Me on 2/3: Umm, yeah... This is harder than Homework 1. I'm kinda trolling but w
 
 #### Homework 3 (due 2/12)
 
-**In progress**.
+**Score: TBA**.
 
 Me on 2/12: After spending the whole morning making cheat sheets for ISYE 6416 Midterm 1, I am finally ready to continue this assignment. Update (5:22 PM): Ok, I don't know if I'm just better at graphs or this homework is a lot easier than Homework 2. As I said, Q1 was very easy, and today, I solved Q2 and Q4 during lecture (which I finally attended since I came back from my exam), albeit with a small hiccup on Q2 that was easy to fix. That leaves Q3, which is definitely the hardest one on this assignment. Update (10:16 PM): After doing a lot of goofing off, I came back to this problem. Designing the algorithm was straightforward, but I wasn't sure how to write up a formal proof of correctness, but I'll just assume that they won't be strict on grading it (if it even is graded).
 
@@ -112,6 +112,8 @@ Me on 2/5: I'm kind of tired today, so I'll start this tomorrow, which, yes, is 
 #### Milestone 2 (due 2/13)
 
 **In progress**.
+
+Me on 2/12: Now that I finished my CS 6515 homework, I am finally ready to start this... tomorrow.
 
 #### Midterm 1 (due 2/27)
 
