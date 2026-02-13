@@ -37,6 +37,8 @@ Me on 2/3: Umm, yeah... This is harder than Homework 1. I'm kinda trolling but w
 
 **In progress**.
 
+Me on 2/12: After spending the whole morning making cheat sheets for ISYE 6416 Midterm 1, I am finally ready to continue this assignment. Update (5:22 PM): Ok, I don't know if I'm just better at graphs or this homework is a lot easier than Homework 2. As I said, Q1 was very easy, and today, I solved Q2 and Q4 during lecture (which I finally attended since I came back from my exam), albeit with a small hiccup on Q2 that was easy to fix. That leaves Q3, which is definitely the hardest one on this assignment. Update (10:16 PM): After doing a lot of goofing off, I came back to this problem. Designing the algorithm was straightforward, but I wasn't sure how to write up a formal proof of correctness, but I'll just assume that they won't be strict on grading it (if it even is graded).
+
 Me on 2/11: I started. After clutching up MATH 7018 HW 2 and MATH 6321 HW 2 yesterday, jumping straight into this will be a bit rough, but we'll get through it trust. Update (8:09 PM): I solved Q1 after like 10 minutes of thinking and 10 minutes of write-up. Update (8:26 PM): Bro Q3 is the same problem as one from my CS 3511 class in Fall 2023. I'm glad that that class posted solutions >:).
 
 #### Midterm 1 (on 2/19)
@@ -70,6 +72,8 @@ Me on 1/22: I made progress on it; I just told ChatGPT to write a 1500+ word cri
 #### Project 1 Proposal Presentation (due 2/15)
 
 **In progress**.
+
+Me on 2/12: Since I was bored, I decided to actually format what we had into an unfinished presentation with Google Slides. We still have to make it into a full presentation, but I'm still not worried about this.
 
 Me on 2/9: I met up with my team irl for the first time, and they're pretty chill. We got started on the presentation, and we have a lot of time to finish it. The workload is also pretty light.
 
@@ -153,11 +157,17 @@ Me on 2/7: I wrote up half of Q1a on the treadmill lol. Update: Ok this time par
 
 #### Midterm 1 (on 2/12)
 
-**TBA**.
+**Score: TBA**.
+
+Me on 2/12: Just took the test. Wow, that was so easy, and that's because of the fact that we could use our cheat sheets. For most of the questions, I literally copied from my cheat sheet, which itself was copied from the class slides. There was only one thing that I had to guess on, which I also got right. There was one part of one question where I may have copied the wrong thing, but it's probably not worth that much.
 
 Me on 2/11: After doing some grading of CS 3510 HW 3 and solving Q1 of CS 6515 HW 3, it is time for me to start making my cheat sheets.
 
 Me on 2/10: I'll probably start studying tomorrow. I'm allowed to bring in two pages of cheat sheets, and the practice midterm doesn't seem too hard.
+
+#### Homework 4 (due 2/22)
+
+**In progress**.
 
 #### Midterm 2 (on 3/19)
 
