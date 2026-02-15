@@ -115,7 +115,7 @@ Me on 2/5: I'm kind of tired today, so I'll start this tomorrow, which, yes, is 
 
 **Score: 100/100 (Performance), TBA (Journal)**.
 
-Me on 2/13: Once again, I passed enough test cases to earn a perfect score on the performance part, though it is getting close, and I'm pretty sure that I'll actually have to try on Milestone 3. I still have to write the journal (as of 10:36 AM), which should hopefully not take too long. Update (12:32 PM): I finished. Unlike last time, I actually provided key terms from the course (somewhat), and my explanations were generally more thorough. Upate (12:36 PM): I added a small additional detail and resubmitted.
+Me on 2/13: Once again, I passed enough test cases to earn a perfect score on the performance part, though it is getting close, and I'm pretty sure that I'll actually have to try on Milestone 3. I still have to write the journal (as of 10:36 AM), which should hopefully not take too long. Update (12:32 PM): I finished. Unlike last time, I actually provided key terms from the course (somewhat), and my explanations were generally more thorough. Update (12:36 PM): I added a small additional detail and resubmitted.
 
 Me on 2/12: Now that I finished my CS 6515 homework, I am finally ready to start this... tomorrow.
 
@@ -151,7 +151,9 @@ Me on 2/2: Once again, part 1 was easy since all of the answers could be found i
 
 #### Homework 3 (due 2/11)
 
-**Score: TBA**.
+**Score: 9.8/10**.
+
+Me on 2/15: I totally forgot how I reacted to this score, but I'm happy that I got a good score. My current course grade went up to a 92.**67**%!
 
 Me on 2/11: So apparently the deadline was extended to 2/11 from 2/10. I don't really need it, but that's cool. I also don't plan to update any of my answers.
 
