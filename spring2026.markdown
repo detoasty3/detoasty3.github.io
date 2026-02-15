@@ -25,7 +25,9 @@ Me on 1/29: I finished CS 6515 HW 1 pretty quickly (like 2-3 hours?).
 
 #### Homework 2 (due 2/5)
 
-**Score: TBA**.
+**Score: 18.75/20**.
+
+Me on 2/14: Darn, I lost 1.25 on Q4 since I forgot a pretty important case. I'm glad that I aced Q1, though.
 
 Me on 2/5: Ok Q3 wasn't bad, it was pretty standard. I decided to just leave Q2 and Q4 be because I don't need perfection. After solving Q3, I worked on Q1, and I managed to get to a point where it's at least submittable. I ended up submitting at around 3 PM, right before leaving for my CS 7637 lecture. I don't really want to look at this again, but the homework wasn't too bad overall, aside from Q1.
 
