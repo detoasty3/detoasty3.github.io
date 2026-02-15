@@ -62,7 +62,7 @@ June 2024 – August 2024</p>
 <p><strong>Math Teaching Assistant</strong><br />
 July 2022 – June 2026</p>
 <ul>
-  <li>Assisted 300+ elementary, middle, and high students at AoPS Academy Lexington.</li>
+  <li>Assisted 300+ elementary, middle, and high school students at AoPS Academy Lexington.</li>
   <li>Helped instructors in the 2022 (prealgebra and geometry) and 2025 (high school math contests and algebra 1) summer camps.</li>
   <li>Assisted students in Zoom office hours throughout the school year, averaging 10 students per session.</li>
 </ul>
