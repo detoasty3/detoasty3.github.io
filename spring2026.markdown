@@ -266,7 +266,9 @@ Me on 1/20: I (think I) solved 1/5 problems on the homework. It is due at the en
 
 #### Homework 2 (due 2/10)
 
-**Score: TBA**.
+**Score: 20/20**.
+
+Me on 2/14: Yayyy!!!
 
 Me on 2/10: Still stuck on Q3 as of this morning. I sent my remaining solutions to montresor2329 just in case. Update: Ok so I solved Q3 with a fair amount of help online. I finished writing it up, so I'm going to submit it. There's a chance that I will want to go back and review my solutions again, but for now, I'm done. Onto MATH 6321 HW 2!
 
