@@ -165,7 +165,9 @@ Me on 2/7: I wrote up half of Q1a on the treadmill lol. Update: Ok this time par
 
 #### Midterm 1 (on 2/12)
 
-**Score: TBA**.
+**Score: 90/100**.
+
+Me on 2/16: Um, so at least I got an A on the exam, but... what could I have lost 10 points on? I guess we'll find out tomorrow, hopefully.
 
 Me on 2/12: Just took the test. Wow, that was so easy, and that's because of the fact that we could use our cheat sheets. For most of the questions, I literally copied from my cheat sheet, which itself was copied from the class slides. There was only one thing that I had to guess on, which I also got right. There was one part of one question where I may have copied the wrong thing, but it's probably not worth that much.
 
