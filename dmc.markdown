@@ -26,7 +26,7 @@ Our YouTube channel may be accessed [here](https://www.youtube.com/channel/UCITv
 
 <p style="margin-bottom: 15px;"></p>
 
-Competition Math Tutoring
+DMC Tutoring
 ================
 
 In April 2025, DMC launched their competition math tutoring service and has been helping students prepare for the AMCs, MATHCOUNTS, and other contests. If you are a parent who would like their child to receive tutoring for math contests, please reach out to DeToasty3 at [taikiaiba@gmail.com](mailto:taikiaiba@gmail.com). Pay rates will be negotiated during an initial meeting and will start after a free trial tutoring session.
