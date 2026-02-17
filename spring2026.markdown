@@ -231,7 +231,13 @@ Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8
 ### MATH 6455: Differential Geometry I
 MW 11:00-12:15
 
+#### Quiz 1 (due 2/18)
+
+Me on 2/16: I think I finished Quiz 1. I'm not really sure how it'll be graded, but we'll see. By far the hardest part was understanding the notation and writing up solutions that adhere to that notation. Otherwise, the problems were pretty routine.
+
 Me on 2/11: So I checked Canvas, and supposedly there's a take-home quiz due on 2/18, so I guess we actually have assignments in this class. No big deal, though.
+
+#### Etcetera
 
 Me on 2/4: Announcement: "it's probably a good idea if we/I know something about what you might want to talk about on a particular day, and...
 
@@ -285,6 +291,8 @@ Me on 2/8: I started. I finished Q1, which wasn't too hard despite me being supe
 #### Midterm 1 (on 2/18)
 
 **TBA**.
+
+Me on 2/16: Time to start studying. Although I feel like I actually know how to solve these problems (provided that they're not too clever), I'm still worried because the cutoff for an A is an 80, which means that the exams will probably be brutal.
 
 #### Midterm 2 (on 4/8)
 
