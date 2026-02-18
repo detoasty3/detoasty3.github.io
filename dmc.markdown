@@ -58,6 +58,8 @@ There were no contests this season.
 
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3435141)
 *   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c4668503)
+*   Papers:
+    *   [DMC 8 Paper](https://detoasty3.github.io/DMC/2024-2025/2025_DMC_8.pdf)
 *   MathDash Links:
     *   [DMC 8 (Untimed)](https://mathdash.com/contest/2025-dmc-8)
     *   [DMC 8 (Timed)](https://mathdash.com/contest/2025-dmc-8-blitz)
