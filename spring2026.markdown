@@ -209,7 +209,7 @@ Me on 1/27: I finished. It took a little bit, but I solved Q1 and Q2 yesterday (
 
 **Score: 97/100**.
 
-Me on 2/18: Another 97, but this time, I was at the upper quartile. It looks like the high score was a 99. I'll see very soon what I lost points on, but I'm satisfied with this score, given how rushed I was to get it done.
+Me on 2/18: Another 97, but this time, I was at the upper quartile. It looks like the high score was a 99. I'll see very soon what I lost points on, but I'm satisfied with this score, given how rushed I was to get it done. Update: Lost 3 points on Q7 since I could have been more explicit and 4 points on Q8 since I messed up a fair amount. So, I should've gotten a 93, but I'm not protesting that, of course.
 
 Me on 2/11: (1:28 AM): Ok wth Q8 was actually harder than I expected. Even after all that computation, there were some things that I had to BS, and even then, I don't know if they'll like the fact that I only plugged in values and didn't justify the regions are actually correct. Also, I still have to do Q3, but I'll probably sleep first. Update: Ok you know what I submitted Q3 I don't even care anymore.
 
@@ -235,9 +235,15 @@ MW 11:00-12:15
 
 #### Quiz 1 (due 2/18)
 
+Me on 2/18: I decided to attend class again since Canvas said that we had to turn in Quiz 1 in person. During class, we presented solutions to the problems, and it was pretty interactive. I was just chilling in the back since I don't really understand thw material, unlike a certain YQ.
+
 Me on 2/16: I think I finished Quiz 1. I'm not really sure how it'll be graded, but we'll see. By far the hardest part was understanding the notation and writing up solutions that adhere to that notation. Otherwise, the problems were pretty routine.
 
 Me on 2/11: So I checked Canvas, and supposedly there's a take-home quiz due on 2/18, so I guess we actually have assignments in this class. No big deal, though.
+
+#### Quiz 2 (due ???)
+
+Me on 2/18: So we were on some topic during lecture, and out of nowhere, he said, ``...and that'll be on Quiz 2!'' Then he whipped out Quiz 2 and handed it out to everyone.
 
 #### Etcetera
 
