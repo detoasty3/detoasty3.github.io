@@ -292,6 +292,8 @@ Me on 2/8: I started. I finished Q1, which wasn't too hard despite me being supe
 
 **TBA**.
 
+Me on 2/17: Ok, so I think I've gotten to the point where I could reasonably solve any HW 1 problem in a few minutes. For HW 2, I could probably handle any of them being on the exam except for Q3 and Q5. However, if any problems are as hard as some of the textbook exercises, then I'm cooked.
+
 Me on 2/16: Time to start studying. Although I feel like I actually know how to solve these problems (provided that they're not too clever), I'm still worried because the cutoff for an A is an 80, which means that the exams will probably be brutal.
 
 #### Midterm 2 (on 4/8)
