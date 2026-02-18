@@ -207,7 +207,9 @@ Me on 1/27: I finished. It took a little bit, but I solved Q1 and Q2 yesterday (
 
 #### Homework 2 (due 2/11)
 
-**Score: TBA**.
+**Score: 97/100**.
+
+Me on 2/18: Another 97, but this time, I was at the upper quartile. It looks like the high score was a 99. I'll see very soon what I lost points on, but I'm satisfied with this score, given how rushed I was to get it done.
 
 Me on 2/11: (1:28 AM): Ok wth Q8 was actually harder than I expected. Even after all that computation, there were some things that I had to BS, and even then, I don't know if they'll like the fact that I only plugged in values and didn't justify the regions are actually correct. Also, I still have to do Q3, but I'll probably sleep first. Update: Ok you know what I submitted Q3 I don't even care anymore.
 
