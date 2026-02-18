@@ -18,7 +18,7 @@ The DMC (De Mathematics Competitions) is a nonprofit organization, established i
 *   [pandabearcat](https://artofproblemsolving.com/community/user/pandabearcat)
 *   [pog](https://artofproblemsolving.com/community/user/pog)
 
-Our YouTube channel may be accessed [here](https://www.youtube.com/channel/UCITvK5mD17KYe6RbkGwKllw). The DMC Committee will mostly use this for posting video solutions to past DMC problems, but we are open to any other video suggestions, which may be sent to [pog](https://artofproblemsolving.com/community/user/pog) in a private message on Art of Problem Solving.
+Our YouTube channel may be accessed [here](https://www.youtube.com/channel/UCITvK5mD17KYe6RbkGwKllw). The DMC Committee will mostly use this for posting video solutions to past DMC problems, but we are open to any other video suggestions, which may be sent to DeToasty3 at [taikiaiba@gmail.com](mailto:taikiaiba@gmail.com) or [pog](https://artofproblemsolving.com/community/user/pog) in a private message on Art of Problem Solving.
 
 <p style="margin-bottom: 15px;"></p>
 
@@ -41,10 +41,15 @@ In April 2025, DMC launched their competition math tutoring service and has been
 Past DMC Contests
 =================
 
-2025-2026 Season
+2026-2027 Season
 ----------------
 
 To be announced.
+
+2025-2026 Season
+----------------
+
+There were no contests this season.
 
 2024-2025 Season
 ----------------
