@@ -235,7 +235,7 @@ MW 11:00-12:15
 
 #### Quiz 1 (due 2/18)
 
-Me on 2/18: I decided to attend class again since Canvas said that we had to turn in Quiz 1 in person. During class, we presented solutions to the problems, and it was pretty interactive. I was just chilling in the back since I don't really understand thw material, unlike a certain YQ.
+Me on 2/18: I decided to attend class again since Canvas said that we had to turn in Quiz 1 in person. During class, we presented solutions to the problems, and it was pretty interactive. I was just chilling in the back since I don't really understand the material, unlike a certain YQ.
 
 Me on 2/16: I think I finished Quiz 1. I'm not really sure how it'll be graded, but we'll see. By far the hardest part was understanding the notation and writing up solutions that adhere to that notation. Otherwise, the problems were pretty routine.
 
@@ -243,7 +243,7 @@ Me on 2/11: So I checked Canvas, and supposedly there's a take-home quiz due on 
 
 #### Quiz 2 (due ???)
 
-Me on 2/18: So we were on some topic during lecture, and out of nowhere, he said, ``...and that'll be on Quiz 2!'' Then he whipped out Quiz 2 and handed it out to everyone.
+Me on 2/18: So we were on some topic during lecture, and out of nowhere, he said, "...and that'll be on Quiz 2!" Then he whipped out Quiz 2 and handed it out to everyone.
 
 #### Etcetera
 
@@ -298,7 +298,9 @@ Me on 2/8: I started. I finished Q1, which wasn't too hard despite me being supe
 
 #### Midterm 1 (on 2/18)
 
-**TBA**.
+**Score: TBA**.
+
+Me on 2/18: Just finished, and... it wasn't that bad? Most of the problems were similar (or even pretty much the same) as certain homework problems, and the challenge was mainly figuring out the small differences, which I was luckily able to work out. I finished pretty early (17 minutes left or so), but I stayed until the end to check my answers, which also helped. Overall, I think I got pretty lucky with the set of problems, and there's no guarantee that I'll be as fortunate with the other exams. And I have an exam in CS 6515 tomorrow.
 
 Me on 2/17: Ok, so I think I've gotten to the point where I could reasonably solve any HW 1 problem in a few minutes. For HW 2, I could probably handle any of them being on the exam except for Q3 and Q5. However, if any problems are as hard as some of the textbook exercises, then I'm cooked.
 
