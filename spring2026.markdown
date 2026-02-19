@@ -45,7 +45,9 @@ Me on 2/11: I started. After clutching up MATH 7018 HW 2 and MATH 6321 HW 2 yest
 
 #### Midterm 1 (on 2/19)
 
-**TBA**.
+**Score: TBA**.
+
+Me on 2/19: Just finished. I felt like the exam wasn't easy, but it wasn't the worst thing ever either. I barely studied; I just briefly looked over FFT and skimmed over the practice midterms. I did mess up on the last problem a bit with the recurrence step, but I don't think it should be too major. I was a bit unconfident in a few of the MCQs, but now I feel alright about almost all of them. I'm predicting around a 25-28/30 on the exam.
 
 #### Midterm 2 (on 3/19)
 
@@ -73,7 +75,7 @@ Me on 1/22: I made progress on it; I just told ChatGPT to write a 1500+ word cri
 
 #### Project 1 Proposal Presentation (due 2/15)
 
-**In progress**.
+**Score: TBA**.
 
 Me on 2/12: Since I was bored, I decided to actually format what we had into an unfinished presentation with Google Slides. We still have to make it into a full presentation, but I'm still not worried about this.
 
@@ -118,6 +120,12 @@ Me on 2/5: I'm kind of tired today, so I'll start this tomorrow, which, yes, is 
 Me on 2/13: Once again, I passed enough test cases to earn a perfect score on the performance part, though it is getting close, and I'm pretty sure that I'll actually have to try on Milestone 3. I still have to write the journal (as of 10:36 AM), which should hopefully not take too long. Update (12:32 PM): I finished. Unlike last time, I actually provided key terms from the course (somewhat), and my explanations were generally more thorough. Update (12:36 PM): I added a small additional detail and resubmitted.
 
 Me on 2/12: Now that I finished my CS 6515 homework, I am finally ready to start this... tomorrow.
+
+#### Homework 2 (due 2/20)
+
+**In progress**.
+
+Me on 2/19: After finishing my MATH 7018 and CS 6515 exams, I can finally get started on this assignment. The problem is that I'm super tired due to minor sleep deprivation.
 
 #### Midterm 1 (due 2/27)
 
@@ -220,6 +228,10 @@ Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8
 #### Midterm 1 (on 2/25)
 
 **TBA**.
+
+#### Homework 3 (due 3/4)
+
+**In progress**.
 
 #### Midterm 2 (on 4/8)
 
