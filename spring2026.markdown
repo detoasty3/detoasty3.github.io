@@ -121,11 +121,11 @@ Me on 2/13: Once again, I passed enough test cases to earn a perfect score on th
 
 Me on 2/12: Now that I finished my CS 6515 homework, I am finally ready to start this... tomorrow.
 
-#### Homework 2 (due 2/20)
+#### Homework 2 (due 2/23)
 
 **In progress**.
 
-Me on 2/19: After finishing my MATH 7018 and CS 6515 exams, I can finally get started on this assignment. The problem is that I'm super tired due to minor sleep deprivation.
+Me on 2/19: After finishing my MATH 7018 and CS 6515 exams, I can finally get started on this assignment. The problem is that I'm super tired due to minor sleep deprivation. Update: Lols they extended the deadline from 2/20 to 2/23. Thanks!!
 
 #### Midterm 1 (due 2/27)
 
