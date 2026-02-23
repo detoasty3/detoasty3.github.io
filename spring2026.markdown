@@ -49,6 +49,10 @@ Me on 2/11: I started. After clutching up MATH 7018 HW 2 and MATH 6321 HW 2 yest
 
 Me on 2/19: Just finished. I felt like the exam wasn't easy, but it wasn't the worst thing ever either. I barely studied; I just briefly looked over FFT and skimmed over the practice midterms. I did mess up on the last problem a bit with the recurrence step, but I don't think it should be too major. I was a bit unconfident in a few of the MCQs, but now I feel alright about almost all of them. I'm predicting around a 25-28/30 on the exam.
 
+#### Homework 4 (due 2/26)
+
+**In progress**.
+
 #### Midterm 2 (on 3/19)
 
 **TBA**.
@@ -123,7 +127,9 @@ Me on 2/12: Now that I finished my CS 6515 homework, I am finally ready to start
 
 #### Homework 2 (due 2/23)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 2/23: Just submitted. This was definitely a lot shorter than Homework 1, and I still have plenty of time to make revisions if I still want to do that.
 
 Me on 2/19: After finishing my MATH 7018 and CS 6515 exams, I can finally get started on this assignment. The problem is that I'm super tired due to minor sleep deprivation. Update: Lols they extended the deadline from 2/20 to 2/23. Thanks!!
 
@@ -185,6 +191,12 @@ Me on 2/10: I'll probably start studying tomorrow. I'm allowed to bring in two p
 
 #### Homework 4 (due 2/22)
 
+**Score: TBA**.
+
+Me on 2/23: Submitted last night. This one wasn't too bad, but I feel less confident in my part 1 answers than usual. We'll see how it goes once it's graded.
+
+#### Homework 5 (due 3/8)
+
 **In progress**.
 
 #### Midterm 2 (on 3/19)
@@ -228,6 +240,8 @@ Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8
 #### Midterm 1 (on 2/25)
 
 **TBA**.
+
+Me on 2/23: Yeah... I just looked at the textbook again, and I'm gonna have to do a lot of studying and reading...
 
 #### Homework 3 (due 3/4)
 

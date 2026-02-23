@@ -91,7 +91,7 @@ July 2021 – Present</p>
 <ul>
   <li>CS 3510: Design and Analysis of Algorithms (Graduate Teaching Assistant: Fall 2025, Spring 2026; Undergraduate Teaching Assistant: Fall 2024, Spring 2025)</li>
   <li>CS 2050: Introduction to Discrete Mathematics for Computer Science (Undergraduate Teaching Assistant: Summer 2023, Fall 2023, Spring 2024)</li>
-  <li>MATH 2551: Multivariable Calculus (Learning Assistant: Spring 2023)</li>
+  <li>MATH 2551: Multivariable Calculus (Lecture Assistant: Spring 2023)</li>
 </ul>
 
 <p style="margin-bottom: 15px;"></p>
