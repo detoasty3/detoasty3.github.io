@@ -109,7 +109,9 @@ Me on 1/30: I went back to my apartment after hanging out with a friend and did 
 
 #### Homework 1 (due 2/9)
 
-**Score: TBA**.
+**Score: 98/100**.
+
+Me on 2/24: I actually got this grade yesterday. I'm satisfied with this score, especially given my rather picky peer review feedback and my subpar Milestone 1 journal grade.
 
 Me on 2/7: YES!! The deadline was extended from 2/6 to 2/9!! Thank you, course staff!! Unfortunately, this assignment is still pretty tedious, and I don't want to finish it... Update: I finished. Honestly, it wasn't too bad, I just had to focus hard enough and get rid of my hesitation.
 
@@ -241,6 +243,8 @@ Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8
 
 **TBA**.
 
+Me on 2/24: I'm so scared for this exam.
+
 Me on 2/23: Yeah... I just looked at the textbook again, and I'm gonna have to do a lot of studying and reading...
 
 #### Homework 3 (due 3/4)
@@ -261,15 +265,21 @@ MW 11:00-12:15
 
 #### Quiz 1 (due 2/18)
 
+Me on 2/24: So yesterday, I got feedback for Quiz 1, and he just wrote "Excellent!" along with a minor comment.
+
 Me on 2/18: I decided to attend class again since Canvas said that we had to turn in Quiz 1 in person. During class, we presented solutions to the problems, and it was pretty interactive. I was just chilling in the back since I don't really understand the material, unlike a certain YQ.
 
 Me on 2/16: I think I finished Quiz 1. I'm not really sure how it'll be graded, but we'll see. By far the hardest part was understanding the notation and writing up solutions that adhere to that notation. Otherwise, the problems were pretty routine.
 
 Me on 2/11: So I checked Canvas, and supposedly there's a take-home quiz due on 2/18, so I guess we actually have assignments in this class. No big deal, though.
 
-#### Quiz 2 (due ???)
+#### Quiz 2 (due never I guess)
 
 Me on 2/18: So we were on some topic during lecture, and out of nowhere, he said, "...and that'll be on Quiz 2!" Then he whipped out Quiz 2 and handed it out to everyone.
+
+#### Quiz 3 (due never I guess)
+
+Me on 2/24: This was handed out yesterday (on 2/23).
 
 #### Etcetera
 
@@ -324,7 +334,9 @@ Me on 2/8: I started. I finished Q1, which wasn't too hard despite me being supe
 
 #### Midterm 1 (on 2/18)
 
-**Score: TBA**.
+**Score: 38/40**.
+
+Me on 2/24: I lost two points on Q3 due to some minor notational issues, but otherwise, I did really well! The median was a 27/40, and the upper quartile was a 33/40, so I was way ahead of the curve, though someone did get a 40/40.
 
 Me on 2/18: Just finished, and... it wasn't that bad? Most of the problems were similar (or even pretty much the same) as certain homework problems, and the challenge was mainly figuring out the small differences, which I was luckily able to work out. I finished pretty early (17 minutes left or so), but I stayed until the end to check my answers, which also helped. Overall, I think I got pretty lucky with the set of problems, and there's no guarantee that I'll be as fortunate with the other exams. And I have an exam in CS 6515 tomorrow.
 
