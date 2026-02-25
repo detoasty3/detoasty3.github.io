@@ -245,7 +245,9 @@ Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8
 
 #### Midterm 1 (on 2/25)
 
-**TBA**.
+**Score: TBA**.
+
+Me on 2/25: This thankfully wasn't too bad overall. I was a tiny bit pressed on time, and I can't guarantee that all of my proofs were correct, but my studying ended up paying off. There was one part of one question that I was completely unsure about and a few educated guesses for intuition, but it should be fairly ok. I'm predicting a score from low 80s to mid 90s?
 
 Me on 2/24: I'm so scared for this exam.
 
