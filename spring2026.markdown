@@ -49,9 +49,11 @@ Me on 2/11: I started. After clutching up MATH 7018 HW 2 and MATH 6321 HW 2 yest
 
 Me on 2/19: Just finished. I felt like the exam wasn't easy, but it wasn't the worst thing ever either. I barely studied; I just briefly looked over FFT and skimmed over the practice midterms. I did mess up on the last problem a bit with the recurrence step, but I don't think it should be too major. I was a bit unconfident in a few of the MCQs, but now I feel alright about almost all of them. I'm predicting around a 25-28/30 on the exam.
 
-#### Homework 4 (due 2/26)
+#### Homework 4 (due 2/27)
 
 **In progress**.
+
+Me on 2/24: So apparently the due date was extended from 2/26 to 2/27. I'm pretty glad about that.
 
 #### Midterm 2 (on 3/19)
 
@@ -193,7 +195,9 @@ Me on 2/10: I'll probably start studying tomorrow. I'm allowed to bring in two p
 
 #### Homework 4 (due 2/22)
 
-**Score: TBA**.
+**Score: 10/10**.
+
+Me on 2/24: Nice!
 
 Me on 2/23: Submitted last night. This one wasn't too bad, but I feel less confident in my part 1 answers than usual. We'll see how it goes once it's graded.
 
@@ -250,6 +254,8 @@ Me on 2/23: Yeah... I just looked at the textbook again, and I'm gonna have to d
 #### Homework 3 (due 3/4)
 
 **In progress**.
+
+Me on 2/24: In preparation for Midterm 1, I decided to look at these problems. I'm still kinda confused on the material...
 
 #### Midterm 2 (on 4/8)
 
@@ -343,6 +349,10 @@ Me on 2/18: Just finished, and... it wasn't that bad? Most of the problems were 
 Me on 2/17: Ok, so I think I've gotten to the point where I could reasonably solve any HW 1 problem in a few minutes. For HW 2, I could probably handle any of them being on the exam except for Q3 and Q5. However, if any problems are as hard as some of the textbook exercises, then I'm cooked.
 
 Me on 2/16: Time to start studying. Although I feel like I actually know how to solve these problems (provided that they're not too clever), I'm still worried because the cutoff for an A is an 80, which means that the exams will probably be brutal.
+
+#### Homework 3 (due 3/6)
+
+**In progress**.
 
 #### Midterm 2 (on 4/8)
 
