@@ -51,7 +51,9 @@ Me on 2/19: Just finished. I felt like the exam wasn't easy, but it wasn't the w
 
 #### Homework 4 (due 2/27)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 2/27: This was made so much easier because I basically found the answers somewhere. That being said, Q1 and Q3 were still quite immediate. Q4 was a bit tricky, Q2a was kinda fun, and Q2b was definitely the hardest.
 
 Me on 2/24: So apparently the due date was extended from 2/26 to 2/27. I'm pretty glad about that.
 
@@ -88,6 +90,10 @@ Me on 2/12: Since I was bored, I decided to actually format what we had into an 
 Me on 2/9: I met up with my team irl for the first time, and they're pretty chill. We got started on the presentation, and we have a lot of time to finish it. The workload is also pretty light.
 
 Me on 2/7: Ok so I think our group is planning to meet irl next Monday. I'll have to skip my diff geo class and possibly even my complex class, but I couldn't really find other times that also worked for them.
+
+#### Project 1 Final Presentation (due 3/22)
+
+**In progress**.
 
 
 ### CS 7637: Knowledge-Based AI
@@ -139,7 +145,9 @@ Me on 2/19: After finishing my MATH 7018 and CS 6515 exams, I can finally get st
 
 #### Midterm 1 (due 2/27)
 
-**TBA**.
+**Score: TBA**.
+
+Me on 2/27: Bro this was made easier because the professor basically said that we could use AI but write our answers in our own words. But the funniest part was that the test was so doable that I didn't even need to refer to ChatGPT that much (although I did use it at first). I mostly ended up using the textbook for Q1, Q2, and Q3, and a specific research paper for Q4. Later on, I was having dinner with some friends from JSA, and then I decided to finish the rest of the test while they were talking. They didn't seem to mind, and I managed to submit around two hours before the deadline.
 
 #### Midterm 2 (due 4/10)
 
@@ -183,7 +191,9 @@ Me on 2/7: I wrote up half of Q1a on the treadmill lol. Update: Ok this time par
 
 #### Midterm 1 (on 2/12)
 
-**Score: 90/100**.
+**Score: 95/100**.
+
+Me on 2/27: So I finally got to see what I got wrong on the midterm. I lost five points on Q2 because I thought that Newton's Method was more robust than the Bisection Method, and I initially lost five points on Q3 for something that the TA originally thought I overlooked, but then he looked at it again and decided to give me full credit for that problem. So my score went from 90 to 95, yay!
 
 Me on 2/16: Um, so at least I got an A on the exam, but... what could I have lost 10 points on? I guess we'll find out tomorrow, hopefully.
 
