@@ -129,7 +129,7 @@ Me on 2/5: I'm kind of tired today, so I'll start this tomorrow, which, yes, is 
 
 #### Milestone 2 (due 2/13)
 
-**Score: 100/100 (Performance), TBA (Journal)**.
+**Score: 100/100 (Performance), 96/100 (Journal)**.
 
 Me on 2/13: Once again, I passed enough test cases to earn a perfect score on the performance part, though it is getting close, and I'm pretty sure that I'll actually have to try on Milestone 3. I still have to write the journal (as of 10:36 AM), which should hopefully not take too long. Update (12:32 PM): I finished. Unlike last time, I actually provided key terms from the course (somewhat), and my explanations were generally more thorough. Update (12:36 PM): I added a small additional detail and resubmitted.
 
