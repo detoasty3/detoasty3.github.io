@@ -85,7 +85,9 @@ Me on 1/22: I made progress on it; I just told ChatGPT to write a 1500+ word cri
 
 #### Project 1 Proposal Presentation (due 2/15)
 
-**Score: TBA**.
+**Score: 9/10**.
+
+Me on 3/1: Hmm... I'm not sure what happened here.
 
 Me on 2/12: Since I was bored, I decided to actually format what we had into an unfinished presentation with Google Slides. We still have to make it into a full presentation, but I'm still not worried about this.
 
@@ -150,6 +152,10 @@ Me on 2/19: After finishing my MATH 7018 and CS 6515 exams, I can finally get st
 **Score: TBA**.
 
 Me on 2/27: Bro this was made easier because the professor basically said that we could use AI but write our answers in our own words. But the funniest part was that the test was so doable that I didn't even need to refer to ChatGPT that much (although I did use it at first). I mostly ended up using the textbook for Q1, Q2, and Q3, and a specific research paper for Q4. Later on, I was having dinner with some friends from JSA, and then I decided to finish the rest of the test while they were talking. They didn't seem to mind, and I managed to submit around two hours before the deadline.
+
+#### Milestone 3 (due 3/13)
+
+**In progress**.
 
 #### Midterm 2 (due 4/10)
 
@@ -300,6 +306,10 @@ Me on 2/18: So we were on some topic during lecture, and out of nowhere, he said
 #### Quiz 3 (due never I guess)
 
 Me on 2/24: This was handed out yesterday (on 2/23).
+
+#### Quiz 4 (due never I guess)
+
+Me on 2/28: This was handed out on 2/25.
 
 #### Etcetera
 
