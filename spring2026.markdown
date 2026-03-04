@@ -87,6 +87,8 @@ Me on 1/22: I made progress on it; I just told ChatGPT to write a 1500+ word cri
 
 **Score: 9/10**.
 
+Me on 3/3: Ok, we lost a bit of credit for not following some of the instructions.
+
 Me on 3/1: Hmm... I'm not sure what happened here.
 
 Me on 2/12: Since I was bored, I decided to actually format what we had into an unfinished presentation with Google Slides. We still have to make it into a full presentation, but I'm still not worried about this.
@@ -141,7 +143,9 @@ Me on 2/12: Now that I finished my CS 6515 homework, I am finally ready to start
 
 #### Homework 2 (due 2/23)
 
-**Score: TBA**.
+**Score: 100/100**.
+
+Me on 3/3: This was graded yesterday (3/2). I'm happy that I got my first 100 on a journal!
 
 Me on 2/23: Just submitted. This was definitely a lot shorter than Homework 1, and I still have plenty of time to make revisions if I still want to do that.
 
@@ -153,7 +157,7 @@ Me on 2/19: After finishing my MATH 7018 and CS 6515 exams, I can finally get st
 
 Me on 2/27: Bro this was made easier because the professor basically said that we could use AI but write our answers in our own words. But the funniest part was that the test was so doable that I didn't even need to refer to ChatGPT that much (although I did use it at first). I mostly ended up using the textbook for Q1, Q2, and Q3, and a specific research paper for Q4. Later on, I was having dinner with some friends from JSA, and then I decided to finish the rest of the test while they were talking. They didn't seem to mind, and I managed to submit around two hours before the deadline.
 
-#### Milestone 3 (due 3/13)
+#### Milestone 3 (due 3/6)
 
 **In progress**.
 
@@ -265,6 +269,8 @@ Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8
 
 **Score: TBA**.
 
+Me on 3/3: Ok, looking back, I'm scared. I realized that I messed up Q1b because I forgot to multiply by sqrt(|z|), and who knows how picky these graders will be on the others. My new predicted score range is high 70s to high 80s, with pretty much no chance of it being 90+. I guess I won't know for sure until tomorrow...
+
 Me on 2/25: This thankfully wasn't too bad overall. I was a tiny bit pressed on time, and I can't guarantee that all of my proofs were correct, but my studying ended up paying off. There was one part of one question that I was completely unsure about and a few educated guesses for intuition, but it should be fairly ok. I'm predicting a score from low 80s to mid 90s?
 
 Me on 2/24: I'm so scared for this exam.
@@ -273,7 +279,9 @@ Me on 2/23: Yeah... I just looked at the textbook again, and I'm gonna have to d
 
 #### Homework 3 (due 3/4)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 3/3: So after doing Q1-Q3 in preparation for midterm 1, I finally got around to the rest all today. In order, I did Q4, Q6, Q8, Q9, Q11, Q5, Q7, Q12, and Q10. Yes, there were 12 problems on this assignment, and I also had to fix some mistakes on Q2. Q12 was pretty ridiculous, and I could not have solved it without looking it up. Other ones that I'm not confident in are Q5 and Q10, but I'm also slightly uncertain on Q4 and Q7, and who knows what else I could lose points on. This HW was definitely worse than the first two.
 
 Me on 2/24: In preparation for Midterm 1, I decided to look at these problems. I'm still kinda confused on the material...
 
