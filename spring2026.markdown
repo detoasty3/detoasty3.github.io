@@ -161,6 +161,8 @@ Me on 2/27: Bro this was made easier because the professor basically said that w
 
 **In progress**.
 
+Me on 3/5: I was originally worried about this, especially because I also have MATH 7018 HW 3 due tomorrow, but I managed to mess around with this just enough to earn a 100 on the autograder, and it only took me around 30 minutes. Now all I have left is the journal.
+
 #### Midterm 2 (due 4/10)
 
 **TBA**.
@@ -267,9 +269,11 @@ Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8
 
 #### Midterm 1 (on 2/25)
 
-**Score: TBA**.
+**Score: 82/100**.
 
-Me on 3/3: Ok, looking back, I'm scared. I realized that I messed up Q1b because I forgot to multiply by sqrt(|z|), and who knows how picky these graders will be on the others. My new predicted score range is high 70s to high 80s, with pretty much no chance of it being 90+. I guess I won't know for sure until tomorrow...
+Me on 3/4: This was returned to us on Canvas at 2:31 AM. Although the score itself isn't the greatest, I was above the median of 80 and only slightly below the upper quartile of 86. I'll see later today what I lost points on.
+
+Me on 3/3: Ok, looking back, I'm scared. I realized that I messed up Q1b because I forgot to multiply by sqrt(magnitude of z), and who knows how picky these graders will be on the others. My new predicted score range is high 70s to high 80s, with pretty much no chance of it being 90+. I guess I won't know for sure until tomorrow...
 
 Me on 2/25: This thankfully wasn't too bad overall. I was a tiny bit pressed on time, and I can't guarantee that all of my proofs were correct, but my studying ended up paying off. There was one part of one question that I was completely unsure about and a few educated guesses for intuition, but it should be fairly ok. I'm predicting a score from low 80s to mid 90s?
 
@@ -385,6 +389,10 @@ Me on 2/16: Time to start studying. Although I feel like I actually know how to 
 #### Homework 3 (due 3/6)
 
 **In progress**.
+
+Me on 3/5: So yesterday, I managed to figure out Q1 (doable except for the final computation) and Q2 (pretty hard, looked up a hint online). I still haven't properly written up my solutions to these, but I'm working on it right now.
+
+Me on 3/4: After spending several hours on MATH 6321 HW 3, I am finally ready to start this one.
 
 #### Midterm 2 (on 4/8)
 
