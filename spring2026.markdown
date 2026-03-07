@@ -59,6 +59,10 @@ Me on 2/27: This was made so much easier because I basically found the answers s
 
 Me on 2/24: So apparently the due date was extended from 2/26 to 2/27. I'm pretty glad about that.
 
+#### Homework 5 (due 3/13)
+
+**In progress**.
+
 #### Midterm 2 (on 3/19)
 
 **TBA**.
@@ -96,6 +100,12 @@ Me on 2/12: Since I was bored, I decided to actually format what we had into an 
 Me on 2/9: I met up with my team irl for the first time, and they're pretty chill. We got started on the presentation, and we have a lot of time to finish it. The workload is also pretty light.
 
 Me on 2/7: Ok so I think our group is planning to meet irl next Monday. I'll have to skip my diff geo class and possibly even my complex class, but I couldn't really find other times that also worked for them.
+
+#### Project 1 Proposal Summaries (due 3/8)
+
+**In progress**.
+
+Me on 3/7: This assignment is just giving peer feedback to three other teams' presentations, and this assignment is itself a group assignment.
 
 #### Project 1 Final Presentation (due 3/22)
 
@@ -159,7 +169,9 @@ Me on 2/27: Bro this was made easier because the professor basically said that w
 
 #### Milestone 3 (due 3/6)
 
-**In progress**.
+**Score: 100/100 (Performance), TBA (Journal)**.
+
+Me on 3/7: I'm glad that I could BS just enough to pass the autograder section, but since I was working on MATH 7018 HW 3, I didn't have enough time to work on the journal. I ended up mostly reusing stuff from my Milestone 2 journal, but I still had just enough time to write what I changed and even include two examples demonstrating it. However, the rest is nearly identical to Milestone 2...
 
 Me on 3/5: I was originally worried about this, especially because I also have MATH 7018 HW 3 due tomorrow, but I managed to mess around with this just enough to earn a 100 on the autograder, and it only took me around 30 minutes. Now all I have left is the journal.
 
@@ -228,6 +240,8 @@ Me on 2/23: Submitted last night. This one wasn't too bad, but I feel less confi
 #### Homework 5 (due 3/8)
 
 **In progress**.
+
+Me on 3/7: Starting today. Unlike previous assignments, this one actually doesn't have a part 1, so we just have to write some R code and document some results.
 
 #### Midterm 2 (on 3/19)
 
@@ -388,11 +402,17 @@ Me on 2/16: Time to start studying. Although I feel like I actually know how to 
 
 #### Homework 3 (due 3/6)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 3/7: This was definitely harder than HW 1 and HW 2. I feel ok about Q1 and Q4, and I only fixed Q2 after montresor2329 pointed out an error. As for Q3 and Q5, it's going to be based on how well these solutions actually work. I had to look stuff up a fair amount this time for help.
 
 Me on 3/5: So yesterday, I managed to figure out Q1 (doable except for the final computation) and Q2 (pretty hard, looked up a hint online). I still haven't properly written up my solutions to these, but I'm working on it right now.
 
 Me on 3/4: After spending several hours on MATH 6321 HW 3, I am finally ready to start this one.
+
+#### Homework 4 (due 3/20)
+
+**In progress**.
 
 #### Midterm 2 (on 4/8)
 
