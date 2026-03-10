@@ -47,7 +47,9 @@ Me on 2/11: I started. After clutching up MATH 7018 HW 2 and MATH 6321 HW 2 yest
 
 #### Midterm 1 (on 2/19)
 
-**Score: TBA**.
+**Score: 28/30**.
+
+Me on 3/9: So the grade finally came out, and I'm satisfied. I originally got a 27.5/30, but I sent a regrade request since my incorrect runtime correctly corresponded with my incorrect algorithm, and it got approved. I can't be disappointed with a 93.3 repeating.
 
 Me on 2/19: Just finished. I felt like the exam wasn't easy, but it wasn't the worst thing ever either. I barely studied; I just briefly looked over FFT and skimmed over the practice midterms. I did mess up on the last problem a bit with the recurrence step, but I don't think it should be too major. I was a bit unconfident in a few of the MCQs, but now I feel alright about almost all of them. I'm predicting around a 25-28/30 on the exam.
 
@@ -103,7 +105,11 @@ Me on 2/7: Ok so I think our group is planning to meet irl next Monday. I'll hav
 
 #### Project 1 Proposal Summaries (due 3/8)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 3/9: So I finished relatively quickly (around 30 minutes), but I started slacking off on my responses towards the end.
+
+Me on 3/8: Starting now.
 
 Me on 3/7: This assignment is just giving peer feedback to three other teams' presentations, and this assignment is itself a group assignment.
 
@@ -239,7 +245,9 @@ Me on 2/23: Submitted last night. This one wasn't too bad, but I feel less confi
 
 #### Homework 5 (due 3/8)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 3/8: Yeah, this was really short. That gets me to think that he'll be harsher with the grading, or maybe this will be a freebie.
 
 Me on 3/7: Starting today. Unlike previous assignments, this one actually doesn't have a part 1, so we just have to write some R code and document some results.
 
