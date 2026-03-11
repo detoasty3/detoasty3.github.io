@@ -291,7 +291,9 @@ Me on 2/9: I started. Most of the problems seem fairly standard, but there are 8
 
 #### Midterm 1 (on 2/25)
 
-**Score: 82/100**.
+**Score: 84/100**.
+
+Me on 3/11: So yesterday the TA posted the rubric for the exam, and he wrote that if we wrote not open or not closed for problem 2c, then we could get half credit. So now, my grade went from 82 to 84.
 
 Me on 3/4: This was returned to us on Canvas at 2:31 AM. Although the score itself isn't the greatest, I was above the median of 80 and only slightly below the upper quartile of 86. I'll see later today what I lost points on.
 
@@ -305,7 +307,9 @@ Me on 2/23: Yeah... I just looked at the textbook again, and I'm gonna have to d
 
 #### Homework 3 (due 3/4)
 
-**Score: TBA**.
+**Score: 98/100**.
+
+Me on 3/11: Nice, I only lost two points on Q5.
 
 Me on 3/3: So after doing Q1-Q3 in preparation for midterm 1, I finally got around to the rest all today. In order, I did Q4, Q6, Q8, Q9, Q11, Q5, Q7, Q12, and Q10. Yes, there were 12 problems on this assignment, and I also had to fix some mistakes on Q2. Q12 was pretty ridiculous, and I could not have solved it without looking it up. Other ones that I'm not confident in are Q5 and Q10, but I'm also slightly uncertain on Q4 and Q7, and who knows what else I could lose points on. This HW was definitely worse than the first two.
 
