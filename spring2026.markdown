@@ -169,7 +169,9 @@ Me on 2/19: After finishing my MATH 7018 and CS 6515 exams, I can finally get st
 
 #### Midterm 1 (due 2/27)
 
-**Score: TBA**.
+**Score: 87/100**.
+
+Me on 3/11: Not too bad, considering that I rushed on this a bit. They attached a long rubric that I don't really feel like reading.
 
 Me on 2/27: Bro this was made easier because the professor basically said that we could use AI but write our answers in our own words. But the funniest part was that the test was so doable that I didn't even need to refer to ChatGPT that much (although I did use it at first). I mostly ended up using the textbook for Q1, Q2, and Q3, and a specific research paper for Q4. Later on, I was having dinner with some friends from JSA, and then I decided to finish the rest of the test while they were talking. They didn't seem to mind, and I managed to submit around two hours before the deadline.
 
@@ -245,7 +247,9 @@ Me on 2/23: Submitted last night. This one wasn't too bad, but I feel less confi
 
 #### Homework 5 (due 3/8)
 
-**Score: TBA**.
+**Score: 10/10**.
+
+Me on 3/11: Nice!
 
 Me on 3/8: Yeah, this was really short. That gets me to think that he'll be harsher with the grading, or maybe this will be a freebie.
 
@@ -314,6 +318,12 @@ Me on 3/11: Nice, I only lost two points on Q5.
 Me on 3/3: So after doing Q1-Q3 in preparation for midterm 1, I finally got around to the rest all today. In order, I did Q4, Q6, Q8, Q9, Q11, Q5, Q7, Q12, and Q10. Yes, there were 12 problems on this assignment, and I also had to fix some mistakes on Q2. Q12 was pretty ridiculous, and I could not have solved it without looking it up. Other ones that I'm not confident in are Q5 and Q10, but I'm also slightly uncertain on Q4 and Q7, and who knows what else I could lose points on. This HW was definitely worse than the first two.
 
 Me on 2/24: In preparation for Midterm 1, I decided to look at these problems. I'm still kinda confused on the material...
+
+#### Homework 4 (due 3/18)
+
+**In progress**.
+
+Me on 3/11: 13 problems?? In one week??
 
 #### Midterm 2 (on 4/8)
 
