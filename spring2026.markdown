@@ -55,7 +55,9 @@ Me on 2/19: Just finished. I felt like the exam wasn't easy, but it wasn't the w
 
 #### Homework 4 (due 2/27)
 
-**Score: TBA**.
+**Score: 19.5/20**.
+
+Me on 3/13: Lost half a point on Q3 because I used Edmonds-Karp instead of Ford-Fulkerson. The grader had a very long explanation for this.
 
 Me on 2/27: This was made so much easier because I basically found the answers somewhere. That being said, Q1 and Q3 were still quite immediate. Q4 was a bit tricky, Q2a was kinda fun, and Q2b was definitely the hardest.
 
@@ -63,7 +65,9 @@ Me on 2/24: So apparently the due date was extended from 2/26 to 2/27. I'm prett
 
 #### Homework 5 (due 3/13)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 3/13: I finished this yesterday in around 2 hours. This was a lot more math-y, which was a plus for me.
 
 #### Midterm 2 (on 3/19)
 
@@ -254,6 +258,10 @@ Me on 3/11: Nice!
 Me on 3/8: Yeah, this was really short. That gets me to think that he'll be harsher with the grading, or maybe this will be a freebie.
 
 Me on 3/7: Starting today. Unlike previous assignments, this one actually doesn't have a part 1, so we just have to write some R code and document some results.
+
+#### Homework 6 (due 3/15)
+
+**In progress**.
 
 #### Midterm 2 (on 3/19)
 
