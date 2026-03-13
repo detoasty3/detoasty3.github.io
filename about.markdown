@@ -147,7 +147,22 @@ August 2023 – December 2023</p>
 <p style="margin-bottom: 15px;"></p>
 <h4 id="tagt"><strong>Conferences/Seminars:</strong></h4>
 <ul>
-  <li>January 2026 - Joint Mathematics Meetings, Washington, DC (contributor)</li>
+  <li>March 2026 - MAA Southeastern Sectional Meeting, University of North Alabama (first presenter)</li>
+  <ul>
+    <li>Session: Contributed Papers Session #6</li>
+    <li>Talk: Burnside's lemma and applications in competition problems</li>
+  </ul>
+  <li>March 2026 - MAA Southeastern Sectional Meeting, University of North Alabama (first presenter)</li>
+  <ul>
+    <li>Session: Recreational Math Session #2</li>
+    <li>Talk: Quad-packing in the game EvenQuads</li>
+  </ul>
+  <li>March 2026 - MAA Southeastern Sectional Meeting, University of North Alabama (first presenter)</li>
+  <ul>
+    <li>Session: Contributed Papers Session #1</li>
+    <li>Talk: 4-cycle-free induced subgraphs of grid graphs</li>
+  </ul>
+  <li>January 2026 - Joint Mathematics Meetings, Washington, DC (co-presenter)</li>
   <ul>
     <li>Session: AMS Special Session on A Showcase of Recreational Mathematics: Theory, Applications, and Engagement in Teaching and Research, II</li>
     <li>Talk: Quad-packing in the game EvenQuads</li>
