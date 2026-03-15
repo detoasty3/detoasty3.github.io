@@ -73,6 +73,8 @@ Me on 3/13: I finished this yesterday in around 2 hours. This was a lot more mat
 
 **TBA**.
 
+Me on 3/15: I'm ever so slightly worried since I haven't really been paying attention to this class, but we'll get through it trust.
+
 #### Midterm 3 (on 4/9)
 
 **TBA**.
@@ -120,6 +122,8 @@ Me on 3/7: This assignment is just giving peer feedback to three other teams' pr
 #### Project 1 Final Presentation (due 3/22)
 
 **In progress**.
+
+Me on 3/15: Today was the first day where our group chat asked if we wanted to start on this project. One of our members won't be able to work from Friday to Sunday, so he said that he'll start and give the rest of the work to the other two of us.
 
 
 ### CS 7637: Knowledge-Based AI
@@ -186,6 +190,18 @@ Me on 2/27: Bro this was made easier because the professor basically said that w
 Me on 3/7: I'm glad that I could BS just enough to pass the autograder section, but since I was working on MATH 7018 HW 3, I didn't have enough time to work on the journal. I ended up mostly reusing stuff from my Milestone 2 journal, but I still had just enough time to write what I changed and even include two examples demonstrating it. However, the rest is nearly identical to Milestone 2...
 
 Me on 3/5: I was originally worried about this, especially because I also have MATH 7018 HW 3 due tomorrow, but I managed to mess around with this just enough to earn a 100 on the autograder, and it only took me around 30 minutes. Now all I have left is the journal.
+
+#### Homework 3 (due 3/13)
+
+**Score: TBA**.
+
+Me on 3/15: This was such a short assignment that I didn't end up writing anything about it here until now. Part 1 was a survey, which was slightly lengthy but still easy. Part 2 was the journal part, but we had to write less than usual.
+
+#### Milestone 4 (due 3/20)
+
+**In progress**.
+
+Me on 3/15: So I actually spent quite a few hours yesterday working on this, and I actually realized that all of the progress that I made on the past three milestones was completely useless, and I think I just got super lucky with those autograders. Due to having two other big HWs and two midterms this week, I'm not sure if I'll have enough time to get this to a 100, but we'll see.
 
 #### Midterm 2 (due 4/10)
 
@@ -261,11 +277,17 @@ Me on 3/7: Starting today. Unlike previous assignments, this one actually doesn'
 
 #### Homework 6 (due 3/15)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 3/15: Ok this one was actually kinda hard. I used ChatGPT for most of this (which is allowed), including the coding stuff. Unlike past HWs, I felt like this one didn't really align with the slides. Ah well, I submitted garbage, so I'll probably end up dropping this HW (unless there's an even worse one later on).
 
 #### Midterm 2 (on 3/19)
 
 **TBA**.
+
+#### Homework 7 (due 3/22)
+
+**In progress**.
 
 #### Final Exam (on 5/7)
 
@@ -432,7 +454,9 @@ Me on 2/16: Time to start studying. Although I feel like I actually know how to 
 
 #### Homework 3 (due 3/6)
 
-**Score: TBA**.
+**Score: 19/20**.
+
+Me on 3/15: I got this score yesterday. So I got my first non-100 on a HW in this class, and it was actually for messing up on some algebra steps on Q1. In other words, I didn't lose any points for actual class material. Ah well.
 
 Me on 3/7: This was definitely harder than HW 1 and HW 2. I feel ok about Q1 and Q4, and I only fixed Q2 after montresor2329 pointed out an error. As for Q3 and Q5, it's going to be based on how well these solutions actually work. I had to look stuff up a fair amount this time for help.
 
