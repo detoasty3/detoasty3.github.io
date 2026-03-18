@@ -279,6 +279,8 @@ Me on 3/7: Starting today. Unlike previous assignments, this one actually doesn'
 
 **Score: TBA**.
 
+Me on 3/17: So the sample solution came out, and... I messed this up HARD...
+
 Me on 3/15: Ok this one was actually kinda hard. I used ChatGPT for most of this (which is allowed), including the coding stuff. Unlike past HWs, I felt like this one didn't really align with the slides. Ah well, I submitted garbage, so I'll probably end up dropping this HW (unless there's an even worse one later on).
 
 #### Midterm 2 (on 3/19)
@@ -351,7 +353,11 @@ Me on 2/24: In preparation for Midterm 1, I decided to look at these problems. I
 
 #### Homework 4 (due 3/18)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 3/18: Dude even printing this out was a hassle because the library printer got stuck for so long. Thankfully, I got it to work (more like a student helped me out), and I was able to submit this successfully. That was a hard HW.
+
+Me on 3/17: Ok this was genuinely so stressful. I couldn't even do some of these problems by myself, so I had to get some help. Even though there were more problems than in previous HWs, the problems were not easier, nor were they shorter. I spent almost all of today grinding this out.
 
 Me on 3/11: 13 problems?? In one week??
 
@@ -467,6 +473,8 @@ Me on 3/4: After spending several hours on MATH 6321 HW 3, I am finally ready to
 #### Homework 4 (due 3/20)
 
 **In progress**.
+
+Me on 3/18: Just started, and montresor2329 basically solved Q4, but I remembered how to do it. I also (think I) solved Q2, which was even less difficult assuming that I did it correctly.
 
 #### Midterm 2 (on 4/8)
 
