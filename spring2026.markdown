@@ -71,7 +71,9 @@ Me on 3/13: I finished this yesterday in around 2 hours. This was a lot more mat
 
 #### Midterm 2 (on 3/19)
 
-**TBA**.
+**Score: TBA**.
+
+Me on 3/21: This was probably easier than Midterm 1, but I realized after the test that I got a 4/30-point true-false question wrong. Hopefully they can give partials since it was a true-false-with-explanation question, but I wouldn't be surprised if they take off all 4 points. The rest should be ok, though?
 
 Me on 3/15: I'm ever so slightly worried since I haven't really been paying attention to this class, but we'll get through it trust.
 
@@ -121,7 +123,9 @@ Me on 3/7: This assignment is just giving peer feedback to three other teams' pr
 
 #### Project 1 Final Presentation (due 3/22)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 3/21: My two partners basically carried. I was about to contribute to the presentation, but one of my partners suddenly said in the group chat that they finished recording it and submitted it to Canvas. Nice work, team!
 
 Me on 3/15: Today was the first day where our group chat asked if we wanted to start on this project. One of our members won't be able to work from Friday to Sunday, so he said that he'll start and give the rest of the work to the other two of us.
 
@@ -185,7 +189,9 @@ Me on 2/27: Bro this was made easier because the professor basically said that w
 
 #### Milestone 3 (due 3/6)
 
-**Score: 100/100 (Performance), TBA (Journal)**.
+**Score: 100/100 (Performance), 93/100 (Journal)**.
+
+Me on 3/21: So the journal grade came out last night, and despite basically recycling my Milestone 2 journal, I somehow managed to get a 93 on it.
 
 Me on 3/7: I'm glad that I could BS just enough to pass the autograder section, but since I was working on MATH 7018 HW 3, I didn't have enough time to work on the journal. I ended up mostly reusing stuff from my Milestone 2 journal, but I still had just enough time to write what I changed and even include two examples demonstrating it. However, the rest is nearly identical to Milestone 2...
 
@@ -199,9 +205,15 @@ Me on 3/15: This was such a short assignment that I didn't end up writing anythi
 
 #### Milestone 4 (due 3/20)
 
-**In progress**.
+**Score: 60/100 (Performance), TBA (Journal)**.
+
+Me on 3/21: So I basically decided to say screw it for this milestone, getting and accepting a 60 on the autograder and recycling my Milestone 3 journal, which was recycled from my Milestone 2 journal. Ah well...
 
 Me on 3/15: So I actually spent quite a few hours yesterday working on this, and I actually realized that all of the progress that I made on the past three milestones was completely useless, and I think I just got super lucky with those autograders. Due to having two other big HWs and two midterms this week, I'm not sure if I'll have enough time to get this to a 100, but we'll see.
+
+#### Homework 4 (due 4/3)
+
+**In progress**.
 
 #### Midterm 2 (due 4/10)
 
@@ -277,7 +289,9 @@ Me on 3/7: Starting today. Unlike previous assignments, this one actually doesn'
 
 #### Homework 6 (due 3/15)
 
-**Score: TBA**.
+**Score: 4/10**.
+
+Me on 3/21: Yep, I messed up.
 
 Me on 3/17: So the sample solution came out, and... I messed this up HARD...
 
@@ -285,11 +299,15 @@ Me on 3/15: Ok this one was actually kinda hard. I used ChatGPT for most of this
 
 #### Midterm 2 (on 3/19)
 
-**TBA**.
+**Score: TBA**.
 
-#### Homework 7 (due 3/22)
+Me on 3/21: Bruh. This was actually so hard. So questions Q2-Q7 were the standard copy-off-slides questions like Midterm 1, but then Q1 and Q8 were some crazy problems that weren't seen in class. I managed to guess the approach to Q8 somehow, but I still had a few inaccuracies, but Q1 was hopeless. I don't know how the class did on this, but I'm hoping that there's a curve and/or lenient grading.
+
+#### Homework 7 (due 3/30)
 
 **In progress**.
+
+Me on 3/21: A few days ago, this got extended from 3/22 to 3/30 (the Monday after break). Nice.
 
 #### Final Exam (on 5/7)
 
@@ -355,7 +373,7 @@ Me on 2/24: In preparation for Midterm 1, I decided to look at these problems. I
 
 **Score: TBA**.
 
-Me on 3/18: Dude even printing this out was a hassle because the library printer got stuck for so long. Thankfully, I got it to work (more like a student helped me out), and I was able to submit this successfully. That was a hard HW.
+Me on 3/18: Dude even printing this out was a hassle because the library printer got stuck for so long. Thankfully, I got it to work (more like a student helped me out), and I was able to submit this successfully. That was a hard HW. Problem order: Q1, Q2, Q4, Q5, Q3, Q12, Q13, Q9, Q8, Q6, Q11, Q7, Q10. I still feel unconfident about Q10, and I might have underexplained a bit on Q7. Other hard ones were Q6, Q11, and kind of Q1 and Q2.
 
 Me on 3/17: Ok this was genuinely so stressful. I couldn't even do some of these problems by myself, so I had to get some help. Even though there were more problems than in previous HWs, the problems were not easier, nor were they shorter. I spent almost all of today grinding this out.
 
@@ -472,7 +490,9 @@ Me on 3/4: After spending several hours on MATH 6321 HW 3, I am finally ready to
 
 #### Homework 4 (due 3/20)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 3/21: This was MUCH harder than HW 1-3, and I don't feel confident that I solved all of them. Q2 and Q4 should be solid, and I managed to find hints for Q3 online, but Q1 and Q5 were not the same. I couldn't figure out how to bound Q1 well, and Q5 was weird. We'll see what the grading has to say. I also spent most of 3/19 and 3/20 working on this.
 
 Me on 3/18: Just started, and montresor2329 basically solved Q4, but I remembered how to do it. I also (think I) solved Q2, which was even less difficult assuming that I did it correctly.
 
