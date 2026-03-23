@@ -43,6 +43,16 @@ I also graduated from the Georgia Institute of Technology in August 2025 with th
 
 <p style="margin-bottom: 15px;"></p>
 
+<h4 id="amazon--boston-ma"><strong>Capital One</strong> | McLean, VA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Software Engineer Intern</strong><br />
+2026 - Present</p>
+<ul>
+  <li>Incoming 2026.</li>
+</ul>
+
+<p style="margin-bottom: 15px;"></p>
+
 <h4 id="amazon--boston-ma"><strong>Amazon</strong> | Boston, MA</h4>
 <p style="margin-bottom: -15px;"></p>
 <p><strong>Software Development Engineer Intern</strong><br />
@@ -106,38 +116,61 @@ July 2021 – Present</p>
 
 <p style="margin-bottom: 15px;"></p>
 
-<h4 id="williams-college--remote"><strong>Williams College</strong> | Remote</h4>
-<p style="margin-bottom: -15px;"></p>
-<p><strong>Graduate Research Mentor</strong><br />
-June 2025 – August 2025</p>
-<ul>
-  <li>Worked in the Games and Finite Geometry team of the Polymath Jr REU, advised by Dr. Timothy Goldberg (Lenoir-Rhyne University) and Dr. Lauren Rose (Bard College).</li>
-  <li>Mentored 20 undergraduates on a research problem of the real-time card game Quads through weekly reading sessions.</li>
-  <li>Wrote 2 C++ scripts to find the maximum number of quads, one recursive and one using the Moser-de Bruijn sequence.</li>
-  <li>Optimized recursion in Rust, reducing runtime by over 400% via multithreading, specifying targets, and early exiting.</li>
-  <li>Proved bounds on the maximum number of quads in a deck of size a power of 2.</li>
-</ul>
-
 <p style="margin-bottom: 15px;"></p>
 <h4 id="georgia-tech-college-of-sciences--atlanta-ga"><strong>Georgia Tech School of Mathematics</strong> | Atlanta, GA</h4>
 <p style="margin-bottom: -15px;"></p>
 <p><strong>Research Assistant</strong><br />
-August 2023 – Graduation</p>
+Fall 2023 – Present</p>
 <ul>
   <li>Advised by Dr. Ernie Croot.</li>
-  <li>In 2023-2024, we explored bijections of counting problems to spanning trees and explored ways to use the Matrix-Tree Theorem to strengthen known bounds on the counting of configurations.</li>
-  <li>In 2024-2025, we worked on finding asymptotic upper and lower bounds on the size of a maximal induced forest in grid graphs over a result by Noga Alon from 2001.</li>
-  <li>In 2025-2026, we are working on a simpler but related problem involving 4-cycle avoidance in induced subgraphs of 2D grid graphs.</li>
-  <li>First-author a WIP paper estimated to be completed in mid-2026.</li>
+  <li>Explored the Kirchhoff Matrix-Tree Theorem and researched domino tiling enumerations on a grid to attempt to strengthen existing bounds.</li>
+  <li>Researched maximal induced forests in multi-dimensional grid graphs; found and proved bounds with a construction giving a tight upper bound for two-dimensional graphs, but discovered these results were already found in Caragiannis *et al.* (2002).</li>
+  <li>Found an upper bound of $3n^2/4$ for the size of maximal induced 4-cycle-free subgraphs in two-dimensional grid graphs. Proved upper and lower bounds on the number of such subsets with $(3/4 - \varepsilon)n^2$ vertices by considering local $2 \times 2$ subgrids and identifying a necessary constructive condition.</li>
+  <li>Our work resulted in the paper *4-cycle-free induced subgraphs of grid graphs*; presented at MAA-SE 2026.</li>
+</ul>
+
+<p style="margin-bottom: 15px;"></p>
+<h4 id="quad-packing"><strong>Quad Packing Research Group</strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Research Assistant</strong><br />
+Spring 2025 – Present</p>
+<ul>
+  <li>Advised by Dr. Timothy Goldberg (Lenoir-Rhyne University) and Dr. Lauren Rose (Bard College).</li>
+  <li>Select participants from the 2024 Polymath Jr REU plus other researchers met at JMM 2025.</li>
+  <li>Proved an exact expression for the flat ($r$-dimensional affine subspaces of a vector space $V$) number, showing that each term $M(n)$ can be written as the sums and products of certain combinations of powers of 2 in the binary representation of $n$.</li>
+  <li>Proved quad packing is equivalent to flat packing via an injective mapping, resolving a conjecture in a 2023 MIT Primes paper.</li>
+  <li>Our work resulted in the paper \textit{Quad-packing in the game EvenQuads}; presented at MAA-SE 2026, contributed to JMM 2026.</li>
+</ul>
+
+<h4 id="williams-college--remote"><strong>Williams College</strong> | Remote</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Participant (2024), Graduate Research Mentor (2025)</strong><br />
+Summer 2024, 2025</p>
+<ul>
+  <li>Worked in the Games and Finite Geometry team of the Polymath Jr REU, advised by Dr. Timothy Goldberg (Lenoir-Rhyne University) and Dr. Lauren Rose (Bard College).</li>
+  <li>Researched the quad number $q(n)$ in the card game \textit{Quads}; wrote C++ code to brute-force results for $n \in [4,16]$ and $d=\lceil \log_2 n \rceil$.</li>
+  <li>Mentored $20$ undergraduates, introducing them to the research problem and the game itself through resources and weekly meetings.</li>
+  <li>Proved upper bound expression for $q(n)$ and attainability for $n$ a power of two; presented at JMM 2025 and MAA-SE 2025.</li>
+</ul>
+
+<p style="margin-bottom: 15px;"></p>
+<h4 id="georgia-tech-school-of-modern-languages--atlanta-ga"><strong>Georgia Tech School of Modern Languages</strong> | Atlanta, GA</h4>
+<p style="margin-bottom: -15px;"></p>
+<p><strong>Research Assistant</strong><br />
+Summer 2024</p>
+<ul>
+  <li>Advised by Kyoko Masuda.</li>
+  <li>Researched frequency of female versus male pronouns in the manga *Sazae-san* and drew conclusions based on different age groups.</li>
+  <li>Submitted collaborative research paper in Japanese to the SGSJ in 2024; presented at SGSJ 2024.</li>
 </ul>
 
 <p style="margin-bottom: 15px;"></p>
 <h4 id="georgia-tech-school-of-electrical-and-computer-engineering--atlanta-ga"><strong>Georgia Tech School of Electrical and Computer Engineering</strong> | Atlanta, GA</h4>
 <p style="margin-bottom: -15px;"></p>
 <p><strong>Research Assistant</strong><br />
-August 2023 – December 2023</p>
+Fall 2023</p>
 <ul>
-  <li>Worked in the <a href="https://www.vip-consortium.org/teams/retrofuturistic-hardware">Retrofuturistic Hardware</a> team under Prof. Aaron Lanterman.</li>
+  <li>Worked in the <a href="https://www.vip-consortium.org/teams/retrofuturistic-hardware">Retrofuturistic Hardware</a> team under Dr. Aaron Lanterman.</li>
   <li>Translated docs of the Japanese NEC PC-FX game console to English, storing 12 files of 15k+ lines in Github Pages.</li>
   <li>Researched the PC-FX’s address map, register list, and I/O access space and the specs of its sound processing device.</li>
   <li>Analyzed the C Compiler of the GMAKER Starter Kit (processing flow/registers), allowing user-made software to run.</li>
@@ -147,37 +180,32 @@ August 2023 – December 2023</p>
 <p style="margin-bottom: 15px;"></p>
 <h4 id="tagt"><strong>Conferences/Seminars:</strong></h4>
 <ul>
-  <li>March 2026 - MAA Southeastern Sectional Meeting, University of North Alabama (first presenter)</li>
+  <li>March 2026 - MAA Southeastern Sectional Meeting, University of North Alabama, Florence, AL</li>
   <ul>
     <li>Session: Contributed Papers Session #6</li>
     <li>Talk: Burnside's lemma and applications in competition problems</li>
   </ul>
-  <li>March 2026 - MAA Southeastern Sectional Meeting, University of North Alabama (first presenter)</li>
+  <li>March 2026 - MAA Southeastern Sectional Meeting, University of North Alabama, Florence, AL</li>
   <ul>
     <li>Session: Recreational Math Session #2</li>
     <li>Talk: Quad-packing in the game EvenQuads</li>
   </ul>
-  <li>March 2026 - MAA Southeastern Sectional Meeting, University of North Alabama (first presenter)</li>
+  <li>March 2026 - MAA Southeastern Sectional Meeting, University of North Alabama, Florence, AL</li>
   <ul>
     <li>Session: Contributed Papers Session #1</li>
     <li>Talk: 4-cycle-free induced subgraphs of grid graphs</li>
   </ul>
-  <li>January 2026 - Joint Mathematics Meetings, Washington, DC (co-presenter)</li>
-  <ul>
-    <li>Session: AMS Special Session on A Showcase of Recreational Mathematics: Theory, Applications, and Engagement in Teaching and Research, II</li>
-    <li>Talk: Quad-packing in the game EvenQuads</li>
-  </ul>
-  <li>March 2025 - MAA Southeastern Sectional Meeting, High Point University (first presenter)</li>
+  <li>March 2025 - MAA Southeastern Sectional Meeting, High Point University, High Point, NC</li>
   <ul>
     <li>Session: Undergraduate Paper Session II-4</li>
     <li>Talk: Quad Packing</li>
   </ul>
-  <li>January 2025 - Joint Mathematics Meetings, Seattle, WA (first presenter)</li>
+  <li>January 2025 - Joint Mathematics Meetings, Seattle Convention Center, Seattle, WA</li>
   <ul>
     <li>Session: AMS Special Session on Polymath Jr REU Student Research Session, I</li>
     <li>Talk: Quad Packing</li>
   </ul>
-  <li>July 2024 - The Society for Gender Studies in Japanese Conference, Tokyo International University (co-presenter)</li>
+  <li>July 2024 - The Society for Gender Studies in Japanese Conference, Tokyo International University, Toshima, Tokyo, Japan</li>
   <ul>
     <li>Talk: Gender Expressions Used by Female Characters in "Sazae-san" (「サザエさん」の女性登場人物が用いるジェンダー表現の考察)</li>
   </ul>
