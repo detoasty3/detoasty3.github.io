@@ -43,16 +43,6 @@ I also graduated from the Georgia Institute of Technology in August 2025 with th
 
 <p style="margin-bottom: 15px;"></p>
 
-<h4 id="amazon--boston-ma"><strong>Capital One</strong> | McLean, VA</h4>
-<p style="margin-bottom: -15px;"></p>
-<p><strong>Software Engineer Intern</strong><br />
-2026 - Present</p>
-<ul>
-  <li>Incoming 2026.</li>
-</ul>
-
-<p style="margin-bottom: 15px;"></p>
-
 <h4 id="amazon--boston-ma"><strong>Amazon</strong> | Boston, MA</h4>
 <p style="margin-bottom: -15px;"></p>
 <p><strong>Software Development Engineer Intern</strong><br />
