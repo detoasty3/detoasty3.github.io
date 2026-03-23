@@ -124,9 +124,9 @@ Fall 2023 – Present</p>
 <ul>
   <li>Advised by Dr. Ernie Croot.</li>
   <li>Explored the Kirchhoff Matrix-Tree Theorem and researched domino tiling enumerations on a grid to attempt to strengthen existing bounds.</li>
-  <li>Researched maximal induced forests in multi-dimensional grid graphs; found and proved bounds with a construction giving a tight upper bound for two-dimensional graphs, but discovered these results were already found in Caragiannis *et al.* (2002).</li>
+  <li>Researched maximal induced forests in multi-dimensional grid graphs; found and proved bounds with a construction giving a tight upper bound for two-dimensional graphs, but discovered these results were already found in Caragiannis <i>et al.</i> (2002).</li>
   <li>Found an upper bound of $3n^2/4$ for the size of maximal induced 4-cycle-free subgraphs in two-dimensional grid graphs. Proved upper and lower bounds on the number of such subsets with $(3/4 - \varepsilon)n^2$ vertices by considering local $2 \times 2$ subgrids and identifying a necessary constructive condition.</li>
-  <li>Our work resulted in the paper *4-cycle-free induced subgraphs of grid graphs*; presented at MAA-SE 2026.</li>
+  <li>Our work resulted in the paper <i>4-cycle-free induced subgraphs of grid graphs</i>; presented at MAA-SE 2026.</li>
 </ul>
 
 <p style="margin-bottom: 15px;"></p>
@@ -139,7 +139,7 @@ Spring 2025 – Present</p>
   <li>Select participants from the 2024 Polymath Jr REU plus other researchers met at JMM 2025.</li>
   <li>Proved an exact expression for the flat ($r$-dimensional affine subspaces of a vector space $V$) number, showing that each term $M(n)$ can be written as the sums and products of certain combinations of powers of 2 in the binary representation of $n$.</li>
   <li>Proved quad packing is equivalent to flat packing via an injective mapping, resolving a conjecture in a 2023 MIT Primes paper.</li>
-  <li>Our work resulted in the paper \textit{Quad-packing in the game EvenQuads}; presented at MAA-SE 2026, contributed to JMM 2026.</li>
+  <li>Our work resulted in the paper <i>Quad-packing in the game EvenQuads</i>; presented at MAA-SE 2026, contributed to JMM 2026.</li>
 </ul>
 
 <h4 id="williams-college--remote"><strong>Williams College</strong> | Remote</h4>
@@ -148,7 +148,7 @@ Spring 2025 – Present</p>
 Summer 2024, 2025</p>
 <ul>
   <li>Worked in the Games and Finite Geometry team of the Polymath Jr REU, advised by Dr. Timothy Goldberg (Lenoir-Rhyne University) and Dr. Lauren Rose (Bard College).</li>
-  <li>Researched the quad number $q(n)$ in the card game \textit{Quads}; wrote C++ code to brute-force results for $n \in [4,16]$ and $d=\lceil \log_2 n \rceil$.</li>
+  <li>Researched the quad number $q(n)$ in the card game <i>Quads</i>; wrote C++ code to brute-force results for $n \in [4,16]$ and $d=\lceil \log_2 n \rceil$.</li>
   <li>Mentored $20$ undergraduates, introducing them to the research problem and the game itself through resources and weekly meetings.</li>
   <li>Proved upper bound expression for $q(n)$ and attainability for $n$ a power of two; presented at JMM 2025 and MAA-SE 2025.</li>
 </ul>
@@ -160,7 +160,7 @@ Summer 2024, 2025</p>
 Summer 2024</p>
 <ul>
   <li>Advised by Kyoko Masuda.</li>
-  <li>Researched frequency of female versus male pronouns in the manga *Sazae-san* and drew conclusions based on different age groups.</li>
+  <li>Researched frequency of female versus male pronouns in the manga <i>Sazae-san</i> and drew conclusions based on different age groups.</li>
   <li>Submitted collaborative research paper in Japanese to the SGSJ in 2024; presented at SGSJ 2024.</li>
 </ul>
 
