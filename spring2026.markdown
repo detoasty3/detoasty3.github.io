@@ -113,7 +113,9 @@ Me on 2/7: Ok so I think our group is planning to meet irl next Monday. I'll hav
 
 #### Project 1 Proposal Summaries (due 3/8)
 
-**Score: TBA**.
+**Score: 4.6/5**.
+
+Me on 3/24: We lost 0.4/5 since one of my teammates had a flawed response. It's fine.
 
 Me on 3/9: So I finished relatively quickly (around 30 minutes), but I started slacking off on my responses towards the end.
 
