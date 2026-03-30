@@ -115,7 +115,7 @@ Me on 2/7: Ok so I think our group is planning to meet irl next Monday. I'll hav
 
 **Score: 4.6/5**.
 
-Me on 3/24: We lost 0.4/5 since one of my teammates had a flawed response. It's fine.
+Me on 3/24: This came back on 3/23. We lost 0.4/5 since one of my teammates had a flawed response. It's fine.
 
 Me on 3/9: So I finished relatively quickly (around 30 minutes), but I started slacking off on my responses towards the end.
 
@@ -301,7 +301,9 @@ Me on 3/15: Ok this one was actually kinda hard. I used ChatGPT for most of this
 
 #### Midterm 2 (on 3/19)
 
-**Score: TBA**.
+**Score: 83/100**.
+
+Me on 3/30: I got a 70 originally, so I actually did slightly worse than I expected (I was predicting mid 70s), but then he curved everyone's grades using a formula that I don't really understand. I'll take an 83, which was slightly above the median (currently 82) and slightly below the upper quartile (currently 86). Actually, even the lower quartile wasn't too far away (currently 78), so most of the class performed similar to each other.
 
 Me on 3/21: Bruh. This was actually so hard. So questions Q2-Q7 were the standard copy-off-slides questions like Midterm 1, but then Q1 and Q8 were some crazy problems that weren't seen in class. I managed to guess the approach to Q8 somehow, but I still had a few inaccuracies, but Q1 was hopeless. I don't know how the class did on this, but I'm hoping that there's a curve and/or lenient grading.
 
