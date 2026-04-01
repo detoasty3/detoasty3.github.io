@@ -131,6 +131,18 @@ Me on 3/21: My two partners basically carried. I was about to contribute to the 
 
 Me on 3/15: Today was the first day where our group chat asked if we wanted to start on this project. One of our members won't be able to work from Friday to Sunday, so he said that he'll start and give the rest of the work to the other two of us.
 
+#### Project 1 Self and Team Assessments (due 4/5)
+
+**Score: TBA**.
+
+Me on 4/1: Just a quick evaluation on how you and your teammates did.
+
+#### Project 2 Proposal Presentation (due 4/5)
+
+**In progress**.
+
+Me on 4/1: At least there's a grace period until 4/8.
+
 
 ### CS 7637: Knowledge-Based AI
 TR 3:30-4:45
@@ -309,9 +321,15 @@ Me on 3/21: Bruh. This was actually so hard. So questions Q2-Q7 were the standar
 
 #### Homework 7 (due 3/30)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 4/1: I barely clutched that deadline while I was traveling with my mom.
 
 Me on 3/21: A few days ago, this got extended from 3/22 to 3/30 (the Monday after break). Nice.
+
+#### Homework 8 (due 4/5)
+
+**In progress**.
 
 #### Final Exam (on 5/7)
 
@@ -375,7 +393,9 @@ Me on 2/24: In preparation for Midterm 1, I decided to look at these problems. I
 
 #### Homework 4 (due 3/18)
 
-**Score: TBA**.
+**Score: 100/100**.
+
+Me on 4/1: Let's go!!!
 
 Me on 3/18: Dude even printing this out was a hassle because the library printer got stuck for so long. Thankfully, I got it to work (more like a student helped me out), and I was able to submit this successfully. That was a hard HW. Problem order: Q1, Q2, Q4, Q5, Q3, Q12, Q13, Q9, Q8, Q6, Q11, Q7, Q10. I still feel unconfident about Q10, and I might have underexplained a bit on Q7. Other hard ones were Q6, Q11, and kind of Q1 and Q2.
 
