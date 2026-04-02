@@ -213,7 +213,9 @@ Me on 3/5: I was originally worried about this, especially because I also have M
 
 #### Homework 3 (due 3/13)
 
-**Score: TBA**.
+**Score: 90/100**.
+
+Me on 4/1: Whatever.
 
 Me on 3/15: This was such a short assignment that I didn't end up writing anything about it here until now. Part 1 was a survey, which was slightly lengthy but still easy. Part 2 was the journal part, but we had to write less than usual.
 
@@ -321,9 +323,9 @@ Me on 3/21: Bruh. This was actually so hard. So questions Q2-Q7 were the standar
 
 #### Homework 7 (due 3/30)
 
-**Score: TBA**.
+**Score: 10/10**.
 
-Me on 4/1: I barely clutched that deadline while I was traveling with my mom.
+Me on 4/1: I barely clutched that deadline while I was traveling with my mom. Update: Nice.
 
 Me on 3/21: A few days ago, this got extended from 3/22 to 3/30 (the Monday after break). Nice.
 
