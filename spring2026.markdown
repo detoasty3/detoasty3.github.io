@@ -516,7 +516,9 @@ Me on 3/4: After spending several hours on MATH 6321 HW 3, I am finally ready to
 
 #### Homework 4 (due 3/20)
 
-**Score: TBA**.
+**Score: 16/20**.
+
+Me on 4/2: I lost two points each on Q1 and Q3. I made some errors in choosing constants and also bounding I guess. The median was also 16/20, but the upper quartile was 19/20. I'm glad they gave me full points on Q5 though.
 
 Me on 3/21: This was MUCH harder than HW 1-3, and I don't feel confident that I solved all of them. Q2 and Q4 should be solid, and I managed to find hints for Q3 online, but Q1 and Q5 were not the same. I couldn't figure out how to bound Q1 well, and Q5 was weird. We'll see what the grading has to say. I also spent most of 3/19 and 3/20 working on this.
 
