@@ -315,7 +315,9 @@ Me on 3/15: Ok this one was actually kinda hard. I used ChatGPT for most of this
 
 #### Midterm 2 (on 3/19)
 
-**Score: 83/100**.
+**Score: 84/100**.
+
+Me on 4/3: I managed to go from 70 to 72 by going to office hours and hoping that the TA would give me points after reviewing where I lost points. My curved score then went from 83 to 84. Ultimately, I lost 18 points on Q1, 5 points on Q3, and 5 points on Q8.
 
 Me on 3/30: I got a 70 originally, so I actually did slightly worse than I expected (I was predicting mid 70s), but then he curved everyone's grades using a formula that I don't really understand. I'll take an 83, which was slightly above the median (currently 82) and slightly below the upper quartile (currently 86). Actually, even the lower quartile wasn't too far away (currently 78), so most of the class performed similar to each other.
 
