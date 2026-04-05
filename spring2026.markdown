@@ -137,7 +137,7 @@ Me on 3/15: Today was the first day where our group chat asked if we wanted to s
 
 Me on 4/1: Just a quick evaluation on how you and your teammates did.
 
-#### Project 2 Proposal Presentation (due 4/5)
+#### Project 2 Proposal Presentation ("due" 4/5, due 4/8)
 
 **In progress**.
 
@@ -227,9 +227,11 @@ Me on 3/21: So I basically decided to say screw it for this milestone, getting a
 
 Me on 3/15: So I actually spent quite a few hours yesterday working on this, and I actually realized that all of the progress that I made on the past three milestones was completely useless, and I think I just got super lucky with those autograders. Due to having two other big HWs and two midterms this week, I'm not sure if I'll have enough time to get this to a 100, but we'll see.
 
-#### Homework 4 (due 4/3)
+#### Homework 4 (due 4/6)
 
 **In progress**.
+
+Me on 4/4: Thankfully, this was extended from 4/3 to 4/6. I got a bit lazy this week, so I started yesterday. However, now I only have a few reflections left to write for this and then I will be done.
 
 #### Midterm 2 (due 4/10)
 
@@ -333,7 +335,13 @@ Me on 3/21: A few days ago, this got extended from 3/22 to 3/30 (the Monday afte
 
 #### Homework 8 (due 4/5)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 4/4: That was quick.
+
+#### Homework 9 (due 4/12)
+
+**In progress.**
 
 #### Final Exam (on 5/7)
 
