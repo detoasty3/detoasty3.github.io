@@ -425,7 +425,9 @@ Me on 3/11: 13 problems?? In one week??
 
 #### Midterm 2 (on 4/8)
 
-**TBA**.
+**Score: TBA**.
+
+Ouch. That exam probably took the new lead for the hardest midterm I've taken. What even is this class anymore...? So there was a bonus question worth 15 points, so one could get at most a 115. But then there were like 55 points of insane integrals and like... what? Even my DRP mentor from last spring said he wasn't sure on those.
 
 #### Final Exam (on 5/6)
 
@@ -536,7 +538,7 @@ Me on 3/4: After spending several hours on MATH 6321 HW 3, I am finally ready to
 
 **Score: 16/20**.
 
-Me on 4/8: I submitted a regrade yesterday on Q3 since I think they thought I made a larger error than I did.
+Me on 4/8: I submitted a regrade yesterday on Q3 since I think they thought I made a larger error than I did. Edit: No dice.
 
 Me on 4/2: I lost two points each on Q1 and Q3. I made some errors in choosing constants and also bounding I guess. The median was also 16/20, but the upper quartile was 19/20. I'm glad they gave me full points on Q5 though.
 
@@ -546,7 +548,9 @@ Me on 3/18: Just started, and montresor2329 basically solved Q4, but I remembere
 
 #### Midterm 2 (on 4/8)
 
-**TBA**.
+**Score: TBA**.
+
+That was actually not too bad. Though with harsh grading, I might still not do too well. There were a few places where I didn't know how to bound well, so I'll probably lose some points. The question now is how many. At least I did well on exam 1 (38/40), so I do have a fair amount of legroom.
 
 #### Final Exam (on 5/1)
 
