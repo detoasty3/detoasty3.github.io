@@ -65,7 +65,9 @@ Me on 2/24: So apparently the due date was extended from 2/26 to 2/27. I'm prett
 
 #### Homework 5 (due 3/13)
 
-**Score: TBA**.
+**Score: 17/20**.
+
+Me on 4/8: This was returned on 4/6. I lost three points on Q3 because I used an external theorem that doesn't even work, but I think I had a correct proof underneath that, so I requested a regrade.
 
 Me on 3/13: I finished this yesterday in around 2 hours. This was a lot more math-y, which was a plus for me.
 
@@ -229,13 +231,17 @@ Me on 3/15: So I actually spent quite a few hours yesterday working on this, and
 
 #### Homework 4 (due 4/6)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 4/6: Submitted yesterday.
 
 Me on 4/4: Thankfully, this was extended from 4/3 to 4/6. I got a bit lazy this week, so I started yesterday. However, now I only have a few reflections left to write for this and then I will be done.
 
-#### Midterm 2 (due 4/10)
+#### Midterm 2 (due 4/13)
 
 **TBA**.
+
+Me on 4/8: Extended from 4/10 to 4/13.
 
 
 ### ISYE 6416: Computational Statistics
@@ -335,13 +341,15 @@ Me on 3/21: A few days ago, this got extended from 3/22 to 3/30 (the Monday afte
 
 #### Homework 8 (due 4/5)
 
-**Score: TBA**.
+**Score: 10/10**.
+
+Me on 4/6: Nice.
 
 Me on 4/4: That was quick.
 
 #### Homework 9 (due 4/12)
 
-**In progress.**
+**In progress**.
 
 #### Final Exam (on 5/7)
 
@@ -527,6 +535,8 @@ Me on 3/4: After spending several hours on MATH 6321 HW 3, I am finally ready to
 #### Homework 4 (due 3/20)
 
 **Score: 16/20**.
+
+Me on 4/8: I submitted a regrade yesterday on Q3 since I think they thought I made a larger error than I did.
 
 Me on 4/2: I lost two points each on Q1 and Q3. I made some errors in choosing constants and also bounding I guess. The median was also 16/20, but the upper quartile was 19/20. I'm glad they gave me full points on Q5 though.
 
