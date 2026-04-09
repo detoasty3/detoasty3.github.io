@@ -211,7 +211,7 @@ Fall 2023</p>
 I used to participate in math competitions a lot. Here are some of my achievements:
 
 * William Lowell Putnam Mathematical Competition Top 15% (2023) (score 24, rank 606)
-* University of Illinois Freshman Math Contest 3rd Place (2021)
+* University of Illinois Freshman Math Contest Third Place (2021)
 * Princeton University Mathematics Competition Division B Individual Finalist (2021) (rank 39)
 * American Invitational Mathematics Examination Qualifier (2019, 2020, 2021) (max score 10)
 * USA Mathematical Talent Search Bronze Medalist (2019, 2021)
