@@ -36,7 +36,7 @@ I also graduated from the Georgia Institute of Technology in August 2025 with th
 
 ---
 
-<p style="margin-bottom: 15px;"></p>
+<!-- <p style="margin-bottom: 15px;"></p>
 
 <div class="card">
 <h4 id="computer-science"><strong>Work Experience:</strong></h4>
@@ -204,7 +204,7 @@ Fall 2023</p>
 
 <p style="margin-bottom: 15px;"></p>
 
----
+--- -->
 
 <p style="margin-bottom: 15px;"></p>
 
@@ -217,3 +217,11 @@ I used to participate in math competitions a lot. Here are some of my achievemen
 * USA Mathematical Talent Search Bronze Medalist (2019, 2021)
 
 I was also an active member on the Art of Problem Solving forums as [DeToasty3](https://artofproblemsolving.com/community/user/324129).
+
+<p style="margin-bottom: 15px;"></p>
+
+---
+
+<p style="margin-bottom: 15px;"></p>
+
+For more information about me, here is my [CV](/CV.pdf).
