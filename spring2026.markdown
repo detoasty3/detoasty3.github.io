@@ -81,7 +81,9 @@ Me on 3/15: I'm ever so slightly worried since I haven't really been paying atte
 
 #### Midterm 3 (on 4/9)
 
-**TBA**.
+**Score: TBA**.
+
+Me on 4/9: Bruh, I messed up... ok so the test wasn't impossible, but I did mess up some easy MCQ at the beginning, and worse than that was that I got stuck on the last problem and couldn't solve it. I was so upset... I'm definitely going to have to take the extra credit final exam, no doubt about that.
 
 
 ### CS 7634: AI Storytelling in Virtual Worlds
@@ -427,7 +429,7 @@ Me on 3/11: 13 problems?? In one week??
 
 **Score: TBA**.
 
-Ouch. That exam probably took the new lead for the hardest midterm I've taken. What even is this class anymore...? So there was a bonus question worth 15 points, so one could get at most a 115. But then there were like 55 points of insane integrals and like... what? Even my DRP mentor from last spring said he wasn't sure on those.
+Me on 4/8: Ouch. That exam probably took the new lead for the hardest midterm I've taken. What even is this class anymore...? So there was a bonus question worth 15 points, so one could get at most a 115. But then there were like 55 points of insane integrals and like... what? Even my DRP mentor from last spring said he wasn't sure on those.
 
 #### Final Exam (on 5/6)
 
@@ -550,7 +552,7 @@ Me on 3/18: Just started, and montresor2329 basically solved Q4, but I remembere
 
 **Score: TBA**.
 
-That was actually not too bad. Though with harsh grading, I might still not do too well. There were a few places where I didn't know how to bound well, so I'll probably lose some points. The question now is how many. At least I did well on exam 1 (38/40), so I do have a fair amount of legroom.
+Me on 4/8: That was actually not too bad. Though with harsh grading, I might still not do too well. There were a few places where I didn't know how to bound well, so I'll probably lose some points. The question now is how many. At least I did well on exam 1 (38/40), so I do have a fair amount of legroom.
 
 #### Final Exam (on 5/1)
 
