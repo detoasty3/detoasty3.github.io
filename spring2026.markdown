@@ -73,7 +73,9 @@ Me on 3/13: I finished this yesterday in around 2 hours. This was a lot more mat
 
 #### Midterm 2 (on 3/19)
 
-**Score: TBA**.
+**Score: 26/30**.
+
+Me on 4/9: Yep, they took off all four points... at least I got full points on everything else.
 
 Me on 3/21: This was probably easier than Midterm 1, but I realized after the test that I got a 4/30-point true-false question wrong. Hopefully they can give partials since it was a true-false-with-explanation question, but I wouldn't be surprised if they take off all 4 points. The rest should be ok, though?
 
