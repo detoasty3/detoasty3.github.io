@@ -65,7 +65,9 @@ Me on 2/24: So apparently the due date was extended from 2/26 to 2/27. I'm prett
 
 #### Homework 5 (due 3/13)
 
-**Score: 17/20**.
+**Score: 20/20**.
+
+Me on 4/10: Approved (yesterday)! My score went from 17/20 to 20/20.
 
 Me on 4/8: This was returned on 4/6. I lost three points on Q3 because I used an external theorem that doesn't even work, but I think I had a correct proof underneath that, so I requested a regrade.
 
@@ -229,7 +231,9 @@ Me on 3/15: This was such a short assignment that I didn't end up writing anythi
 
 #### Milestone 4 (due 3/20)
 
-**Score: 60/100 (Performance), TBA (Journal)**.
+**Score: 60/100 (Performance), 88/100 (Journal)**.
+
+Me on 4/10: Eh, we'll take it. At least it didn't ruin my grade by that much...
 
 Me on 3/21: So I basically decided to say screw it for this milestone, getting and accepting a 60 on the autograder and recycling my Milestone 3 journal, which was recycled from my Milestone 2 journal. Ah well...
 
