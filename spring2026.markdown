@@ -143,7 +143,9 @@ Me on 4/1: Just a quick evaluation on how you and your teammates did.
 
 #### Project 2 Proposal Presentation ("due" 4/5, due 4/8)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 4/9: Apparently one of our group members clutched the grace period deadline. Good going!
 
 Me on 4/1: At least there's a grace period until 4/8.
 
@@ -241,7 +243,9 @@ Me on 4/4: Thankfully, this was extended from 4/3 to 4/6. I got a bit lazy this 
 
 #### Midterm 2 (due 4/13)
 
-**TBA**.
+**In progress**.
+
+Me on 4/9: Probably gonna start this over the weekend along with ISYE 6416 HW 9.
 
 Me on 4/8: Extended from 4/10 to 4/13.
 
