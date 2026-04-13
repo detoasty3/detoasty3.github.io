@@ -153,6 +153,10 @@ Me on 4/9: Apparently one of our group members clutched the grace period deadlin
 
 Me on 4/1: At least there's a grace period until 4/8.
 
+#### Project 2 Proposal Summaries (due 4/19)
+
+**In progress**.
+
 
 ### CS 7637: Knowledge-Based AI
 TR 3:30-4:45
@@ -250,6 +254,8 @@ Me on 4/4: Thankfully, this was extended from 4/3 to 4/6. I got a bit lazy this 
 #### Midterm 2 (due 4/13)
 
 **In progress**.
+
+Me on 4/13: Starting today...
 
 Me on 4/9: Probably gonna start this over the weekend along with ISYE 6416 HW 9.
 
@@ -361,7 +367,9 @@ Me on 4/4: That was quick.
 
 #### Homework 9 (due 4/12)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 4/13: That was quick.
 
 #### Final Exam (on 5/7)
 
@@ -560,9 +568,17 @@ Me on 3/18: Just started, and montresor2329 basically solved Q4, but I remembere
 
 #### Midterm 2 (on 4/8)
 
-**Score: TBA**.
+**Score: 34/40**.
+
+Me on 4/13: I lost two points each on Q2, Q3, and Q4 for minor errors, but I'll take it. Once again, I scored above the upper quartile (33/40), and the median was a 30.5/40.
 
 Me on 4/8: That was actually not too bad. Though with harsh grading, I might still not do too well. There were a few places where I didn't know how to bound well, so I'll probably lose some points. The question now is how many. At least I did well on exam 1 (38/40), so I do have a fair amount of legroom.
+
+#### Homework 5 (due 4/27)
+
+**In progress**.
+
+Me on 4/13: This was released today and extended from 4/24 to 4/27.
 
 #### Final Exam (on 5/1)
 
