@@ -11,7 +11,7 @@ So on this page, I'll just talk about my classes during the Spring 2026 semester
 ### CS 6515: Introduction to Graduate Algorithms
 TR 2:00-3:15
 
-No finals, 3 midterms (25% each), 7-8 HWs (25%)
+Extra credit final (+5%), 3 midterms (25% each), 6 HWs (25%)
 
 #### Homework 1 (due 1/29)
 
@@ -88,6 +88,10 @@ Me on 3/15: I'm ever so slightly worried since I haven't really been paying atte
 **Score: TBA**.
 
 Me on 4/9: Bruh, I messed up... ok so the test wasn't impossible, but I did mess up some easy MCQ at the beginning, and worse than that was that I got stuck on the last problem and couldn't solve it. I was so upset... I'm definitely going to have to take the extra credit final exam, no doubt about that.
+
+#### Final Exam (on 4/28)
+
+**TBA**.
 
 
 ### CS 7634: AI Storytelling in Virtual Worlds
@@ -267,7 +271,7 @@ TR 12:30-1:45
 
 Final exam period: R 5/7 11:20-2:10
 
-Final exam (25%), 2 midterms (25% each), 11? HWs (25%)
+Final exam (25%), 2 midterms (25% each), 10-11 HWs (25%)
 
 #### Homework 1 (due 1/27)
 
@@ -371,6 +375,10 @@ Me on 4/4: That was quick.
 
 Me on 4/13: That was quick.
 
+#### Homework 10 (due 4/19)
+
+**In progress**.
+
 #### Final Exam (on 5/7)
 
 **TBA**.
@@ -381,7 +389,7 @@ MW 12:30-1:45
 
 Final exam period: W 5/6 11:20-2:10
 
-Final exam (30%), 2 midterms (20% each), 5-6? HWs (30%)
+Final exam (30%), 2 midterms (20% each), 5-6 HWs (30%)
 
 #### Homework 1 (due 1/28)
 
