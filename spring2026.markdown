@@ -11,7 +11,7 @@ So on this page, I'll just talk about my classes during the Spring 2026 semester
 ### CS 6515: Introduction to Graduate Algorithms
 TR 2:00-3:15
 
-Extra credit final (+5%), 3 midterms (25% each), 6 HWs (25%)
+Extra credit final exam (+5%), 3 midterms (25% each), 6 HWs (25%)
 
 #### Homework 1 (due 1/29)
 
