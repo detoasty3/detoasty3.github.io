@@ -257,7 +257,9 @@ Me on 4/4: Thankfully, this was extended from 4/3 to 4/6. I got a bit lazy this 
 
 #### Midterm 2 (due 4/13)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 4/15: Not as long as Midterm 1, I think.
 
 Me on 4/13: Starting today...
 
@@ -371,7 +373,9 @@ Me on 4/4: That was quick.
 
 #### Homework 9 (due 4/12)
 
-**Score: TBA**.
+**Score: 9.9/10**.
+
+Me on 4/15: This was handed back on 4/13. I lost 0.1 points on Q4.
 
 Me on 4/13: That was quick.
 
@@ -453,7 +457,9 @@ Me on 3/11: 13 problems?? In one week??
 
 #### Midterm 2 (on 4/8)
 
-**Score: TBA**.
+**Score: 67/100**.
+
+Me on 4/15: It's over...
 
 Me on 4/8: Ouch. That exam probably took the new lead for the hardest midterm I've taken. What even is this class anymore...? So there was a bonus question worth 15 points, so one could get at most a 115. But then there were like 55 points of insane integrals and like... what? Even my DRP mentor from last spring said he wasn't sure on those.
 
