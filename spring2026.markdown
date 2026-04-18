@@ -89,9 +89,15 @@ Me on 3/15: I'm ever so slightly worried since I haven't really been paying atte
 
 Me on 4/9: Bruh, I messed up... ok so the test wasn't impossible, but I did mess up some easy MCQ at the beginning, and worse than that was that I got stuck on the last problem and couldn't solve it. I was so upset... I'm definitely going to have to take the extra credit final exam, no doubt about that.
 
-#### Final Exam (on 4/28)
+#### Homework 6 (due 4/24)
+
+**In progress**.
+
+#### Final Exam (on 4/30)
 
 **TBA**.
+
+Me on 4/18: Moved from 4/28 to 4/30.
 
 
 ### CS 7634: AI Storytelling in Virtual Worlds
@@ -160,6 +166,8 @@ Me on 4/1: At least there's a grace period until 4/8.
 #### Project 2 Proposal Summaries (due 4/19)
 
 **In progress**.
+
+Me on 4/18: So one of my teammates finished their part, and I said that I'll take the other part, which I'll probably do tomorrow.
 
 
 ### CS 7637: Knowledge-Based AI
@@ -266,6 +274,16 @@ Me on 4/13: Starting today...
 Me on 4/9: Probably gonna start this over the weekend along with ISYE 6416 HW 9.
 
 Me on 4/8: Extended from 4/10 to 4/13.
+
+#### Homework 5 (due 4/20)
+
+**In progress**.
+
+Me on 4/18: Once again, the deadline was extended from 4/17 to 4/20.
+
+#### Final Project (due 4/24)
+
+**In progress**.
 
 
 ### ISYE 6416: Computational Statistics
@@ -462,6 +480,10 @@ Me on 3/11: 13 problems?? In one week??
 Me on 4/15: It's over...
 
 Me on 4/8: Ouch. That exam probably took the new lead for the hardest midterm I've taken. What even is this class anymore...? So there was a bonus question worth 15 points, so one could get at most a 115. But then there were like 55 points of insane integrals and like... what? Even my DRP mentor from last spring said he wasn't sure on those.
+
+#### Homework 5 (due 4/22)
+
+**In progress**.
 
 #### Final Exam (on 5/6)
 
