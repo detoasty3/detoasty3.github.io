@@ -85,7 +85,9 @@ Me on 3/15: I'm ever so slightly worried since I haven't really been paying atte
 
 #### Midterm 3 (on 4/9)
 
-**Score: TBA**.
+**Score: 26/30**.
+
+Me on 4/20: Dude they were so generous with the grading. It turns out that I only messed up two MCQ questions, and I only lost two points on the last problem. My score was even high enough for me to not have to take the final exam; A confirmed (unless I butcher Homework 6)!
 
 Me on 4/9: Bruh, I messed up... ok so the test wasn't impossible, but I did mess up some easy MCQ at the beginning, and worse than that was that I got stuck on the last problem and couldn't solve it. I was so upset... I'm definitely going to have to take the extra credit final exam, no doubt about that.
 
@@ -165,7 +167,9 @@ Me on 4/1: At least there's a grace period until 4/8.
 
 #### Project 2 Proposal Summaries (due 4/19)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 4/20: Not bad. I managed to finish it in the last hour before it was due.
 
 Me on 4/18: So one of my teammates finished their part, and I said that I'll take the other part, which I'll probably do tomorrow.
 
@@ -279,6 +283,8 @@ Me on 4/8: Extended from 4/10 to 4/13.
 
 **In progress**.
 
+Me on 4/20: Once again, I'm starting on the day of the deadline. This is also pretty lengthy...
+
 Me on 4/18: Once again, the deadline was extended from 4/17 to 4/20.
 
 #### Final Project (due 4/24)
@@ -291,7 +297,7 @@ TR 12:30-1:45
 
 Final exam period: R 5/7 11:20-2:10
 
-Final exam (25%), 2 midterms (25% each), 10-11 HWs (25%)
+Final exam (25%), 2 midterms (25% each), 11 HWs (25%)
 
 #### Homework 1 (due 1/27)
 
@@ -399,6 +405,12 @@ Me on 4/13: That was quick.
 
 #### Homework 10 (due 4/19)
 
+**Score: TBA**.
+
+Me on 4/20: I'm definitely less confident than I was for HW 7-9.
+
+#### Homework 11 (due 4/26)
+
 **In progress**.
 
 #### Final Exam (on 5/7)
@@ -411,7 +423,7 @@ MW 12:30-1:45
 
 Final exam period: W 5/6 11:20-2:10
 
-Final exam (30%), 2 midterms (20% each), 5-6 HWs (30%)
+Final exam (30%), 2 midterms (20% each), 5 HWs (30%)
 
 #### Homework 1 (due 1/28)
 
