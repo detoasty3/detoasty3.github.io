@@ -143,7 +143,7 @@ Me on 3/8: Starting now.
 
 Me on 3/7: This assignment is just giving peer feedback to three other teams' presentations, and this assignment is itself a group assignment.
 
-#### Project 1 Final Presentation (due 3/22)
+#### Project 1 Final Project (due 3/22)
 
 **Score: TBA**.
 
@@ -172,6 +172,10 @@ Me on 4/1: At least there's a grace period until 4/8.
 Me on 4/20: Not bad. I managed to finish it in the last hour before it was due.
 
 Me on 4/18: So one of my teammates finished their part, and I said that I'll take the other part, which I'll probably do tomorrow.
+
+#### Project 2 Final Project (due 5/3)
+
+**In progress**.
 
 
 ### CS 7637: Knowledge-Based AI
@@ -281,7 +285,9 @@ Me on 4/8: Extended from 4/10 to 4/13.
 
 #### Homework 5 (due 4/20)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 4/21: Man, that was long... at least I'm done now.
 
 Me on 4/20: Once again, I'm starting on the day of the deadline. This is also pretty lengthy...
 
