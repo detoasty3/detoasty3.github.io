@@ -265,7 +265,9 @@ Me on 3/15: So I actually spent quite a few hours yesterday working on this, and
 
 #### Homework 4 (due 4/6)
 
-**Score: TBA**.
+**Score: 90/100**.
+
+Me on 4/23: This was returned on 4/22. Another mediocre score on a homework assignment.
 
 Me on 4/6: Submitted yesterday.
 
@@ -273,7 +275,9 @@ Me on 4/4: Thankfully, this was extended from 4/3 to 4/6. I got a bit lazy this 
 
 #### Midterm 2 (due 4/13)
 
-**Score: TBA**.
+**Score: 70/100**.
+
+Me on 4/23: What...?
 
 Me on 4/15: Not as long as Midterm 1, I think.
 
@@ -411,7 +415,9 @@ Me on 4/13: That was quick.
 
 #### Homework 10 (due 4/19)
 
-**Score: TBA**.
+**Score: 10/10**.
+
+Me on 4/23: Phew. This was returned on 4/21.
 
 Me on 4/20: I'm definitely less confident than I was for HW 7-9.
 
@@ -493,7 +499,9 @@ Me on 3/11: 13 problems?? In one week??
 
 #### Midterm 2 (on 4/8)
 
-**Score: 67/100**.
+**Score: 69/100**.
+
+Me on 4/23: I haggled for two more points, bringing me from a 67 to a 69. The median was a 71, and the upper quartile was an 87.5. I hope he curves...
 
 Me on 4/15: It's over...
 
@@ -502,6 +510,8 @@ Me on 4/8: Ouch. That exam probably took the new lead for the hardest midterm I'
 #### Homework 5 (due 4/22)
 
 **In progress**.
+
+Me on 4/23: So I'm allowed to submit over the weekend, so I'll try to submit this on 4/26 instead.
 
 #### Final Exam (on 5/6)
 
