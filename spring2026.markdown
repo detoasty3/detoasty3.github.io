@@ -93,7 +93,9 @@ Me on 4/9: Bruh, I messed up... ok so the test wasn't impossible, but I did mess
 
 #### Homework 6 (due 4/24)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 4/24: Started today. Although I thought this was going to be a bit hard, it actually wasn't too bad. I should now be in the clear for an A even without the final exam, but I'll take it anyway just for fun.
 
 #### Final Exam (on 4/30)
 
@@ -275,7 +277,9 @@ Me on 4/4: Thankfully, this was extended from 4/3 to 4/6. I got a bit lazy this 
 
 #### Midterm 2 (due 4/13)
 
-**Score: 70/100**.
+**Score: 71/100**.
+
+Me on 4/24: Ok today I sent a big list of regrade requests. I managed to go from a 70 to a 71 so far, with Q1 and Q3 being reviewed and Q2 and Q4 left. I feel like they're still very stingy with the grading and won't budge because I didn't happen to provide answers that they were looking for. L graders.
 
 Me on 4/23: What...?
 
@@ -297,9 +301,11 @@ Me on 4/20: Once again, I'm starting on the day of the deadline. This is also pr
 
 Me on 4/18: Once again, the deadline was extended from 4/17 to 4/20.
 
-#### Final Project (due 4/24)
+#### Final Project (due 4/27)
 
 **In progress**.
+
+Me on 4/24: The good news is that yesterday, they extended the deadline from 4/24 to 4/27. So these past few days, I've been working on it, and I managed to go from a 28 on the autograder to an 82. I'm hoping to earn even more points, especially after bombing Exam 2...
 
 
 ### ISYE 6416: Computational Statistics
