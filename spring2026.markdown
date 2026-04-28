@@ -179,6 +179,14 @@ Me on 4/18: So one of my teammates finished their part, and I said that I'll tak
 
 **In progress**.
 
+#### Project 2 Final Project Summaries (due 5/6)
+
+**In progress**.
+
+#### Project 2 Self and Team Assessments (due 5/6)
+
+**In progress**.
+
 
 ### CS 7637: Knowledge-Based AI
 TR 3:30-4:45
@@ -303,7 +311,9 @@ Me on 4/18: Once again, the deadline was extended from 4/17 to 4/20.
 
 #### Final Project (due 4/27)
 
-**In progress**.
+**Score: 82/100 (Performance), TBA/100 (Journal)**.
+
+Me on 4/27: Ugh, writing up that journal was pretty tedious, but I'm finally done.
 
 Me on 4/26: Today, I used up my 100th and final submission, and my final autograder score is an 82, coincidentally on my 82nd submission. Now I just have the final journal left.
 
@@ -431,7 +441,7 @@ Me on 4/20: I'm definitely less confident than I was for HW 7-9.
 
 #### Homework 11 (due 4/26)
 
-**In progress**.
+**Score: TBA**.
 
 Me on 4/26: I turned this in yesterday. This was all coding, so I don't expect him to grade harshly (?).
 
@@ -520,6 +530,8 @@ Me on 4/8: Ouch. That exam probably took the new lead for the hardest midterm I'
 #### Homework 5 (due 4/22)
 
 **IScore: TBA**.
+
+Me on 4/27: In order, I did Q4, Q2, Q8, Q7, Q6, Q5, Q1, and Q3.
 
 Me on 4/26: This actually wasn't too bad, which was a pleasant surprise. There were eight problems, unlike the previous 12 and 13 problems for HW 3 and HW 4, respectively, and they generally weren't too hard.
 
@@ -652,7 +664,9 @@ Me on 4/8: That was actually not too bad. Though with harsh grading, I might sti
 
 #### Homework 5 (due 4/27)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 4/27: Just submitted. In order, I did Q2, Q3, Q4, Q1, and Q5. I feel ok about Q2, Q3, and Q4, a bit unsure about Q1, and VERY uncertain about Q5.
 
 Me on 4/26: Now that I'm done with MATH 6321 HW 5, I can finally start on this... and it's due tomorrow.
 
