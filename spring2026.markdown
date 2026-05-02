@@ -93,13 +93,17 @@ Me on 4/9: Bruh, I messed up... ok so the test wasn't impossible, but I did mess
 
 #### Homework 6 (due 4/24)
 
-**Score: TBA**.
+**Score: 20/20**.
+
+Me on 5/2: This was returned on 4/29. Nice score.
 
 Me on 4/24: Started today. Although I thought this was going to be a bit hard, it actually wasn't too bad. I should now be in the clear for an A even without the final exam, but I'll take it anyway just for fun.
 
 #### Final Exam (on 4/30)
 
-**TBA**.
+**Score: 19.67/25**.
+
+Me on 5/2: I forgot to talk about this, but I sped through this in 21 minutes and still got close to the upper quartile. Not bad. This also means that I have a confirmed A in the class (though I knew that as soon as my HW 6 grade came out)!
 
 Me on 4/18: Moved from 4/28 to 4/30.
 
@@ -674,4 +678,6 @@ Me on 4/13: This was released today and extended from 4/24 to 4/27.
 
 #### Final Exam (on 5/1)
 
-**TBA**.
+**Score: TBA**.
+
+Me on 5/2: Posted yesterday on my AoPS blog. I literally needed like a 35/60 on my final for an A, and I'm not even sure if I got that. RAHHHH
