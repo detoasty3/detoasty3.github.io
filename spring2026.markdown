@@ -535,7 +535,9 @@ Me on 4/8: Ouch. That exam probably took the new lead for the hardest midterm I'
 
 #### Homework 5 (due 4/22)
 
-**IScore: TBA**.
+**Score: 94/100**.
+
+Me on 5/3: Ah well, not the best HW grade... I lost 1 point on Q3 and 5 points on Q5.
 
 Me on 4/27: In order, I did Q4, Q2, Q8, Q7, Q6, Q5, Q1, and Q3.
 
