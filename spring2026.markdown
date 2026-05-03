@@ -289,7 +289,9 @@ Me on 4/4: Thankfully, this was extended from 4/3 to 4/6. I got a bit lazy this 
 
 #### Midterm 2 (due 4/13)
 
-**Score: 71/100**.
+**Score: 87/100**.
+
+Me on 5/3: Hallelujah! My grade went from a 71 to an 87 because one of the TAs stepped in and gave me full credit for Q2 and Q4. Thank you!!!
 
 Me on 4/24: Ok today I sent a big list of regrade requests. I managed to go from a 70 to a 71 so far, with Q1 and Q3 being reviewed and Q2 and Q4 left. I feel like they're still very stingy with the grading and won't budge because I didn't happen to provide answers that they were looking for. L graders.
 
