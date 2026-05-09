@@ -181,15 +181,21 @@ Me on 4/18: So one of my teammates finished their part, and I said that I'll tak
 
 #### Project 2 Final Project (due 5/3)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 5/9: All I did was copy the Project 2 Proposal Presentation and added a few slides to it. Thankfully, my groupmates were cool with that.
 
 #### Project 2 Final Project Summaries (due 5/6)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 5/9: Easy.
 
 #### Project 2 Self and Team Assessments (due 5/6)
 
-**In progress**.
+**Score: TBA**.
+
+Me on 5/9: Easy.
 
 
 ### CS 7637: Knowledge-Based AI
@@ -307,7 +313,9 @@ Me on 4/8: Extended from 4/10 to 4/13.
 
 #### Homework 5 (due 4/20)
 
-**Score: TBA**.
+**Score: 87/100**.
+
+Me on 5/9: This was handed back on 5/5. I'm pretty sure that we were promised a bonus for doing the extra parts, but I didn't earn that. It doesn't matter at this point, though.
 
 Me on 4/21: Man, that was long... at least I'm done now.
 
@@ -317,7 +325,9 @@ Me on 4/18: Once again, the deadline was extended from 4/17 to 4/20.
 
 #### Final Project (due 4/27)
 
-**Score: 82/100 (Performance), TBA/100 (Journal)**.
+**Score: 82/100 (Performance), 94/100 (Journal)**.
+
+Me on 5/9: This was handed back on 5/4. I'm fairly satisfied with my grade.
 
 Me on 4/27: Ugh, writing up that journal was pretty tedious, but I'm finally done.
 
@@ -447,13 +457,17 @@ Me on 4/20: I'm definitely less confident than I was for HW 7-9.
 
 #### Homework 11 (due 4/26)
 
-**Score: TBA**.
+**Score: 10/10**.
+
+Me on 5/9: This was graded on 5/5. Nice.
 
 Me on 4/26: I turned this in yesterday. This was all coding, so I don't expect him to grade harshly (?).
 
 #### Final Exam (on 5/7)
 
-**TBA**.
+**Score: TBA**.
+
+Me on 5/9: Unlike Midterm 2, this did not have any curveball questions, and most of them were very similar to the questions on the practice final exam. Furthermore, we were allowed to have six double-sided pages of cheat sheets, and I was thankfully pretty thorough when making those. I think that I need an 84 on this for an A, but we'll see what happens.
 
 
 ### MATH 6321: Functions of a Complex Variable I
@@ -547,7 +561,9 @@ Me on 4/23: So I'm allowed to submit over the weekend, so I'll try to submit thi
 
 #### Final Exam (on 5/6)
 
-**TBA**.
+**Score: 100/100**.
+
+Me on 5/9: I had some stuff today, but in short, this was a lot easier than Midterm 2 and even Midterm 1. I'm very happy with my performance, but I still ended up with an 89.76% for my final course grade. However, I asked the instructor, and he said that he would round it up to an A!!! This was graded yesterday.
 
 
 ### MATH 6455: Differential Geometry I
@@ -683,5 +699,7 @@ Me on 4/13: This was released today and extended from 4/24 to 4/27.
 #### Final Exam (on 5/1)
 
 **Score: TBA**.
+
+Me on 5/9: Ugh... this still hasn't been returned yet...
 
 Me on 5/2: Posted yesterday on my AoPS blog. I literally needed like a 35/60 on my final for an A, and I'm not even sure if I got that. RAHHHH
