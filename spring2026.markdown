@@ -151,7 +151,7 @@ Me on 3/7: This assignment is just giving peer feedback to three other teams' pr
 
 #### Project 1 Final Project (due 3/22)
 
-**Score: TBA**.
+**Score: Never returned**.
 
 Me on 3/21: My two partners basically carried. I was about to contribute to the presentation, but one of my partners suddenly said in the group chat that they finished recording it and submitted it to Canvas. Nice work, team!
 
@@ -159,13 +159,13 @@ Me on 3/15: Today was the first day where our group chat asked if we wanted to s
 
 #### Project 1 Self and Team Assessments (due 4/5)
 
-**Score: TBA**.
+**Score: 5/5**.
 
 Me on 4/1: Just a quick evaluation on how you and your teammates did.
 
 #### Project 2 Proposal Presentation ("due" 4/5, due 4/8)
 
-**Score: TBA**.
+**Score: Never returned**.
 
 Me on 4/9: Apparently one of our group members clutched the grace period deadline. Good going!
 
@@ -173,7 +173,7 @@ Me on 4/1: At least there's a grace period until 4/8.
 
 #### Project 2 Proposal Summaries (due 4/19)
 
-**Score: TBA**.
+**Score: Never returned**.
 
 Me on 4/20: Not bad. I managed to finish it in the last hour before it was due.
 
@@ -181,19 +181,23 @@ Me on 4/18: So one of my teammates finished their part, and I said that I'll tak
 
 #### Project 2 Final Project (due 5/3)
 
-**Score: TBA**.
+**Score: Never returned**.
 
 Me on 5/9: All I did was copy the Project 2 Proposal Presentation and added a few slides to it. Thankfully, my groupmates were cool with that.
 
 #### Project 2 Final Project Summaries (due 5/6)
 
-**Score: TBA**.
+**Score: 4.4/5**.
+
+Me on 5/13: This was returned on 5/13.
 
 Me on 5/9: Easy.
 
 #### Project 2 Self and Team Assessments (due 5/6)
 
-**Score: TBA**.
+**Score: 5/5**.
+
+Me on 5/13: This was returned on 5/13.
 
 Me on 5/9: Easy.
 
@@ -465,7 +469,9 @@ Me on 4/26: I turned this in yesterday. This was all coding, so I don't expect h
 
 #### Final Exam (on 5/7)
 
-**Score: TBA**.
+**Score: Never returned**.
+
+Me on 5/13: Unfortunately, this was never returned, but I'm happy to say that I ended up with an A in the class!
 
 Me on 5/9: Unlike Midterm 2, this did not have any curveball questions, and most of them were very similar to the questions on the practice final exam. Furthermore, we were allowed to have six double-sided pages of cheat sheets, and I was thankfully pretty thorough when making those. I think that I need an 84 on this for an A, but we'll see what happens.
 
@@ -688,7 +694,9 @@ Me on 4/8: That was actually not too bad. Though with harsh grading, I might sti
 
 #### Homework 5 (due 4/27)
 
-**Score: TBA**.
+**Score: 13/20**.
+
+Me on 5/13: This was returned on 5/10. Yeah, I expected a 14/20, but I got a 1/4 on Q2 instead of a 2/4...
 
 Me on 4/27: Just submitted. In order, I did Q2, Q3, Q4, Q1, and Q5. I feel ok about Q2, Q3, and Q4, a bit unsure about Q1, and VERY uncertain about Q5.
 
@@ -698,7 +706,9 @@ Me on 4/13: This was released today and extended from 4/24 to 4/27.
 
 #### Final Exam (on 5/1)
 
-**Score: TBA**.
+**Score: 40.5/60**.
+
+Me on 5/13: This was returned on 5/10. Yeah, not the best score, but I'll take it, because I ended up with an A in the class!!!
 
 Me on 5/9: Ugh... this still hasn't been returned yet...
 
