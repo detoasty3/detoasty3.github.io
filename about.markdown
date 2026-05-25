@@ -20,7 +20,7 @@ You can find the source code for Jekyll at GitHub:
 About Me
 =================
 
-Hello! My name is Taiki Aiba, a first-year master's student at the Georgia Institute of Technology. I am expected to graduate in May 2027 with the following: <!-- I am double majoring in Computer Science, with a specialization in Machine Learning, and Mathematics. -->
+Hello! My name is Taiki Aiba, a second-year master's student at the Georgia Institute of Technology. I am expected to graduate in May 2027 with the following: <!-- I am double majoring in Computer Science, with a specialization in Machine Learning, and Mathematics. -->
 
 * Master of Science in Computer Science, specialization in Machine Learning
 * Master of Science in Mathematics
