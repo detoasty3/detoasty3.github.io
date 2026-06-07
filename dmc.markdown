@@ -18,7 +18,7 @@ The DMC (De Mathematics Competitions) is a nonprofit organization, established i
 *   [pandabearcat](https://artofproblemsolving.com/community/user/pandabearcat)
 *   [pog](https://artofproblemsolving.com/community/user/pog)
 
-Our YouTube channel may be accessed [here](https://www.youtube.com/channel/UCITvK5mD17KYe6RbkGwKllw). The DMC Committee will mostly use this for posting video solutions to past DMC problems, but we are open to any other video suggestions, which may be sent to DeToasty3 at [taikiaiba@gmail.com](mailto:taikiaiba@gmail.com) or [pog](https://artofproblemsolving.com/community/user/pog) in a private message on Art of Problem Solving.
+Our YouTube channel may be accessed [here](https://www.youtube.com/channel/UCITvK5mD17KYe6RbkGwKllw). The DMC Committee will mostly use this for posting video solutions to past DMC problems, but we are open to any other video suggestions, which may be sent to DeToasty3 at [taikiaiba@outlook.com](mailto:taikiaiba@outlook.com) or [pog](https://artofproblemsolving.com/community/user/pog) in a private message on Art of Problem Solving.
 
 <p style="margin-bottom: 15px;"></p>
 
@@ -29,7 +29,7 @@ Our YouTube channel may be accessed [here](https://www.youtube.com/channel/UCITv
 DMC Tutoring
 ================
 
-In April 2025, DMC launched their competition math tutoring service and has been helping students prepare for the AMCs, MATHCOUNTS, and other contests. If you are a parent who would like their child to receive tutoring for math contests, please reach out to DeToasty3 at [taikiaiba@gmail.com](mailto:taikiaiba@gmail.com).
+In April 2025, DMC launched their competition math tutoring service and has been helping students prepare for the AMCs, MATHCOUNTS, and other contests. If you are a parent who would like their child to receive tutoring for math contests, please reach out to DeToasty3 at [taikiaiba@outlook.com](mailto:taikiaiba@outlook.com).
 
 Note that this is a paid service; pay rates will be negotiated during an initial meeting and will start after a free trial tutoring session.
 
