@@ -32,7 +32,7 @@ I also graduated from the Georgia Institute of Technology in August 2025 with th
 * Bachelor of Science in Applied Languages and Intercultural Studies, concentration in Japanese
 * Minor in Economics
 
-Additionally, I completed software engineering internships at Amazon, Capital One, and IBM, was a TA for multivariable calculus, discrete math, and algorithms, and was the president of UMAC and an officer of JSA.
+Additionally, I completed internships at Amazon, Capital One, and IBM, was a TA for multivariable calculus, discrete math, and algorithms, and was the president of UMAC and an officer of JSA.
 
 My research interests lie in graph theory, combinatorics, and theoretical computer science. I am currently doing research under Dr. Ernie Croot from the School of Mathematics on 4-cycle-free induced subgraphs in grid graphs. I also participated in the Polymath Jr REU, where I studied the game of EvenQuads using affine geometry under Dr. Timothy Goldberg and Dr. Lauren Rose.
 
