@@ -54,6 +54,7 @@ permalink: /courses
 * MATH 1564: Linear Algebra with Abstract Vector Spaces (Fall 2022)
 
 #### Japanese:
+* *JAPN 8803: Introduction to Japanese Literature and Culture (Fall 2026)
 * *JAPN 6080: Japanese Applied Linguistics for Graduate Students (Fall 2025)
 * *JAPN 8803: Critical Reading of Japanese Culture and Arts (Fall 2025)
 * JAPN 3692: Business Japanese (Summer 2025)
