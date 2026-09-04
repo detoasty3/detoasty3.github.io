@@ -24,7 +24,7 @@ Hello! I'm Taiki, a Computer Science and Mathematics double master's at the Geor
 * Toasty's Problem Stash - where I will occasionally post a math problem that I wrote
 * DMC - the home page for the De Mathematics Competitions
 * KMMC - the home page for the Karate Masters Mathematics Competitions (defunct)
-* KMMC 2 - the home page for the Karate Masters Mathematics Competitions 2
+* KMMC 2 - the home page for the Karate Masters Mathematics Competitions 2 (defunct)
 * DMC Archives - the AoPS collection for all past DMC competitions
 
 If you would like to contact me, feel free to reach out to me via email at <taikiaiba@outlook.com>. <!-- Additionally, here is my [resume](/Resume.pdf). -->
