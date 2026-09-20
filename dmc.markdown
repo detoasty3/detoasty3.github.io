@@ -12,7 +12,7 @@ What is the DMC?
 ================
 
 
-The DMC (De Mathematics Competitions) is a nonprofit organization, established in September 2020 and led by [DeToasty3](https://artofproblemsolving.com/community/user/DeToasty3), that makes mock contests for the AMCs and MATHCOUNTS. Along with [ALP](https://alpmathprogram.repl.co/), DMC created ADMC in 2021, an original contest with prizes and sponsors.
+The DMC (De Mathematics Competitions) is a nonprofit organization, established in September 2020 and led by [DeToasty3](https://artofproblemsolving.com/community/user/DeToasty3), that makes mock contests for the AMC, MATHCOUNTS, and HMMT. Along with [ALP](https://alpmathprogram.repl.co/), DMC created ADMC in 2021, an original contest with prizes and sponsors.
 
 *   [DeToasty3](https://artofproblemsolving.com/community/user/DeToasty3)
 *   [pandabearcat](https://artofproblemsolving.com/community/user/pandabearcat)

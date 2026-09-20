@@ -23,6 +23,7 @@ Hello! I'm Taiki, a Computer Science and Mathematics double master's at the Geor
 * College Courses - a list of courses I've taken in college
 * Toasty's Problem Stash - where I will occasionally post a math problem that I wrote
 * DMC - the home page for the De Mathematics Competitions
+* JMC - the home page for the July/January Mathematics Competitions
 * KMMC - the home page for the Karate Masters Mathematics Competitions (defunct)
 * KMMC 2 - the home page for the Karate Masters Mathematics Competitions 2
 * DMC Archives - the AoPS collection for all past DMC competitions
