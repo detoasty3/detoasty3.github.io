@@ -5,7 +5,7 @@ permalink: /jmc
 ---
 
 
-<img src="JMC_logo.png" alt="DMC Logo" height="50%" width="50%" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="JMC_logo.png" alt="DMC Logo" height="25%" width="25%" style="display: block; margin-left: auto; margin-right: auto;">
 
 
 What is the JMC?
