@@ -48,7 +48,25 @@ Past DMC Contests
 2026-2027 Season
 ----------------
 
-To be announced.
+#### DIME I - September 25, 2026 to January 1, 2027
+
+*   Logistics: TBA
+*   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
+*   Papers:
+    *   [DIME I Paper](https://detoasty3.github.io/DMC/2026-2027/2027_DIME_I.pdf)
+
+#### DIME II - September 25, 2026 to January 1, 2027
+
+*   Logistics: TBA
+*   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
+*   Papers:
+    *   [DIME II Paper](https://detoasty3.github.io/DMC/2026-2027/2027_DIME_II.pdf)
+
+#### DIME III - A compilation of past DMC problems
+
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3435141)
+*   Papers:
+    *   [DIME III Paper](https://detoasty3.github.io/DMC/2026-2027/2027_DIME_III.pdf)
 
 2025-2026 Season
 ----------------
