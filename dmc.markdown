@@ -48,6 +48,30 @@ Past DMC Contests
 2026-2027 Season
 ----------------
 
+#### DMC 10 - October ?, 2026 to November 16, 2026
+
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
+*   Papers:
+    *   [DMC 10 Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_10.pdf)
+
+#### DMC 12 - October ?, 2026 to November 16, 2026
+
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
+*   Papers:
+    *   [DMC 12 Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_12.pdf)
+
+#### DMC 10S - A compilation of past DMC problems
+
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
+*   Papers:
+    *   [DMC 10S Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_10S.pdf)
+
+#### DMC 12S - A compilation of past DMC problems
+
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
+*   Papers:
+    *   [DMC 12S Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_12S.pdf)
+
 #### DIME I - September 25, 2026 to January 1, 2027
 
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
