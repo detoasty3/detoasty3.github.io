@@ -33,7 +33,7 @@ In April 2025, DMC launched their competition math tutoring service and has been
 
 Note that this is a paid service; pay rates will be negotiated during an initial meeting and will start after a free trial tutoring session.
 
-**Update:** As of right now, we have reached capacity.
+**Update:** As of right now, we only have availability for one more student.
 
 
 <p style="margin-bottom: 15px;"></p>
