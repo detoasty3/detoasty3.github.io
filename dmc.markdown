@@ -48,14 +48,14 @@ Past DMC Contests
 2026-2027 Season
 ----------------
 
-#### DMC 10 - October ?, 2026 to November 16, 2026
+#### DMC 10 - September 30, 2026 to November 14, 2026
 
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
 *   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
 *   Papers:
     *   [DMC 10 Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_10.pdf)
 
-#### DMC 12 - October ?, 2026 to November 16, 2026
+#### DMC 12 - September 30, 2026 to November 14, 2026
 
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
 *   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
