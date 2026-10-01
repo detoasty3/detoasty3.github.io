@@ -76,6 +76,8 @@ Past DMC Contests
 *   Papers:
     *   [DIME II Paper](https://detoasty3.github.io/DMC/2026-2027/2027_DIME_II.pdf)
 
+### Additional Sample Tests
+
 #### DMC 10S - A compilation of past DMC problems
 
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
