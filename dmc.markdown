@@ -62,14 +62,14 @@ Past DMC Contests
 *   Papers:
     *   [DMC 12 Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_12.pdf)
 
-#### DIME I - September 25, 2026 to January 1, 2027
+#### DIME I - September 25, 2026 to January 29, 2027
 
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
 *   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
 *   Papers:
     *   [DIME I Paper](https://detoasty3.github.io/DMC/2026-2027/2027_DIME_I.pdf)
 
-#### DIME II - September 25, 2026 to January 1, 2027
+#### DIME II - September 25, 2026 to January 29, 2027
 
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
 *   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
