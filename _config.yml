@@ -28,6 +28,10 @@ url: "https://detoasty3.github.io" # the base hostname & protocol for your site,
 linkedin_username: taiba3
 github_username: detoasty3
 
+# Set this to the shortname of the Disqus site to enable comments on posts.
+disqus:
+  shortname:
+
 # Build settings
 theme: minima
 plugins:
