@@ -1,5 +1,9 @@
 # detoasty3.github.io
 
+## Writing a blog post
+
+Open the site's **Write a new post** link from the blog page, enter a title, publication date, and Markdown content, then download the generated post file. Add that file to `_posts/` and push the change to GitHub to publish it. The editor runs in the browser and does not need repository credentials.
+
 ## Importing a blog post from Google Docs
 
 1. In Google Docs, share the document with **Anyone with the link** and set access to **Viewer**.

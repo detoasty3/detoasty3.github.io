@@ -132,6 +132,17 @@ table td { border: 1px solid #e8e8e8; }
 .post-content h4 { font-size: 20px; }
 @media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
 
+.post-composer-link, .post-composer button { display: inline-block; border: 0; border-radius: 4px; padding: 10px 16px; color: #fff; background: #2a7ae2; font: inherit; cursor: pointer; }
+.post-composer-link:visited { color: #fff; }
+.post-composer-link:hover, .post-composer button:hover { color: #fff; background: #1756a9; text-decoration: none; }
+.post-composer { max-width: 720px; }
+.post-composer label { display: block; margin: 16px 0 5px; font-weight: 600; }
+.post-composer input, .post-composer textarea { box-sizing: border-box; width: 100%; padding: 9px; border: 1px solid #bbb; border-radius: 4px; font: inherit; }
+.post-composer textarea { resize: vertical; }
+.post-composer-filename { margin: 16px 0; }
+.post-composer-preview { margin-top: 20px; }
+.post-composer-preview pre { white-space: pre-wrap; overflow-wrap: anywhere; }
+
 /** Syntax highlighting styles */
 .highlight { background: #fff; }
 .highlighter-rouge .highlight { background: #eef; }
