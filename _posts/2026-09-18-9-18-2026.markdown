@@ -1,0 +1,12 @@
+---
+layout: post
+title: "9/18/2026"
+date: 2026-09-18
+categories: blog
+---
+
+Today, I took the GRE math subject test for the second time (also without studying). The good news is that unlike the first time, I actually answered every question. The bad news is that I still can't do calculus or linear algebra. For a good number of the problems, I was able to solve them even without knowing the intended solution, which felt nice.
+
+IBM is starting to ramp up slightly. I got my second task, and I had a meeting with a team member who had several requested changes for my first task.
+
+DIME I and II are REALLY done now; the reason they weren't yesterday is because I tried one of the middle problems and realized how annoying it was, so I replaced it with a much better problem and spent several hours rearranging the problems between the two tests. Of course, I'll still wait a few more weeks (?) before releasing them, in case any testsolvers have time to testsolve.

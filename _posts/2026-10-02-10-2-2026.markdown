@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First public blog post since 2022"
+title:  "10/2/2026"
 date:   2026-10-02
 categories: blog
 ---
