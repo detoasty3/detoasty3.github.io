@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "10/3/2026"
+title:  "New blog"
 date:   2026-10-03
 categories: blog
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9/18/2026"
+title: "GRE and stuff"
 date: 2026-09-18
 categories: blog
 ---

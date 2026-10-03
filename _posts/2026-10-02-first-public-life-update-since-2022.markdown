@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "10/2/2026"
+title:  "First public life update since 2022"
 date:   2026-10-02
 categories: blog
 ---

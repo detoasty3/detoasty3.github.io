@@ -1,0 +1,10 @@
+---
+layout: post
+title: "SWE Stuff"
+date: 2026-09-16
+categories: blog
+---
+
+Two days into week 3 at IBM. Yesterday, I got sick and took a remote day. I decided to ask the co-intern if there was anything that I could do, and so I finally got my first task. I struggled for a bit because of a setting that I thought I couldn't control, but it turned out I could use a third option that worked. Today, I was still sick, but I went to the office.
+
+Now that I got my return offer from Capital One, I am not going to apply anywhere else, and I don't know if I'd take a return offer from IBM over Capital One. But maybe I would. Also, I refound an interest in writing mock contests, so I might just apply for AoPS or math PhD instead. But I do want to do SWE for at least a year to see if that opinion changes.
