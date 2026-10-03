@@ -8,6 +8,8 @@ permalink: /blog
 
 This is where I share writing, notes, and ideas from my work and research.
 
+<p><a class="post-composer-link" href="{{ '/write' | relative_url }}">Write a new post</a></p>
+
 <p style="margin-bottom: 20px;"></p>
 
 {% for post in site.posts %}
