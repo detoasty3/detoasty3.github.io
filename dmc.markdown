@@ -20,7 +20,7 @@ The DMC (De Mathematics Competitions) is a nonprofit organization, established i
 
 Our YouTube channel may be accessed [here](https://www.youtube.com/channel/UCITvK5mD17KYe6RbkGwKllw). The DMC Committee will mostly use this for posting video solutions to past DMC problems, but we are open to any other video suggestions, which may be sent to DeToasty3 at [taikiaiba@outlook.com](mailto:taikiaiba@outlook.com) or [pog](https://artofproblemsolving.com/community/user/pog) in a private message on Art of Problem Solving.
 
-The DMC Archives contains the problem threads for all of our mock contests and may be accessed [here](https://artofproblemsolving.com/community/c2332005).
+The DMC Archives contains the forums for all of our mock contests and may be accessed [here](https://artofproblemsolving.com/community/c2332005).
 
 <p style="margin-bottom: 15px;"></p>
 
