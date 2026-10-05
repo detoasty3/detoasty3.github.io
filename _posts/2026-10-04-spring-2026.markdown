@@ -5,7 +5,7 @@ date:   2026-10-04
 categories: blog
 ---
 
-Here are excerpts from my Spring 2026 college semester. At the end of this heavy semester, I managed to get A's in all seven of my classes. My closest A was definitely MATH 6321, where my 89.76% was rounded up. Overall, I enjoyed this semester, and my classes were mostly interesting (shoutout to MATH 7018).
+Here are excerpts from my Spring 2026 college semester. At the end of this somewhat heavy semester, I managed to get A's in all seven of my classes. My closest A was definitely MATH 6321, where my 89.76% was rounded up. Overall, I enjoyed this semester, and my classes were mostly interesting (shoutout to MATH 7018).
 
 ### CS 6515: Introduction to Graduate Algorithms
 TR 2:00-3:15
