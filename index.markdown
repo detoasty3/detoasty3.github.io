@@ -19,7 +19,6 @@ permalink: /
 Hello! I'm Taiki, a Computer Science and Mathematics double master's at the Georgia Institute of Technology. This website contains a few pages:
 
 * About Me - background about me
-* Blog - notes, ideas, and writing from my work and research
 <!-- * Resume - a link to my resume -->
 * College Courses - a list of courses I've taken in college
 * Toasty's Problem Stash - where I will occasionally post a math problem that I wrote
