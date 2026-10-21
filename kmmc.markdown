@@ -14,7 +14,7 @@ What is the KMMC?
 
 The KMMC (Karate Masters Mathematics Competitions) was a nonprofit organization, established in November 2020 and led by [DeToasty3](https://artofproblemsolving.com/communtiy/user/DeToasty3), dedicated to the Art of Problem Solving user [karate7800](https://artofproblemsolving.com/community/user/karate7800), that made mock contests for the AMCs.
 
-*   [bobthegod78](https://artofproblemsolving.com/community/user/bobthegod78)
+<!-- *   [bobthegod78](https://artofproblemsolving.com/community/user/bobthegod78)
 *   [dc495](https://artofproblemsolving.com/community/user/dc495)
 *   [DeToasty3](https://artofproblemsolving.com/community/user/DeToasty3)
 *   [HrishiP](https://artofproblemsolving.com/community/user/HrishiP)
@@ -25,7 +25,7 @@ The KMMC (Karate Masters Mathematics Competitions) was a nonprofit organization,
 *   [PhunsukhWangdu](https://artofproblemsolving.com/community/user/PhunsukhWangdu)
 *   [pog](https://artofproblemsolving.com/community/user/pog)
 *   [stayhomedomath](https://artofproblemsolving.com/community/user/stayhomedomath)
-*   [treemath](https://artofproblemsolving.com/community/user/treemath)
+*   [treemath](https://artofproblemsolving.com/community/user/treemath) -->
 
 <p style="margin-bottom: 15px;"></p>
 

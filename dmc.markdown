@@ -14,13 +14,13 @@ What is the DMC?
 
 The DMC (De Mathematics Competitions) is a nonprofit organization, established in September 2020 and led by [DeToasty3](https://artofproblemsolving.com/community/user/DeToasty3), that makes mock contests for the AMC, MATHCOUNTS, and HMMT. Along with [ALP](https://alpmathprogram.repl.co/), DMC created ADMC in 2021, an original contest with prizes and sponsors.
 
-*   [DeToasty3](https://artofproblemsolving.com/community/user/DeToasty3)
+<!-- *   [DeToasty3](https://artofproblemsolving.com/community/user/DeToasty3)
 *   [pandabearcat](https://artofproblemsolving.com/community/user/pandabearcat)
-*   [pog](https://artofproblemsolving.com/community/user/pog)
+*   [pog](https://artofproblemsolving.com/community/user/pog) -->
 
 Our YouTube channel may be accessed [here](https://www.youtube.com/channel/UCITvK5mD17KYe6RbkGwKllw). The DMC Committee will mostly use this for posting video solutions to past DMC problems, but we are open to any other video suggestions, which may be sent to DeToasty3 at [taikiaiba@outlook.com](mailto:taikiaiba@outlook.com) or [pog](https://artofproblemsolving.com/community/user/pog) in a private message on Art of Problem Solving.
 
-The DMC Archives contains the forums for all of our mock contests and may be accessed [here](https://artofproblemsolving.com/community/c2332005).
+The DMC Archives contains the forums for all of our mock contests and may be accessed [here](https://artofproblemsolving.com/community/c2332005). Also, the DMC Community Discord server is where you can discuss the DMC contests and anything you want and may be accessed [here](https://discord.gg/wWeezXSAn7).
 
 <p style="margin-bottom: 15px;"></p>
 
@@ -50,19 +50,33 @@ Past DMC Contests
 2026-2027 Season
 ----------------
 
-#### DMC 10 - September 30, 2026 to November 14, 2026
+#### DMC 10A - September 30, 2026 to November 14, 2026
 
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
 *   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
 *   Papers:
-    *   [DMC 10 Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_10.pdf)
+    *   [DMC 10A Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_10A.pdf)
 
-#### DMC 12 - September 30, 2026 to November 14, 2026
+#### DMC 12A - September 30, 2026 to November 14, 2026
 
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
 *   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
 *   Papers:
-    *   [DMC 12 Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_12.pdf)
+    *   [DMC 12A Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_12A.pdf)
+
+#### DMC 10B - October 23, 2026 to November 14, 2026
+
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
+*   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
+*   Papers:
+    *   [DMC 10B Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_10B.pdf)
+
+#### DMC 12B - October 23, 2026 to November 14, 2026
+
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
+*   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
+*   Papers:
+    *   [DMC 12B Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_12B.pdf)
 
 #### DIME I - September 25, 2026 to January 29, 2027
 
