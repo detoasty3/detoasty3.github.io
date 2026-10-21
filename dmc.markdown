@@ -50,21 +50,21 @@ Past DMC Contests
 2026-2027 Season
 ----------------
 
-#### DMC 10A - September 30, 2026 to November 14, 2026
+#### DMC 10 - September 30, 2026 to November 14, 2026
 
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
 *   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
 *   Papers:
-    *   [DMC 10A Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_10A.pdf)
+    *   [DMC 10 Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_10.pdf)
 
-#### DMC 12A - September 30, 2026 to November 14, 2026
+#### DMC 12 - September 30, 2026 to November 14, 2026
 
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
 *   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
 *   Papers:
-    *   [DMC 12A Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_12A.pdf)
+    *   [DMC 12 Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_12.pdf)
 
-#### DMC 10B - October 23, 2026 to November 14, 2026
+<!-- #### DMC 10B - October 23, 2026 to November 14, 2026
 
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
 *   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
@@ -76,7 +76,7 @@ Past DMC Contests
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3908365)
 *   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5100758)
 *   Papers:
-    *   [DMC 12B Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_12B.pdf)
+    *   [DMC 12B Paper](https://detoasty3.github.io/DMC/2026-2027/2026_DMC_12B.pdf) -->
 
 #### DIME I - September 25, 2026 to January 29, 2027
 
