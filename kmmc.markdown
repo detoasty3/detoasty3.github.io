@@ -66,6 +66,9 @@ There were no contests this season.
 
 There were no contests this season.
 
+2021-2022 Season
+----------------
+
 #### KMMC 8A - September 9, 2021 to October 28, 2021
 
 *   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h2664119)
@@ -97,7 +100,6 @@ There were no contests this season.
 *   Papers:
     *   [KMMC 10 Paper](https://detoasty3.github.io/KMMC/2021-2022/2021_Fall_KMMC_10.pdf)
     *   [KMMC 10 Solutions](https://detoasty3.github.io/KMMC/2021-2022/2021_Fall_KMMC_10_Solutions.pdf)
-
 
 2020-2021 Season
 ----------------
