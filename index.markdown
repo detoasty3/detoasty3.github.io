@@ -24,8 +24,8 @@ Hello! I'm Taiki, a Computer Science and Mathematics double master's at the Geor
 * Toasty's Problem Stash - where I will occasionally post a math problem that I wrote
 * Blog - my blog, where I talk about my work and research
 * DMC - the home page for the De Mathematics Competitions
+* KMMC - the home page for the Karate Masters Mathematics Competitions
 * JMC - the home page for the July/January Mathematics Competitions
-* KMMC - the home page for the Karate Masters Mathematics Competitions (defunct)
 * KMMC 2 - the home page for the Karate Masters Mathematics Competitions 2 (defunct)
 <!-- * DMC Archives - the AoPS collection for all past DMC competitions -->
 
