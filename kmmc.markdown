@@ -41,7 +41,7 @@ Past KMMC Contests
 
 #### KMMC 10 - November 1, 2026 to November 15, 2026
 
-*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c5h3929909)
+*   Logistics: [AoPS Announcement Post](https://artofproblemsolving.com/community/c594864h3929909)
 *   Forum: [AoPS Discussion Forum](https://artofproblemsolving.com/community/c5177014)
 *   Papers:
     *   [KMMC 10 Paper](https://detoasty3.github.io/KMMC/2026-2027/2026_KMMC_10.pdf)
