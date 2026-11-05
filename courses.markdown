@@ -8,7 +8,31 @@ permalink: /courses
 
 ### Georgia Institute of Technology
 
+#### Mathematics:
+* *MATH 6338: Real Analysis II (Spring 2027)
+* *MATH 7339: Advanced Analysis (Spring 2027)
+* *MATH 6321: Functions of a Complex Variable I (Spring 2026)
+* *MATH 6455: Differential Geometry I (Spring 2026)
+* *MATH 7018: Probabilistic Methods in Combinatorics (Spring 2026)
+* *MATH 6121: Modern Abstract Algebra I (Fall 2025)
+* *MATH 7014: Advanced Graph Theory (Spring 2025)
+* *MATH 7016: Combinatorics (Spring 2025)
+* *MATH 6014: Graph Theory and Combinatorial Structures (Fall 2024)
+* *MATH 7012: Enumerative Combinatorics (Fall 2024)
+* MATH 3236: Statistical Theory (Spring 2024)
+* MATH 4032: Combinatorial Analysis (Spring 2024)
+* MATH 4320: Complex Analysis (Spring 2024)
+* MATH 4022: Introduction to Graph Theory (Fall 2023)
+* MATH 4107: Introduction to Abstract Algebra I (Summer 2023)
+* MATH 3406: A Second Course in Linear Algebra (Spring 2023)
+* MATH 4317: Analysis I (Spring 2023)
+* MATH 1564: Linear Algebra with Abstract Vector Spaces (Fall 2022)
+
 #### Computer Science & Engineering:
+* *CS 6460: Educational Technology: Conceptual Foundations (Spring 2027)
+* *CS 7530: Randomized Algorithms (Spring 2027)
+* *CS 8803: Program Analysis for SciComp (Spring 2027)
+* *CSE 6242: Data and Visual Analytics (Spring 2027)
 * *CS 6515: Introduction to Graduate Algorithms (Spring 2026)
 * *CS 7634: AI Storytelling in Virtual Worlds (Spring 2026)
 * *CS 7637: Knowledge-Based AI (Spring 2026)
@@ -34,24 +58,6 @@ permalink: /courses
 * CS 1332: Data Structures and Algorithms in Applications (Spring 2023)
 * CS 2110: Computer Organization and Programming (Spring 2023)
 * CS 1331: Introduction to Object-Oriented Programming (Fall 2022)
-
-#### Mathematics:
-* *MATH 6321: Functions of a Complex Variable I (Spring 2026)
-* *MATH 6455: Differential Geometry I (Spring 2026)
-* *MATH 7018: Probabilistic Methods in Combinatorics (Spring 2026)
-* *MATH 6121: Modern Abstract Algebra I (Fall 2025)
-* *MATH 7014: Advanced Graph Theory (Spring 2025)
-* *MATH 7016: Combinatorics (Spring 2025)
-* *MATH 6014: Graph Theory and Combinatorial Structures (Fall 2024)
-* *MATH 7012: Enumerative Combinatorics (Fall 2024)
-* MATH 3236: Statistical Theory (Spring 2024)
-* MATH 4032: Combinatorial Analysis (Spring 2024)
-* MATH 4320: Complex Analysis (Spring 2024)
-* MATH 4022: Introduction to Graph Theory (Fall 2023)
-* MATH 4107: Introduction to Abstract Algebra I (Summer 2023)
-* MATH 3406: A Second Course in Linear Algebra (Spring 2023)
-* MATH 4317: Analysis I (Spring 2023)
-* MATH 1564: Linear Algebra with Abstract Vector Spaces (Fall 2022)
 
 #### Japanese:
 * *JAPN 8803: Introduction to Japanese Literature and Culture (Fall 2026)
@@ -83,6 +89,7 @@ permalink: /courses
 * MGT 3300: Marketing Management I (Summer 2024)
 
 #### Other:
+* *CS 8997: Teaching Assistantship (Spring 2027)
 * *CS 8997: Teaching Assistantship (Fall 2025)
 * CS 3312: Project Implementation (Fall 2024)
 * LMC 3431: Technical Communication Approaches (Fall 2024)
@@ -101,17 +108,17 @@ permalink: /courses
 
 ### University of Illinois Urbana-Champaign
 
-#### Computer Science & Engineering:
-* CS 128: Introduction to Computer Science II (Spring 2022)
-* CS 173: Discrete Structures (Spring 2022)
-* CS 124: Introduction to Computer Science I (Fall 2021)
-
 #### Mathematics:
 * MATH 441: Differential Equations (Academic Year 2021-22)
 * MATH 453: Number Theory (Academic Year 2021-22)
 * MATH 347H: Fundamental Mathematics, Honors (Spring 2022)
 * MATH 461: Probability Theory (Spring 2022)
 * MATH 241H: Calculus III, Honors (Fall 2021)
+
+#### Computer Science & Engineering:
+* CS 128: Introduction to Computer Science II (Spring 2022)
+* CS 173: Discrete Structures (Spring 2022)
+* CS 124: Introduction to Computer Science I (Fall 2021)
 
 #### Japanese:
 * JAPN 306: Advanced Japanese II (Spring 2022)
