@@ -8,11 +8,17 @@ categories: blog
 I just finished Week 10 of 16 of my SWE internship. I guess things are starting to wrap up a bit, both with this internship and my Japanese class (almost 100% gonna get an A). As for whether I get a return offer, I'm actually not too sure, but I already have a return offer from my summer SWE internship, so it's all good. I also registered for my Spring 2027 college classes:
 
 CS 6460 - Educational Technology
+
 CS 7530 - Randomized Algos
+
 CS 8803 - Program Analysis
+
 CS 8997 - Teaching Assistant
+
 CSE 6242 - Data/Visual Analytics
+
 MATH 6338 - Real Analysis II
+
 MATH 7339 - Advanced Analysis
 
 My reasons for taking each class: CS 6460 and CS 7530 are due to Bimikel, CS 8803 is due to both the instructor and another friend taking the class, CSE 6242 is an ML requirement that should be easy, MATH 6338 is a requirement, and MATH 7339 is an elective that goes along with MATH 6338.
