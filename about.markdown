@@ -22,13 +22,13 @@ About Me
 
 Hello! My name is Taiki Aiba, a second-year master's student at the Georgia Institute of Technology. I am expected to graduate in May 2027 with the following: <!-- I am double majoring in Computer Science, with a specialization in Machine Learning, and Mathematics. -->
 
-* Master of Science in Computer Science, specialization in Machine Learning
 * Master of Science in Mathematics
+* Master of Science in Computer Science, specialization in Machine Learning
 
 I also graduated from the Georgia Institute of Technology in August 2025 with the following: <!-- in August 2025. Mathematics, with concentrations in Discrete Mathematics and Business, and Applied Languages and Intercultural Studies, with a concentration in Japanese. I also finished a minor in Economics. --> <!-- with a triple bachelor's degree with a minor -->
 
-* Bachelor of Science in Computer Science, concentrations in Intelligence and Systems/Architecture
 * Bachelor of Science in Mathematics, concentrations in Discrete Mathematics and Business
+* Bachelor of Science in Computer Science, concentrations in Intelligence and Systems/Architecture
 * Bachelor of Science in Applied Languages and Intercultural Studies, concentration in Japanese
 * Minor in Economics
 

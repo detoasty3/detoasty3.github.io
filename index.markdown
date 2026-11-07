@@ -16,7 +16,7 @@ permalink: /
 
 <!-- I am a very sad subpar specimen of a college student whose only interests lie in watching anime and playing video games. I have approximately as many friends as I have brain cells, and would love nothing more than just spending all my days not doing excessively difficult math competitions and instead playing Kirby Super Star. -->
 
-Hello! I'm Taiki, a Computer Science and Mathematics double master's at the Georgia Institute of Technology. This website contains a few pages:
+Hello! I'm Taiki, a Mathematics and Computer Science double master's at the Georgia Institute of Technology. This website contains a few pages:
 
 * About Me - background about me
 <!-- * Resume - a link to my resume -->
@@ -25,8 +25,8 @@ Hello! I'm Taiki, a Computer Science and Mathematics double master's at the Geor
 * Blog - my blog, where I talk about my work and research
 * DMC - the home page for the De Mathematics Competitions
 * KMMC - the home page for the Karate Masters Mathematics Competitions
-* JMC - the home page for the July/January Mathematics Competitions
 * KMMC 2 - the home page for the Karate Masters Mathematics Competitions 2 (defunct)
+* JMC - the home page for the July/January Mathematics Competitions
 <!-- * DMC Archives - the AoPS collection for all past DMC competitions -->
 
 If you would like to contact me, feel free to reach out to me via email at <taikiaiba@outlook.com>. <!-- Additionally, here is my [resume](/Resume.pdf). -->
